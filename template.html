@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pokemon</title>
+    <meta name="viewport" content="width=device-width" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/awsm.css/dist/awsm_theme_black.min.css"
+      media="(prefers-color-scheme: dark)"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/awsm.css/dist/awsm_theme_white.min.css"
+      media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+    />
+    <style>
+      body > header {
+        margin-bottom: 1em;
+      }
+      .autoComplete_wrapper,
+      #autoComplete {
+        width: 100%;
+      }
+      #result {
+        text-align: center;
+        margin-bottom: 1em;
+      }
+      .right {
+        color: green;
+      }
+      .right:after {
+        content: " ✅";
+      }
+      .wrong {
+        color: red;
+      }
+      #autoComplete {
+        width: 100%;
+      }
+      ul#guesses {
+        list-style: none;
+        padding-left: 0;
+      }
+      ul#guesses li {
+        margin-bottom: 0.5em;
+        margin-top: 1em;
+      }
+      ul#guesses li p {
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Guess the Film</h1>
+    </header>
+    <main></main>
+  </body>
+</html>

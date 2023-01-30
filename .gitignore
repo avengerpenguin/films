@@ -1,0 +1,6 @@
+.direnv
+.idea
+.ipynb_checkpoints
+node_modules
+*.tsv
+venv
