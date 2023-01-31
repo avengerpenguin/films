@@ -23,7 +23,7 @@ const today =
 const corpus = await require("./films.json");
 const labels = Object.keys(corpus);
 
-const answer = labels[(parseInt(md5(today), 16) % labels.length) - 1];
+const answer = labels[parseInt(md5(today), 16) % labels.length];
 
 function highlight(guessInfo, answerInfo) {
   if (Array.isArray(answerInfo)) {
