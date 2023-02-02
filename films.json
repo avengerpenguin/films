@@ -48,6 +48,7 @@
       "gender role",
       "intergenerational conflict",
       "love",
+      "modernity",
       "revolution",
       "technology",
       "working conditions"
@@ -241,6 +242,7 @@
       "drama",
       "family",
       "fantasy",
+      "film based on literature",
       "flashback",
       "romantic comedy"
     ]
@@ -279,7 +281,13 @@
     "decade": "1940s",
     "actors": ["Bruce Bennett", "Humphrey Bogart", "Tim Holt", "Walter Huston"],
     "directors": ["John Huston"],
-    "genres": ["adventure", "drama", "treasure hunt", "western"],
+    "genres": [
+      "adventure",
+      "drama",
+      "film based on literature",
+      "treasure hunt",
+      "western"
+    ],
     "subjects": ["capital punishment"]
   },
   "The Third Man (1949)": {
@@ -303,7 +311,7 @@
     "decade": "1950s",
     "actors": ["Anne Baxter", "Bette Davis", "Celeste Holm", "George Sanders"],
     "directors": ["Joseph L. Mankiewicz"],
-    "genres": ["comedy", "drama"]
+    "genres": ["comedy", "drama", "film based on literature"]
   },
   "Rashomon (1950)": {
     "title": "Rashomon",
@@ -316,7 +324,14 @@
       "Toshir\u00f4 Mifune"
     ],
     "directors": ["Akira Kurosawa"],
-    "genres": ["crime", "drama", "flashback", "mystery", "samurai cinema"],
+    "genres": [
+      "crime",
+      "drama",
+      "film based on literature",
+      "flashback",
+      "mystery",
+      "samurai cinema"
+    ],
     "subjects": [
       "crime",
       "honor",
@@ -410,7 +425,14 @@
       "Robert Cummings"
     ],
     "directors": ["Alfred Hitchcock"],
-    "genres": ["crime", "crime thriller", "detective", "mystery", "thriller"],
+    "genres": [
+      "crime",
+      "crime thriller",
+      "detective",
+      "film based on literature",
+      "mystery",
+      "thriller"
+    ],
     "subjects": ["capital punishment"]
   },
   "On the Waterfront (1954)": {
@@ -432,7 +454,13 @@
       "Wendell Corey"
     ],
     "directors": ["Alfred Hitchcock"],
-    "genres": ["crime", "detective", "mystery", "thriller"]
+    "genres": [
+      "crime",
+      "detective",
+      "film based on literature",
+      "mystery",
+      "thriller"
+    ]
   },
   "Seven Samurai (1954)": {
     "title": "Seven Samurai",
@@ -452,8 +480,8 @@
     "imdb": "tt0050083",
     "decade": "1950s",
     "actors": ["Henry Fonda", "John Fiedler", "Lee J. Cobb", "Martin Balsam"],
-    "genres": ["crime", "drama", "trial"],
-    "subjects": ["capital punishment", "distinction"]
+    "genres": ["crime", "drama", "Huis clos", "trial"],
+    "subjects": ["capital punishment", "distinction", "jury trial"]
   },
   "The Bridge on the River Kwai (1957)": {
     "title": "The Bridge on the River Kwai",
@@ -480,7 +508,7 @@
       "Ralph Meeker"
     ],
     "directors": ["Stanley Kubrick"],
-    "genres": ["anti-war", "drama", "trial", "war"],
+    "genres": ["anti-war", "drama", "film based on literature", "trial", "war"],
     "subjects": [
       "capital punishment",
       "death anxiety",
@@ -655,7 +683,13 @@
       "Patricia Neal"
     ],
     "directors": ["Blake Edwards"],
-    "genres": ["comedy", "drama", "romance", "romantic comedy"]
+    "genres": [
+      "comedy",
+      "drama",
+      "film based on literature",
+      "romance",
+      "romantic comedy"
+    ]
   },
   "West Side Story (1961)": {
     "title": "West Side Story",
@@ -723,6 +757,7 @@
     ],
     "subjects": [
       "Arab Revolt",
+      "assassin",
       "Battle of Aqaba",
       "cultural identity",
       "grandiose delusions",
@@ -856,7 +891,7 @@
       "Wolfgang Lukschy"
     ],
     "directors": ["Monte Hellman"],
-    "genres": ["action", "drama", "spaghetti western", "Western", "western"],
+    "genres": ["action", "drama", "spaghetti western", "western", "Western"],
     "subjects": ["amorality", "enmity", "rootlessness"]
   },
   "For a Few Dollars More (1965)": {
@@ -869,7 +904,7 @@
       "Lee Van Cleef",
       "Mara Krupp"
     ],
-    "genres": ["spaghetti western", "western", "Western"]
+    "genres": ["spaghetti western", "Western", "western"]
   },
   "The Sound of Music (1965)": {
     "title": "The Sound of Music",
@@ -996,6 +1031,7 @@
     "genres": [
       "adventure",
       "epic",
+      "film based on literature",
       "mystery",
       "sci-fi",
       "speculative/fantastic fiction",
@@ -1055,7 +1091,8 @@
       "erotic thriller",
       "film based on a novel",
       "horror",
-      "psychological horror"
+      "psychological horror",
+      "Satanic"
     ]
   },
   "Butch Cassidy and the Sundance Kid (1969)": {
@@ -1211,7 +1248,7 @@
     "decade": "1970s",
     "actors": ["Ellen Burstyn", "Lee J. Cobb", "Linda Blair", "Max von Sydow"],
     "directors": ["William Friedkin"],
-    "genres": ["film based on a novel", "horror"],
+    "genres": ["film based on a novel", "horror", "Satanic"],
     "subjects": ["exorcism"]
   },
   "Papillon (1973)": {
@@ -1273,7 +1310,7 @@
       "Harvey Korman",
       "Slim Pickens"
     ],
-    "genres": ["comedy", "western", "Western"]
+    "genres": ["comedy", "Western", "western"]
   },
   "Chinatown (1974)": {
     "title": "Chinatown",
@@ -1513,7 +1550,7 @@
     "imdb": "tt0075005",
     "decade": "1970s",
     "actors": ["David Warner", "Gregory Peck", "Harvey Stephens", "Lee Remick"],
-    "genres": ["horror", "mystery", "thriller"],
+    "genres": ["horror", "mystery", "Satanic", "thriller"],
     "subjects": [
       "adoption",
       "Catholicism",
@@ -1689,6 +1726,7 @@
       "Robert Duvall"
     ],
     "directors": ["Francis Ford Coppola"],
+    "genres": ["drama", "film based on literature", "mystery", "war"],
     "subjects": ["Vietnam War"]
   },
   "Escape from Alcatraz (1979)": {
@@ -1832,7 +1870,7 @@
       "Robbi Morgan"
     ],
     "genres": ["horror", "mystery", "slasher", "splatter", "thriller"],
-    "subjects": ["negligent supervision", "revenge"]
+    "subjects": ["death of one's child", "negligent supervision", "revenge"]
   },
   "Raging Bull (1980)": {
     "title": "Raging Bull",
@@ -1901,7 +1939,7 @@
       "Max von Sydow",
       "Sandahl Bergman"
     ],
-    "genres": ["action", "adventure", "fantasy"]
+    "genres": ["action", "adventure", "fantasy", "film based on literature"]
   },
   "Escape from New York (1981)": {
     "title": "Escape from New York",
@@ -1984,6 +2022,7 @@
       "empathy",
       "family",
       "friendship",
+      "homeland",
       "homesickness",
       "sibling relationship"
     ]
@@ -2100,7 +2139,13 @@
       "Wilford Brimley"
     ],
     "directors": ["John Carpenter"],
-    "genres": ["drama", "horror", "mystery", "sci-fi"],
+    "genres": [
+      "drama",
+      "film based on literature",
+      "horror",
+      "mystery",
+      "sci-fi"
+    ],
     "subjects": ["alien invasion"]
   },
   "A Christmas Story (1983)": {
@@ -2114,7 +2159,7 @@
       "Scott Schwartz"
     ],
     "directors": ["Bob Clark"],
-    "genres": ["comedy", "family"]
+    "genres": ["comedy", "family", "film based on literature"]
   },
   "Monty Python's The Meaning of Life (1983)": {
     "title": "Monty Python's The Meaning of Life",
@@ -2411,7 +2456,13 @@
       "Sylvester Stallone"
     ],
     "directors": ["George P. Cosmatos"],
-    "genres": ["action", "adventure", "drama", "thriller"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "film based on literature",
+      "thriller"
+    ],
     "subjects": ["Cold War"]
   },
   "Ran (1985)": {
@@ -2495,7 +2546,14 @@
     "decade": "1980s",
     "actors": ["Geena Davis", "Jeff Goldblum", "John Getz", "Joy Boushel"],
     "directors": ["David Cronenberg"],
-    "genres": ["drama", "horror", "monster", "romance", "sci-fi"],
+    "genres": [
+      "drama",
+      "film based on literature",
+      "horror",
+      "monster",
+      "romance",
+      "sci-fi"
+    ],
     "subjects": ["mad scientist"]
   },
   "Highlander (1986)": {
@@ -2543,7 +2601,13 @@
       "Wil Wheaton"
     ],
     "directors": ["Rob Reiner"],
-    "genres": ["adventure", "comedy", "drama", "teen"],
+    "genres": [
+      "adventure",
+      "comedy",
+      "drama",
+      "film based on literature",
+      "teen"
+    ],
     "subjects": [
       "dysfunctional family",
       "friendship",
@@ -2927,6 +2991,7 @@
     "genres": [
       "action",
       "dystopian",
+      "film based on literature",
       "horror",
       "sci-fi",
       "science fiction action",
@@ -3073,7 +3138,7 @@
       "Ruth Nelson"
     ],
     "directors": ["Alain Cuniot"],
-    "genres": ["biography", "drama"],
+    "genres": ["biography", "drama", "film based on literature"],
     "subjects": ["von Economo's disease"]
   },
   "Dances with Wolves (1990)": {
@@ -3091,8 +3156,8 @@
       "adventure",
       "drama",
       "film based on a novel",
-      "Western",
-      "western"
+      "western",
+      "Western"
     ]
   },
   "Die Hard 2 (1990)": {
@@ -3289,6 +3354,7 @@
       "action",
       "adventure",
       "dystopian",
+      "film based on literature",
       "sci-fi",
       "speculative/fantastic fiction"
     ],
@@ -3652,7 +3718,7 @@
       "Richard Harris"
     ],
     "directors": ["Clint Eastwood"],
-    "genres": ["crime", "drama", "Western", "western"],
+    "genres": ["crime", "drama", "western", "Western"],
     "subjects": ["drama"]
   },
   "Wayne's World (1992)": {
@@ -4094,7 +4160,7 @@
     "decade": "1990s",
     "actors": ["Aidan Quinn", "Anthony Hopkins", "Brad Pitt", "Julia Ormond"],
     "directors": ["Edward Zwick"],
-    "genres": ["drama", "romance", "war", "Western"]
+    "genres": ["drama", "film based on literature", "romance", "war", "Western"]
   },
   "L\u00e9on: The Professional (1994)": {
     "title": "L\u00e9on: The Professional",
@@ -4176,7 +4242,7 @@
     "imdb": "tt0111161",
     "decade": "1990s",
     "actors": ["Bob Gunton", "Morgan Freeman", "Tim Robbins", "William Sadler"],
-    "genres": ["buddy", "crime", "drama", "prison"],
+    "genres": ["buddy", "crime", "drama", "film based on literature", "prison"],
     "subjects": [
       "abuse of power",
       "corruption",
@@ -4257,7 +4323,7 @@
       "Miriam Margolyes"
     ],
     "directors": ["Chris Noonan"],
-    "genres": ["comedy", "drama", "family"]
+    "genres": ["comedy", "drama", "family", "film based on literature"]
   },
   "Bad Boys (1995)": {
     "title": "Bad Boys",
@@ -4291,7 +4357,14 @@
       "Marilyn Sokol"
     ],
     "directors": ["Scott Kalvert"],
-    "genres": ["biographical", "biography", "crime", "drama", "teen"],
+    "genres": [
+      "biographical",
+      "biography",
+      "crime",
+      "drama",
+      "film based on literature",
+      "teen"
+    ],
     "subjects": ["heroin", "non-controlled substance abuse"]
   },
   "Batman Forever (1995)": {
@@ -4417,7 +4490,7 @@
     ],
     "directors": ["Robert Rodriguez"],
     "genres": ["action", "crime", "neo-western", "thriller", "vigilante"],
-    "subjects": ["revenge"]
+    "subjects": ["Mexican cartel", "revenge"]
   },
   "Die Hard with a Vengeance (1995)": {
     "title": "Die Hard with a Vengeance",
@@ -5132,6 +5205,7 @@
     ],
     "genres": ["drama", "film based on a novel", "mystery", "sci-fi"],
     "subjects": [
+      "communication with extraterrestrial intelligence",
       "faith",
       "first contact fiction",
       "relationship between religion and science",
@@ -5180,6 +5254,7 @@
       "film based on a novel",
       "horror",
       "mystery",
+      "Satanic",
       "thriller"
     ]
   },
@@ -5540,7 +5615,7 @@
     "imdb": "tt0120382",
     "decade": "1990s",
     "actors": ["Ed Harris", "Jim Carrey", "Laura Linney", "Noah Emmerich"],
-    "genres": ["comedy", "drama", "dystopian"],
+    "genres": ["comedy", "drama", "dystopian", "dystopian fiction"],
     "subjects": ["reality television"]
   },
   "The Waterboy (1998)": {
@@ -5678,7 +5753,14 @@
     "decade": "1990s",
     "actors": ["Nicole Kidman", "Sydney Pollack", "Todd Field", "Tom Cruise"],
     "directors": ["Stanley Kubrick"],
-    "genres": ["drama", "erotic", "erotic thriller", "mystery", "thriller"],
+    "genres": [
+      "drama",
+      "erotic",
+      "erotic thriller",
+      "film based on literature",
+      "mystery",
+      "thriller"
+    ],
     "subjects": ["adultery", "human sexuality"]
   },
   "Fantastic Four (2005)": {
@@ -5713,14 +5795,14 @@
       "comedy drama",
       "drama"
     ],
-    "subjects": ["psychedelic experience"]
+    "subjects": ["psychedelic experience", "recreational drug use"]
   },
   "From Hell (2001)": {
     "title": "From Hell",
     "imdb": "tt0120681",
     "decade": "2000s",
     "actors": ["Heather Graham", "Ian Holm", "Johnny Depp", "Robbie Coltrane"],
-    "directors": ["Albert Hughes"],
+    "directors": ["Albert Hughes", "Allen Hughes"],
     "genres": [
       "crime",
       "crime thriller",
@@ -6160,7 +6242,13 @@
     "imdb": "tt0128853",
     "decade": "1990s",
     "actors": ["Greg Kinnear", "Meg Ryan", "Parker Posey", "Tom Hanks"],
-    "genres": ["comedy", "drama", "romance", "romantic comedy"],
+    "genres": [
+      "comedy",
+      "drama",
+      "film based on literature",
+      "romance",
+      "romantic comedy"
+    ],
     "subjects": ["computing"]
   },
   "The Iron Giant (1999)": {
@@ -6274,6 +6362,7 @@
     "subjects": [
       "abuse of power",
       "film industry",
+      "film trilogy",
       "revenge",
       "serial killer",
       "slasher film",
@@ -6574,7 +6663,14 @@
       "Kevin Pollak",
       "Robin Tunney"
     ],
-    "genres": ["action", "dystopian", "fantasy", "horror", "thriller"]
+    "genres": [
+      "action",
+      "dystopian",
+      "fantasy",
+      "horror",
+      "Satanic",
+      "thriller"
+    ]
   },
   "Any Given Sunday (1999)": {
     "title": "Any Given Sunday",
@@ -6669,7 +6765,7 @@
       "Kirsten Dunst"
     ],
     "directors": ["Sofia Coppola"],
-    "genres": ["drama", "romance", "teen"],
+    "genres": ["drama", "film based on literature", "romance", "teen"],
     "subjects": ["suicide"]
   },
   "Cold Mountain (2003)": {
@@ -6738,7 +6834,15 @@
       "Michael Gambon",
       "Miranda Richardson"
     ],
-    "genres": ["fantasy", "ghost", "gothic", "horror", "mystery", "slasher"],
+    "genres": [
+      "fantasy",
+      "film based on literature",
+      "ghost",
+      "gothic",
+      "horror",
+      "mystery",
+      "slasher"
+    ],
     "subjects": [
       "criminal investigation",
       "rationality",
@@ -6841,6 +6945,7 @@
       "identity",
       "liberty",
       "necessity",
+      "oneirism",
       "personal identity",
       "self-concept"
     ]
@@ -6978,7 +7083,12 @@
       "Winona Ryder"
     ],
     "directors": ["James Mangold"],
-    "genres": ["biographical", "biography", "drama"],
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "film based on literature"
+    ],
     "subjects": ["borderline personality disorder"]
   },
   "Gladiator (2000)": {
@@ -7083,7 +7193,14 @@
       "Tom Cruise"
     ],
     "directors": ["Steven Spielberg"],
-    "genres": ["action", "crime", "dystopian", "mystery", "thriller"],
+    "genres": [
+      "action",
+      "crime",
+      "dystopian",
+      "film based on literature",
+      "mystery",
+      "thriller"
+    ],
     "subjects": ["criminal investigation"]
   },
   "Terminator 3: Rise of the Machines (2003)": {
@@ -7096,6 +7213,7 @@
       "Kristanna Loken",
       "Nick Stahl"
     ],
+    "genres": ["action", "apocalyptic", "sci-fi"],
     "subjects": ["cybernetic revolt", "time travel"]
   },
   "Traffic (2000)": {
@@ -7130,7 +7248,7 @@
     "decade": "1990s",
     "actors": ["Embeth Davidtz", "Oliver Platt", "Robin Williams", "Sam Neill"],
     "directors": ["Chris Columbus"],
-    "genres": ["children's", "drama", "sci-fi"],
+    "genres": ["children's", "drama", "film based on literature", "sci-fi"],
     "subjects": ["conformity", "slavery"]
   },
   "Me, Myself & Irene (2000)": {
@@ -7289,7 +7407,7 @@
       "road movie",
       "treasure hunt"
     ],
-    "subjects": ["Great Depression", "Ku Klux Klan", "siren"]
+    "subjects": ["errantry", "Great Depression", "Ku Klux Klan", "siren"]
   },
   "Erin Brockovich (2000)": {
     "title": "Erin Brockovich",
@@ -7436,6 +7554,7 @@
     "genres": [
       "crime",
       "drama",
+      "film based on literature",
       "film noir",
       "flashback",
       "horror",
@@ -7515,7 +7634,7 @@
       "Sam Robards"
     ],
     "directors": ["Steven Spielberg"],
-    "genres": ["drama", "sci-fi"]
+    "genres": ["drama", "film based on literature", "sci-fi"]
   },
   "Hannibal (2001)": {
     "title": "Hannibal",
@@ -7943,7 +8062,8 @@
       "gender role",
       "parental death",
       "self-discovery",
-      "stereotype"
+      "stereotype",
+      "toxic masculinity"
     ]
   },
   "Legally Blonde (2001)": {
@@ -8183,7 +8303,12 @@
     ],
     "directors": ["Joel Zwick"],
     "genres": ["comedy", "drama", "romance", "romantic comedy"],
-    "subjects": ["family", "Greek American", "romance"]
+    "subjects": [
+      "family",
+      "Greek American",
+      "intercultural marriage",
+      "romance"
+    ]
   },
   "Vanilla Sky (2001)": {
     "title": "Vanilla Sky",
@@ -8218,7 +8343,8 @@
       "Patricia Belcher"
     ],
     "directors": ["Victor Salva"],
-    "genres": ["horror", "monster", "mystery", "slasher", "teen"]
+    "genres": ["horror", "monster", "mystery", "slasher", "teen"],
+    "subjects": ["corporeality"]
   },
   "Catch Me If You Can (2002)": {
     "title": "Catch Me If You Can",
@@ -8382,7 +8508,13 @@
     "decade": "2000s",
     "actors": ["Guy Pearce", "Mark Addy", "Phyllida Law", "Yancey Arias"],
     "directors": ["Simon Wells"],
-    "genres": ["action", "adventure", "dystopian", "sci-fi"],
+    "genres": [
+      "action",
+      "adventure",
+      "dystopian",
+      "film based on literature",
+      "sci-fi"
+    ],
     "subjects": ["time travel"]
   },
   "A Beautiful Mind (2001)": {
@@ -8558,7 +8690,7 @@
     ],
     "directors": ["Robert Rodriguez"],
     "genres": ["action", "crime", "neo-western", "thriller"],
-    "subjects": ["revenge"]
+    "subjects": ["Mexican cartel", "revenge"]
   },
   "Signs (2002)": {
     "title": "Signs",
@@ -8875,7 +9007,14 @@
     "decade": "2000s",
     "actors": ["Brian Cox", "David Dorfman", "Martin Henderson", "Naomi Watts"],
     "directors": ["Gore Verbinski"],
-    "genres": ["ghost", "horror", "mystery", "psychological horror", "thriller"]
+    "genres": [
+      "film based on literature",
+      "ghost",
+      "horror",
+      "mystery",
+      "psychological horror",
+      "thriller"
+    ]
   },
   "8 Mile (2002)": {
     "title": "8 Mile",
@@ -9070,6 +9209,7 @@
     "genres": [
       "action",
       "adventure",
+      "alternate history",
       "fantasy",
       "science fiction action",
       "steampunk",
@@ -9181,7 +9321,7 @@
       "Phellipe Haagensen"
     ],
     "directors": ["Fernando Meirelles"],
-    "genres": ["crime", "drama", "hood"],
+    "genres": ["crime", "drama", "film based on literature", "hood"],
     "subjects": ["drug-related crime", "favela", "violence"]
   },
   "The Italian Job (2003)": {
@@ -9243,6 +9383,7 @@
     "decade": "2000s",
     "actors": ["Dash Mihok", "Dennis Quaid", "Emmy Rossum", "Jake Gyllenhaal"],
     "directors": ["Roland Emmerich"],
+    "genres": ["action", "adventure", "apocalyptic", "sci-fi"],
     "subjects": ["extreme weather", "global cooling"]
   },
   "Elf (2003)": {
@@ -9592,6 +9733,7 @@
       "conflict management",
       "Memory erasure",
       "recollection",
+      "relationship conflict",
       "romance"
     ]
   },
@@ -9682,7 +9824,8 @@
       "comedy",
       "drama",
       "family",
-      "fantasy"
+      "fantasy",
+      "film based on literature"
     ]
   },
   "Monster (2003)": {
@@ -9737,7 +9880,13 @@
       "Will Smith"
     ],
     "directors": ["Alex Proyas"],
-    "genres": ["action", "dystopian", "mystery", "sci-fi"],
+    "genres": [
+      "action",
+      "dystopian",
+      "film based on literature",
+      "mystery",
+      "sci-fi"
+    ],
     "subjects": ["cybernetic revolt"]
   },
   "Alexander (2004)": {
@@ -9854,7 +10003,7 @@
       "Scott Mechlowicz",
       "Travis Wester"
     ],
-    "directors": ["Alec Berg", "David Mandel"],
+    "directors": ["Alec Berg", "David Mandel", "Jeff Schaffer"],
     "genres": ["comedy", "teen"]
   },
   "Mr. & Mrs. Smith (2005)": {
@@ -9924,7 +10073,13 @@
     "decade": "2010s",
     "actors": ["Ben Stiller", "Jon Daly", "Kathryn Hahn", "Kristen Wiig"],
     "directors": ["Ben Stiller"],
-    "genres": ["adventure", "comedy", "drama", "fantasy"]
+    "genres": [
+      "adventure",
+      "comedy",
+      "drama",
+      "fantasy",
+      "film based on literature"
+    ]
   },
   "Constantine (2005)": {
     "title": "Constantine",
@@ -9937,8 +10092,8 @@
       "Shia LaBeouf"
     ],
     "directors": ["Francis Lawrence"],
-    "genres": ["action", "drama", "fantasy", "horror", "superhero"],
-    "subjects": ["exorcism", "smoking"]
+    "genres": ["action", "drama", "fantasy", "horror", "Satanic", "superhero"],
+    "subjects": ["exorcism", "Satanic film", "smoking"]
   },
   "King Kong (2005)": {
     "title": "King Kong",
@@ -9959,7 +10114,7 @@
     "decade": "2000s",
     "actors": ["Brad Pitt", "Diane Kruger", "Eli Roth", "M\u00e9lanie Laurent"],
     "directors": ["Quentin Tarantino"],
-    "genres": ["adventure", "drama", "parody", "war"],
+    "genres": ["adventure", "alternate history", "drama", "parody", "war"],
     "subjects": ["revenge", "World War II"]
   },
   "The Machinist (2004)": {
@@ -10027,8 +10182,20 @@
       "Ulrich Matthes"
     ],
     "directors": ["Oliver Hirschbiegel"],
-    "genres": ["biographical", "biography", "drama", "historical", "history"],
-    "subjects": ["Battle of Berlin", "death of Adolf Hitler", "World War II"]
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "film based on literature",
+      "historical",
+      "history"
+    ],
+    "subjects": [
+      "Battle of Berlin",
+      "death of Adolf Hitler",
+      "defeat",
+      "World War II"
+    ]
   },
   "Dawn of the Dead (2004)": {
     "title": "Dawn of the Dead",
@@ -10044,7 +10211,13 @@
     "decade": "2000s",
     "actors": ["John Turturro", "Johnny Depp", "Maria Bello", "Timothy Hutton"],
     "directors": ["David Koepp"],
-    "genres": ["drama", "horror", "mystery", "thriller"]
+    "genres": [
+      "drama",
+      "film based on literature",
+      "horror",
+      "mystery",
+      "thriller"
+    ]
   },
   "Oldboy (2003)": {
     "title": "Oldboy",
@@ -10574,7 +10747,13 @@
     "decade": "2000s",
     "actors": ["Ben Foster", "Christian Bale", "Logan Lerman", "Russell Crowe"],
     "directors": ["James Mangold"],
-    "genres": ["action", "crime", "drama", "Western"]
+    "genres": [
+      "action",
+      "crime",
+      "drama",
+      "film based on literature",
+      "Western"
+    ]
   },
   "The Da Vinci Code (2006)": {
     "title": "The Da Vinci Code",
@@ -10658,7 +10837,7 @@
       "Melissa George",
       "Ryan Reynolds"
     ],
-    "genres": ["ghost", "horror"]
+    "genres": ["film based on literature", "ghost", "horror"]
   },
   "Green Street (2005)": {
     "title": "Green Street",
@@ -10906,7 +11085,7 @@
     "decade": "2000s",
     "actors": ["Ken Watanabe", "Michelle Yeoh", "Suzuka Ohgo", "Ziyi Zhang"],
     "directors": ["Rob Marshall"],
-    "genres": ["drama", "romance"]
+    "genres": ["drama", "film based on literature", "romance"]
   },
   "The Longest Yard (2005)": {
     "title": "The Longest Yard",
@@ -10937,6 +11116,7 @@
       "crime thriller",
       "detective",
       "drama",
+      "film based on literature",
       "thriller"
     ],
     "subjects": ["organized crime"]
@@ -11200,6 +11380,7 @@
     "directors": ["Zack Snyder"],
     "genres": [
       "action",
+      "alternate history",
       "drama",
       "dystopian",
       "mystery",
@@ -11222,6 +11403,7 @@
     "genres": [
       "action",
       "alien invasion",
+      "film based on literature",
       "sci-fi",
       "speculative/fantastic fiction",
       "thriller",
@@ -11506,7 +11688,7 @@
     "decade": "2000s",
     "actors": ["Brad Pitt", "Cate Blanchett", "Julia Ormond", "Tilda Swinton"],
     "directors": ["David Fincher"],
-    "genres": ["drama", "fantasy", "romance"],
+    "genres": ["drama", "fantasy", "film based on literature", "romance"],
     "subjects": ["World War II"]
   },
   "Marie Antoinette (2006)": {
@@ -11520,7 +11702,13 @@
       "Steve Coogan"
     ],
     "directors": ["Sofia Coppola"],
-    "genres": ["biographical", "biography", "drama", "history"],
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "film based on literature",
+      "history"
+    ],
     "subjects": ["Marie Antoinette"]
   },
   "Hard Candy (2005)": {
@@ -11758,7 +11946,7 @@
     "imdb": "tt0433362",
     "decade": "2000s",
     "actors": ["Ethan Hawke", "Harriet Minto-Day", "Sam Neill", "Willem Dafoe"],
-    "directors": ["Peter Spierig"],
+    "directors": ["Michael Spierig", "Peter Spierig"],
     "genres": ["action", "dystopian", "horror", "sci-fi", "vampire"]
   },
   "Just Friends (2005)": {
@@ -11833,7 +12021,7 @@
       "Nicolas Cage",
       "Thomas Kretschmann"
     ],
-    "genres": ["action", "sci-fi", "thriller"],
+    "genres": ["action", "film based on literature", "sci-fi", "thriller"],
     "subjects": ["destiny", "observer effect"]
   },
   "The Queen (2006)": {
@@ -11968,6 +12156,7 @@
     "genres": [
       "drama",
       "fantasy",
+      "film based on literature",
       "melodrama",
       "mystery",
       "mysticism",
@@ -12211,13 +12400,14 @@
     "genres": [
       "drama",
       "fantasy",
+      "film based on literature",
       "ghost",
       "horror",
       "mystery",
       "psychological horror",
       "thriller"
     ],
-    "subjects": ["haunting"]
+    "subjects": ["death of one's child", "haunting"]
   },
   "Wonder Woman (2017)": {
     "title": "Wonder Woman",
@@ -12882,7 +13072,7 @@
     "decade": "2000s",
     "actors": ["Aaron Yoo", "Jim Sturgess", "Kate Bosworth", "Kevin Spacey"],
     "directors": ["Robert Luketic"],
-    "genres": ["crime", "drama", "history"],
+    "genres": ["crime", "drama", "film based on literature", "history"],
     "subjects": ["MIT Blackjack Team"]
   },
   "The Tree of Life (2011)": {
@@ -13449,6 +13639,7 @@
     "genres": [
       "action",
       "adventure",
+      "apocalyptic",
       "buddy cop",
       "comedy",
       "fantasy",
@@ -13543,7 +13734,14 @@
       "Zach Galifianakis"
     ],
     "directors": ["Ryan Fleck"],
-    "genres": ["comedy", "comedy drama", "drama", "romance", "teen"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "film based on literature",
+      "romance",
+      "teen"
+    ],
     "subjects": ["suicide"]
   },
   "Lars and the Real Girl (2007)": {
@@ -13677,6 +13875,7 @@
     "genres": [
       "action",
       "adventure",
+      "apocalyptic",
       "drama",
       "film based on a novel",
       "horror",
@@ -13776,6 +13975,7 @@
     "imdb": "tt0829150",
     "decade": "2010s",
     "actors": ["Art Parkinson", "Dominic Cooper", "Luke Evans", "Sarah Gadon"],
+    "directors": ["Gary Shore"],
     "genres": [
       "action",
       "adventure",
@@ -13951,6 +14151,7 @@
       "biography",
       "comedy drama",
       "drama",
+      "film based on literature",
       "sport"
     ],
     "subjects": ["Michael Oher"]
@@ -13965,7 +14166,14 @@
       "Marcia Gay Harden",
       "Thomas Jane"
     ],
-    "genres": ["drama", "horror", "monster", "sci-fi", "thriller"]
+    "genres": [
+      "drama",
+      "film based on literature",
+      "horror",
+      "monster",
+      "sci-fi",
+      "thriller"
+    ]
   },
   "Burn After Reading (2008)": {
     "title": "Burn After Reading",
@@ -14044,7 +14252,13 @@
       "Richard Armitage"
     ],
     "directors": ["Peter Jackson"],
-    "genres": ["adventure", "epic", "fantasy", "treasure hunt"]
+    "genres": [
+      "adventure",
+      "epic",
+      "fantasy",
+      "film based on literature",
+      "treasure hunt"
+    ]
   },
   "The Thing (2011)": {
     "title": "The Thing",
@@ -14057,7 +14271,14 @@
       "Ulrich Thomsen"
     ],
     "directors": ["Matthijs van Heijningen Jr."],
-    "genres": ["horror", "monster", "mystery", "sci-fi", "slasher"],
+    "genres": [
+      "film based on literature",
+      "horror",
+      "monster",
+      "mystery",
+      "sci-fi",
+      "slasher"
+    ],
     "subjects": ["alien invasion"]
   },
   "Once (2007)": {
@@ -14844,8 +15065,8 @@
       "film based on a novel",
       "psychological drama",
       "romance",
-      "Western",
-      "western"
+      "western",
+      "Western"
     ]
   },
   "Shershaah (2021)": {
@@ -14933,7 +15154,7 @@
       "Mila Kunis",
       "Ray Stevenson"
     ],
-    "directors": ["Albert Hughes"],
+    "directors": ["Albert Hughes", "Allen Hughes"],
     "genres": ["action", "adventure", "drama", "thriller"]
   },
   "The Bounty Hunter (2010)": {
@@ -15092,7 +15313,7 @@
     "imdb": "tt1058017",
     "decade": "2000s",
     "actors": ["Jennifer Garner", "Jonah Hill", "Louis C.K.", "Ricky Gervais"],
-    "directors": ["Ricky Gervais"],
+    "directors": ["Matthew Robinson", "Ricky Gervais"],
     "genres": ["comedy", "fantasy", "romance", "romantic comedy"]
   },
   "Eagle Eye (2008)": {
@@ -15472,7 +15693,13 @@
       "Sally Hawkins"
     ],
     "directors": ["Paul King"],
-    "genres": ["adventure", "cinematic fairy tale", "comedy", "family"],
+    "genres": [
+      "adventure",
+      "cinematic fairy tale",
+      "comedy",
+      "family",
+      "film based on literature"
+    ],
     "subjects": [
       "belongingness",
       "culture of the United Kingdom",
@@ -15617,7 +15844,7 @@
       "Melissa Barrera",
       "Neve Campbell"
     ],
-    "directors": ["Tyler Gillett"],
+    "directors": ["Matt Bettinelli-Olpin", "Tyler Gillett"],
     "genres": ["horror", "metafiction", "mystery", "slasher", "thriller"],
     "subjects": ["fandom", "serial killer"]
   },
@@ -15671,7 +15898,7 @@
       "Meryl Streep"
     ],
     "directors": ["Adam McKay"],
-    "genres": ["comedy", "drama", "satire", "sci-fi"],
+    "genres": ["apocalyptic", "comedy", "drama", "satire", "sci-fi"],
     "subjects": [
       "climate change denial",
       "extinction event",
@@ -15978,7 +16205,13 @@
       "Richard Armitage"
     ],
     "directors": ["Peter Jackson"],
-    "genres": ["adventure", "fantasy", "high fantasy", "treasure hunt"]
+    "genres": [
+      "adventure",
+      "fantasy",
+      "film based on literature",
+      "high fantasy",
+      "treasure hunt"
+    ]
   },
   "Bronson (2008)": {
     "title": "Bronson",
@@ -16113,6 +16346,7 @@
     "directors": ["Pedro Almod\u00f3var"],
     "genres": [
       "drama",
+      "film based on literature",
       "horror",
       "LGBT-related",
       "melodrama",
@@ -16330,6 +16564,7 @@
     "genres": [
       "action",
       "alien invasion",
+      "apocalyptic",
       "comedy",
       "romantic comedy",
       "sci-fi",
@@ -16590,7 +16825,7 @@
     "decade": "2010s",
     "actors": ["James Franco", "Jay Baruchel", "Jonah Hill", "Seth Rogen"],
     "directors": ["Evan Goldberg", "Seth Rogen"],
-    "genres": ["buddy", "comedy", "fantasy"]
+    "genres": ["apocalyptic", "buddy", "comedy", "fantasy"]
   },
   "RED (2010)": {
     "title": "RED",
@@ -16975,6 +17210,7 @@
     "directors": ["Lorene Scafaria"],
     "genres": [
       "adventure",
+      "apocalyptic",
       "comedy",
       "drama",
       "LGBT-related",
@@ -17012,7 +17248,7 @@
       "Nicholas Hoult"
     ],
     "directors": ["Tom Ford"],
-    "genres": ["drama", "LGBT-related", "romance"],
+    "genres": ["drama", "film based on literature", "LGBT-related", "romance"],
     "subjects": ["suicide"]
   },
   "The Expendables (2010)": {
@@ -17318,7 +17554,13 @@
       "Lisa Thoreson",
       "Matt Damon"
     ],
-    "genres": ["fantasy", "romance", "sci-fi", "thriller"]
+    "genres": [
+      "fantasy",
+      "film based on literature",
+      "romance",
+      "sci-fi",
+      "thriller"
+    ]
   },
   "The Other Guys (2010)": {
     "title": "The Other Guys",
@@ -17418,6 +17660,7 @@
     "subjects": [
       "battle royal",
       "entertainment industry",
+      "propaganda through media",
       "reality television",
       "show fight",
       "social control",
@@ -17537,8 +17780,8 @@
       "adventure",
       "drama",
       "film based on a novel",
-      "Western",
-      "western"
+      "western",
+      "Western"
     ],
     "subjects": ["revenge"]
   },
@@ -17663,7 +17906,14 @@
       "Peter Stormare"
     ],
     "directors": ["Tommy Wirkola"],
-    "genres": ["action", "comedy drama", "fantasy", "horror", "splatter"]
+    "genres": [
+      "action",
+      "comedy drama",
+      "fantasy",
+      "film based on literature",
+      "horror",
+      "splatter"
+    ]
   },
   "The Wolverine (2013)": {
     "title": "The Wolverine",
@@ -18002,7 +18252,7 @@
       "Vanessa Hudgens",
       "Will Smith"
     ],
-    "directors": ["Adil El Arbi"],
+    "directors": ["Adil El Arbi", "Bilall Fallah"],
     "genres": ["action", "buddy cop", "comedy", "crime"]
   },
   "Halloween (2018)": {
@@ -18049,7 +18299,14 @@
       "Rachel McAdams",
       "Robert Downey Jr."
     ],
-    "genres": ["action", "adventure", "crime thriller", "mystery", "steampunk"]
+    "genres": [
+      "action",
+      "adventure",
+      "crime thriller",
+      "film based on literature",
+      "mystery",
+      "steampunk"
+    ]
   },
   "The Host (2013)": {
     "title": "The Host",
@@ -18101,7 +18358,7 @@
       "Skyler Gisondo",
       "Steele Stebbins"
     ],
-    "directors": ["John Francis Daley"],
+    "directors": ["John Francis Daley", "Jonathan Goldstein"],
     "genres": ["adventure", "comedy"]
   },
   "Melancholia (2011)": {
@@ -18115,7 +18372,7 @@
       "Kirsten Dunst"
     ],
     "directors": ["Lars von Trier"],
-    "genres": ["drama", "sci-fi"]
+    "genres": ["apocalyptic", "drama", "sci-fi"]
   },
   "Exodus: Gods and Kings (2014)": {
     "title": "Exodus: Gods and Kings",
@@ -18548,7 +18805,9 @@
       "thriller"
     ],
     "subjects": [
+      "death of one's child",
       "death of subject's spouse",
+      "forced adoption",
       "revenge",
       "Vergangenheitsbew\u00e4ltigung"
     ]
@@ -18586,7 +18845,7 @@
       "Tom Hardy"
     ],
     "directors": ["Micha\u00ebl R. Roskam"],
-    "genres": ["crime", "drama", "thriller"]
+    "genres": ["crime", "drama", "film based on literature", "thriller"]
   },
   "The Grey (2011)": {
     "title": "The Grey",
@@ -18599,7 +18858,7 @@
       "Liam Neeson"
     ],
     "directors": ["Joe Carnahan"],
-    "genres": ["action", "adventure", "drama"]
+    "genres": ["action", "adventure", "drama", "film based on literature"]
   },
   "Only God Forgives (2013)": {
     "title": "Only God Forgives",
@@ -18823,6 +19082,7 @@
       "action",
       "adventure",
       "dystopian",
+      "film based on literature",
       "military science fiction",
       "sci-fi",
       "science fiction action"
@@ -18979,6 +19239,7 @@
       "Chris Evans",
       "Ryan Gosling"
     ],
+    "directors": ["Anthony Russo", "Joe Russo"],
     "genres": ["action", "film based on a novel", "thriller"],
     "subjects": ["terrorism"]
   },
@@ -19136,6 +19397,7 @@
       "action",
       "adventure",
       "alien invasion",
+      "apocalyptic",
       "dystopian",
       "sci-fi",
       "speculative/fantastic fiction",
@@ -19183,7 +19445,13 @@
       "Fran\u00e7ois Cluzet",
       "Omar Sy"
     ],
-    "genres": ["biographical", "biography", "comedy", "drama"]
+    "genres": [
+      "biographical",
+      "biography",
+      "comedy",
+      "drama",
+      "film based on literature"
+    ]
   },
   "Carnage (2011)": {
     "title": "Carnage",
@@ -19524,7 +19792,12 @@
     ],
     "directors": ["Spike Jonze"],
     "genres": ["comedy", "drama", "romance", "romantic comedy", "sci-fi"],
-    "subjects": ["human-machine relationship", "romance", "virtual assistant"]
+    "subjects": [
+      "corporeality",
+      "human-machine relationship",
+      "romance",
+      "virtual assistant"
+    ]
   },
   "American Hustle (2013)": {
     "title": "American Hustle",
@@ -19682,6 +19955,7 @@
       "Samuel L. Jackson",
       "Scarlett Johansson"
     ],
+    "directors": ["Anthony Russo", "Joe Russo"],
     "genres": ["action", "adventure", "sci-fi", "superhero"],
     "subjects": ["amnesia", "terrorism", "unmanned aerial vehicle"]
   },
@@ -19696,7 +19970,7 @@
       "Leonardo DiCaprio"
     ],
     "directors": ["Quentin Tarantino"],
-    "genres": ["blaxploitation", "drama", "Western", "western"],
+    "genres": ["blaxploitation", "drama", "western", "Western"],
     "subjects": ["revenge"]
   },
   "Percy Jackson & The Olympians - The Sea of Monsters (2013)": {
@@ -20189,6 +20463,7 @@
       "brainwashing",
       "ethical dilemma",
       "oppression",
+      "propaganda through media",
       "rebellion",
       "social inequality"
     ]
@@ -20235,6 +20510,7 @@
     "genres": [
       "action",
       "adventure",
+      "apocalyptic",
       "drama",
       "epic",
       "fantasy",
@@ -20292,7 +20568,7 @@
       "Maleah Nipay-Padilla",
       "Ryan Teeple"
     ],
-    "directors": ["Bob Peterson"],
+    "directors": ["Bob Peterson", "Peter Sohn"],
     "genres": [
       "adventure",
       "animation",
@@ -21011,7 +21287,7 @@
       "Richard Armitage"
     ],
     "directors": ["Peter Jackson"],
-    "genres": ["adventure", "fantasy"]
+    "genres": ["adventure", "fantasy", "film based on literature"]
   },
   "Homefront (2013)": {
     "title": "Homefront",
@@ -21063,6 +21339,7 @@
     "genres": ["drama", "horror", "mystery"],
     "subjects": [
       "child abuse",
+      "death of subject's partner",
       "mourning",
       "parental mental illness",
       "psychological trauma",
@@ -21210,6 +21487,7 @@
       "Emily Blunt",
       "Jessica Chastain"
     ],
+    "directors": ["Cedric Nicolas-Troyan"],
     "genres": ["action", "adventure", "dark fantasy", "drama", "fantasy"]
   },
   "No Time to Die (2021)": {
@@ -21262,8 +21540,15 @@
     "imdb": "tt2397535",
     "decade": "2010s",
     "actors": ["Ethan Hawke", "Madeleine West", "Noah Taylor", "Sarah Snook"],
-    "directors": ["Peter Spierig"],
-    "genres": ["action", "drama", "dystopian", "sci-fi", "thriller"]
+    "directors": ["Michael Spierig", "Peter Spierig"],
+    "genres": [
+      "action",
+      "drama",
+      "dystopian",
+      "film based on literature",
+      "sci-fi",
+      "thriller"
+    ]
   },
   "Carol (2015)": {
     "title": "Carol",
@@ -21323,7 +21608,7 @@
       "Vincent D'Onofrio"
     ],
     "directors": ["Antoine Fuqua"],
-    "genres": ["action", "adventure", "crime", "Western", "western"]
+    "genres": ["action", "adventure", "crime", "western", "Western"]
   },
   "The Heat (2013)": {
     "title": "The Heat",
@@ -21434,7 +21719,12 @@
     ],
     "directors": ["Denis Villeneuve"],
     "genres": ["drama", "mystery", "sci-fi", "thriller"],
-    "subjects": ["alien language", "first contact fiction", "predestination"]
+    "subjects": [
+      "alien language",
+      "communication with extraterrestrial intelligence",
+      "first contact fiction",
+      "predestination"
+    ]
   },
   "Wonder (2017)": {
     "title": "Wonder",
@@ -21483,7 +21773,14 @@
     "imdb": "tt2557478",
     "decade": "2010s",
     "actors": ["Burn Gorman", "Cailee Spaeny", "John Boyega", "Scott Eastwood"],
-    "genres": ["action", "adventure", "dystopian", "fantasy", "kaiju"],
+    "genres": [
+      "action",
+      "adventure",
+      "apocalyptic",
+      "dystopian",
+      "fantasy",
+      "kaiju"
+    ],
     "subjects": ["alien invasion"]
   },
   "A Million Ways to Die in the West (2014)": {
@@ -21497,7 +21794,7 @@
       "Seth MacFarlane"
     ],
     "directors": ["Seth MacFarlane"],
-    "genres": ["comedy", "western", "Western"]
+    "genres": ["comedy", "Western", "western"]
   },
   "Get Hard (2015)": {
     "title": "Get Hard",
@@ -21555,7 +21852,7 @@
     "decade": "2010s",
     "actors": ["Ansel Elgort", "Laura Dern", "Nat Wolff", "Shailene Woodley"],
     "directors": ["Josh Boone"],
-    "genres": ["comedy", "drama", "romance"]
+    "genres": ["comedy", "drama", "film based on literature", "romance"]
   },
   "Jojo Rabbit (2019)": {
     "title": "Jojo Rabbit",
@@ -21636,7 +21933,7 @@
       "Rachel McAdams",
       "Sharon Horgan"
     ],
-    "directors": ["John Francis Daley"],
+    "directors": ["John Francis Daley", "Jonathan Goldstein"],
     "genres": ["action", "adventure", "comedy", "mystery"]
   },
   "Fury (2014)": {
@@ -21693,7 +21990,7 @@
       "sci-fi",
       "thriller"
     ],
-    "subjects": ["mass suicide"]
+    "subjects": ["mass suicide", "Survival"]
   },
   "T2 Trainspotting (2017)": {
     "title": "T2 Trainspotting",
@@ -22211,6 +22508,7 @@
     "genres": [
       "action",
       "adventure",
+      "apocalyptic",
       "fantasy",
       "sci-fi",
       "science fiction action",
@@ -22370,6 +22668,7 @@
       "Scarlett Johansson",
       "Sebastian Stan"
     ],
+    "directors": ["Anthony Russo", "Joe Russo"],
     "genres": ["action", "adventure", "sci-fi", "superhero"],
     "subjects": ["terrorism"]
   },
@@ -22581,7 +22880,7 @@
     "decade": "2010s",
     "actors": ["Dev Patel", "Nicole Kidman", "Rooney Mara", "Sunny Pawar"],
     "genres": ["biographical", "biography", "drama", "flashback"],
-    "subjects": ["adoption", "computing", "missing person"]
+    "subjects": ["adoption", "computing", "missing person", "Saroo Brierley"]
   },
   "Gerald's Game (2017)": {
     "title": "Gerald's Game",
@@ -22760,6 +23059,7 @@
     "genres": [
       "drama",
       "erotic thriller",
+      "film based on literature",
       "LGBT-related",
       "romance",
       "thriller"
@@ -22903,7 +23203,7 @@
       "Mark Ruffalo",
       "Robert Downey Jr."
     ],
-    "directors": ["Russo brothers"],
+    "directors": ["Anthony Russo", "Joe Russo", "Russo brothers"],
     "genres": ["action", "adventure", "sci-fi", "superhero"]
   },
   "Avengers: Endgame (2019)": {
@@ -22916,6 +23216,7 @@
       "Mark Ruffalo",
       "Robert Downey Jr."
     ],
+    "directors": ["Anthony Russo", "Joe Russo"],
     "genres": [
       "action",
       "adventure",
@@ -23698,6 +23999,7 @@
       "Christopher Rivera",
       "Willem Dafoe"
     ],
+    "directors": ["Sean Baker"],
     "genres": ["drama"],
     "subjects": ["child poverty"]
   },
@@ -23707,7 +24009,7 @@
     "decade": "2010s",
     "actors": ["Gong Yoo", "Jung Yu-mi", "Ma Dong-seok", "Su-an Kim"],
     "directors": ["Yeon Sang-ho"],
-    "genres": ["action", "horror", "thriller", "zombie"]
+    "genres": ["action", "apocalyptic", "horror", "thriller", "zombie"]
   },
   "The Killing of a Sacred Deer (2017)": {
     "title": "The Killing of a Sacred Deer",
@@ -24037,11 +24339,13 @@
       "Noah Jupe"
     ],
     "directors": ["John Krasinski"],
-    "genres": ["drama", "horror", "sci-fi", "thriller"],
+    "genres": ["apocalyptic", "drama", "horror", "sci-fi", "thriller"],
     "subjects": [
       "alien invasion",
       "communication",
+      "death of one's child",
       "global catastrophic risk",
+      "predator",
       "silence",
       "survival"
     ]
@@ -24170,6 +24474,7 @@
       "road movie"
     ],
     "subjects": [
+      "cultural clash",
       "Don Shirley",
       "human bonding",
       "music industry",
@@ -24267,7 +24572,13 @@
       "Mason Thames"
     ],
     "directors": ["Scott Derrickson"],
-    "genres": ["ghost", "horror", "supernatural horror", "thriller"]
+    "genres": [
+      "film based on literature",
+      "ghost",
+      "horror",
+      "supernatural horror",
+      "thriller"
+    ]
   },
   "Joker (2019)": {
     "title": "Joker",
@@ -24295,7 +24606,12 @@
     ],
     "directors": ["Spike Lee"],
     "genres": ["biographical", "biography", "comedy", "crime", "drama"],
-    "subjects": ["civil rights movement", "Ku Klux Klan", "racism"]
+    "subjects": [
+      "civil rights movement",
+      "Ku Klux Klan",
+      "racism",
+      "Ron Stallworth"
+    ]
   },
   "It: Chapter Two (2019)": {
     "title": "It: Chapter Two",
@@ -24414,7 +24730,13 @@
       "Scott Glenn"
     ],
     "directors": ["Ric Roman Waugh"],
-    "genres": ["action", "drama", "speculative/fantastic fiction", "thriller"],
+    "genres": [
+      "action",
+      "apocalyptic",
+      "drama",
+      "speculative/fantastic fiction",
+      "thriller"
+    ],
     "subjects": ["emergency evacuation"]
   },
   "Nightmare Alley (2021)": {
@@ -24437,7 +24759,8 @@
       "mentalism",
       "overconfidence effect",
       "psychoanalysis",
-      "psychological manipulation"
+      "psychological manipulation",
+      "spiritism"
     ]
   },
   "Hereditary (2018)": {
@@ -24447,14 +24770,19 @@
     "actors": ["Alex Wolff", "Gabriel Byrne", "Milly Shapiro", "Toni Collette"],
     "directors": ["Ari Aster"],
     "genres": ["drama", "horror", "mystery"],
-    "subjects": ["intergenerationality", "mourning", "parental death"]
+    "subjects": [
+      "death of one's child",
+      "intergenerationality",
+      "mourning",
+      "parental death"
+    ]
   },
   "Ready or Not (2019)": {
     "title": "Ready or Not",
     "imdb": "tt7798634",
     "decade": "2010s",
     "actors": ["Adam Brody", "Henry Czerny", "Mark O'Brien", "Samara Weaving"],
-    "directors": ["Tyler Gillett"],
+    "directors": ["Matt Bettinelli-Olpin", "Tyler Gillett"],
     "genres": ["action", "black comedy", "comedy", "horror", "thriller"],
     "subjects": [
       "family",
@@ -24599,7 +24927,14 @@
       "Sophia Di Martino"
     ],
     "directors": ["Danny Boyle"],
-    "genres": ["comedy", "drama", "fantasy", "music", "musical"]
+    "genres": [
+      "alternate history",
+      "comedy",
+      "drama",
+      "fantasy",
+      "music",
+      "musical"
+    ]
   },
   "Six Underground (2019)": {
     "title": "Six Underground",
@@ -24662,7 +24997,8 @@
       "Ike Barinholtz",
       "Wayne Duvall"
     ],
-    "directors": ["Craig Zobel"]
+    "directors": ["Craig Zobel"],
+    "genres": ["action", "film based on literature", "horror", "thriller"]
   },
   "A Quiet Place: Part II (2020)": {
     "title": "A Quiet Place: Part II",
