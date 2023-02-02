@@ -38,14 +38,49 @@ function highlight(guessInfo, answerInfo) {
 }
 
 function renderGuess(corpus, selection, answer) {
-  return `
-        <h2>${highlight(selection, answer)}</h2>
-        <p>${corpus[selection]
+  let html = `
+    <h2>${highlight(selection, answer)}</h2>
+    <p>Decade: ${highlight(corpus[selection].decade, corpus[answer].decade)}</p>
+    `;
+
+  if (corpus[selection].actors) {
+    html += `
+        <p>Cast: ${corpus[selection].actors
           .map((x) => {
-            return highlight(x, corpus[answer]);
+            return highlight(x, corpus[answer].actors);
           })
           .join(", ")}</p>
     `;
+  }
+
+  if (corpus[selection].directors) {
+    html += `
+        <p>Director(s): ${corpus[selection].directors
+          .map((x) => {
+            return highlight(x, corpus[answer].directors);
+          })
+          .join(", ")}</p>
+    `;
+  }
+  if (corpus[selection].genres) {
+    html += `
+        <p>Genres: ${corpus[selection].genres
+          .map((x) => {
+            return highlight(x, corpus[answer].genres);
+          })
+          .join(", ")}</p>
+    `;
+  }
+  if (corpus[selection].subjects) {
+    html += `
+        <p>Subjects: ${corpus[selection].subjects
+          .map((x) => {
+            return highlight(x, corpus[answer].subjects);
+          })
+          .join(", ")}</p>
+    `;
+  }
+  return html;
 }
 
 const config = {
