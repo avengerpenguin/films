@@ -251,7 +251,7 @@
     ],
     "directors": ["Frank Capra"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "family",
@@ -284,7 +284,7 @@
       "crime",
       "crime thriller",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "thriller"
     ]
@@ -504,7 +504,7 @@
     "decade": "1950s",
     "actors": ["Henry Fonda", "John Fiedler", "Lee J. Cobb", "Martin Balsam"],
     "directors": ["Sidney Lumet"],
-    "genres": ["crime", "drama", "Huis clos", "trial"],
+    "genres": ["crime", "drama", "huis clos", "trial"],
     "subjects": ["capital punishment", "distinction", "jury trial"]
   },
   "The Bridge on the River Kwai (1957)": {
@@ -608,11 +608,11 @@
     "genres": [
       "action",
       "adventure",
-      "Christmas",
+      "christmas",
       "drama",
       "epic",
       "film based on a novel",
-      "Peplum genre"
+      "peplum genre"
     ]
   },
   "North by Northwest (1959)": {
@@ -651,7 +651,7 @@
     "genres": [
       "comedy",
       "crime",
-      "LGBT-related",
+      "lgbt-related",
       "music",
       "musical",
       "romance",
@@ -670,7 +670,7 @@
       "Shirley MacLaine"
     ],
     "directors": ["Billy Wilder"],
-    "genres": ["Christmas", "comedy", "drama", "romance", "romantic comedy"]
+    "genres": ["christmas", "comedy", "drama", "romance", "romantic comedy"]
   },
   "Psycho (1960)": {
     "title": "Psycho",
@@ -946,7 +946,7 @@
       "Wolfgang Lukschy"
     ],
     "directors": ["Monte Hellman", "Sergio Leone"],
-    "genres": ["action", "drama", "spaghetti western", "western", "Western"],
+    "genres": ["action", "drama", "spaghetti western", "western"],
     "subjects": ["amorality", "enmity", "rivalry", "rootlessness"]
   },
   "For a Few Dollars More (1965)": {
@@ -960,7 +960,7 @@
       "Mara Krupp"
     ],
     "directors": ["Sergio Leone"],
-    "genres": ["spaghetti western", "Western", "western"]
+    "genres": ["spaghetti western", "western"]
   },
   "The Sound of Music (1965)": {
     "title": "The Sound of Music",
@@ -1102,6 +1102,7 @@
       "film based on literature",
       "mystery",
       "sci-fi",
+      "space adventure",
       "speculative/fantastic fiction",
       "thriller"
     ],
@@ -1161,13 +1162,13 @@
     ],
     "directors": ["Roman Polanski"],
     "genres": [
-      "Christmas",
+      "christmas",
       "drama",
       "erotic thriller",
       "film based on a novel",
       "horror",
       "psychological horror",
-      "Satanic"
+      "satanic"
     ],
     "subjects": ["human pregnancy", "supernatural"]
   },
@@ -1189,7 +1190,7 @@
       "comedy drama",
       "crime",
       "drama",
-      "Western"
+      "western"
     ],
     "subjects": ["Butch Cassidy", "Sundance Kid"]
   },
@@ -1231,7 +1232,7 @@
     "decade": "1960s",
     "actors": ["Dustin Hoffman", "John McGiver", "Jon Voight", "Sylvia Miles"],
     "directors": ["John Schlesinger"],
-    "genres": ["buddy", "drama", "film based on a novel", "LGBT-related"],
+    "genres": ["buddy", "drama", "film based on a novel", "lgbt-related"],
     "subjects": [
       "counterculture of the 1960s",
       "culture of New York City",
@@ -1342,7 +1343,7 @@
     "decade": "1970s",
     "actors": ["Ellen Burstyn", "Lee J. Cobb", "Linda Blair", "Max von Sydow"],
     "directors": ["William Friedkin"],
-    "genres": ["film based on a novel", "horror", "Satanic"],
+    "genres": ["film based on a novel", "horror", "satanic"],
     "subjects": ["demon", "exorcism", "supernatural"]
   },
   "Papillon (1973)": {
@@ -1408,7 +1409,7 @@
       "Slim Pickens"
     ],
     "directors": ["Mel Brooks"],
-    "genres": ["comedy", "Western", "western"]
+    "genres": ["comedy", "western"]
   },
   "Chinatown (1974)": {
     "title": "Chinatown",
@@ -1540,7 +1541,7 @@
       "docudrama",
       "drama",
       "heist",
-      "LGBT-related",
+      "lgbt-related",
       "thriller"
     ]
   },
@@ -1606,7 +1607,7 @@
       "comedy horror",
       "erotic thriller",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "musical",
       "science fiction"
     ],
@@ -1629,6 +1630,7 @@
       "film based on books",
       "historical",
       "history",
+      "political thriller",
       "thriller"
     ],
     "subjects": ["Watergate scandal"]
@@ -1662,7 +1664,13 @@
       "Jeanne Bates"
     ],
     "directors": ["David Lynch"],
-    "genres": ["drama", "fantasy", "horror", "speculative/fantastic fiction"],
+    "genres": [
+      "body horror",
+      "drama",
+      "fantasy",
+      "horror",
+      "speculative/fantastic fiction"
+    ],
     "subjects": ["dysfunctional family"]
   },
   "Network (1976)": {
@@ -1684,7 +1692,7 @@
     "decade": "1970s",
     "actors": ["David Warner", "Gregory Peck", "Harvey Stephens", "Lee Remick"],
     "directors": ["Richard Donner"],
-    "genres": ["horror", "mystery", "Satanic", "thriller"],
+    "genres": ["horror", "mystery", "satanic", "thriller"],
     "subjects": [
       "adoption",
       "Antichrist",
@@ -1793,7 +1801,12 @@
       "thriller",
       "zombie"
     ],
-    "subjects": ["disaster", "Doomsday", "undead in a work of fiction"]
+    "subjects": [
+      "disaster",
+      "Doomsday",
+      "post-apocalyptic scenario",
+      "undead in a work of fiction"
+    ]
   },
   "The Deer Hunter (1978)": {
     "title": "The Deer Hunter",
@@ -1959,7 +1972,7 @@
       "Woody Allen"
     ],
     "directors": ["Woody Allen"],
-    "genres": ["comedy", "drama", "LGBT-related", "romance", "romantic comedy"]
+    "genres": ["comedy", "drama", "lgbt-related", "romance", "romantic comedy"]
   },
   "Rocky II (1979)": {
     "title": "Rocky II",
@@ -2252,6 +2265,7 @@
     ],
     "directors": ["Sam Raimi"],
     "genres": [
+      "body horror",
       "drama",
       "fantasy",
       "horror",
@@ -2363,6 +2377,7 @@
     ],
     "directors": ["John Carpenter"],
     "genres": [
+      "body horror",
       "drama",
       "film based on literature",
       "horror",
@@ -2383,7 +2398,7 @@
       "Scott Schwartz"
     ],
     "directors": ["Bob Clark"],
-    "genres": ["Christmas", "comedy", "family", "film based on literature"]
+    "genres": ["christmas", "comedy", "family", "film based on literature"]
   },
   "Monty Python's The Meaning of Life (1983)": {
     "title": "Monty Python's The Meaning of Life",
@@ -2447,7 +2462,7 @@
     "decade": "1980s",
     "actors": ["Dan Aykroyd", "Don Ameche", "Eddie Murphy", "Ralph Bellamy"],
     "directors": ["John Landis"],
-    "genres": ["Christmas", "comedy"],
+    "genres": ["christmas", "comedy"],
     "subjects": ["frozen concentrated orange juice"]
   },
   "Amadeus (1984)": {
@@ -2646,7 +2661,7 @@
     ],
     "directors": ["Terry Gilliam"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "dystopian",
@@ -2834,6 +2849,7 @@
     "actors": ["Geena Davis", "Jeff Goldblum", "John Getz", "Joy Boushel"],
     "directors": ["David Cronenberg"],
     "genres": [
+      "body horror",
       "drama",
       "film based on literature",
       "horror",
@@ -3029,7 +3045,7 @@
       "Sean Chapman"
     ],
     "directors": ["Clive Barker"],
-    "genres": ["film based on a novel", "horror", "thriller"],
+    "genres": ["body horror", "film based on a novel", "horror", "thriller"],
     "subjects": ["hell", "pain", "pleasure", "resurrection", "supernatural"]
   },
   "Lethal Weapon (1987)": {
@@ -3042,7 +3058,7 @@
       "action",
       "buddy",
       "buddy cop",
-      "Christmas",
+      "christmas",
       "crime",
       "thriller"
     ],
@@ -3250,7 +3266,7 @@
     "genres": [
       "action",
       "action thriller",
-      "Christmas",
+      "christmas",
       "film based on a novel",
       "heist",
       "thriller"
@@ -3484,7 +3500,7 @@
       "Juliette Lewis"
     ],
     "directors": ["Jeremiah S. Chechik"],
-    "genres": ["buddy", "Christmas", "comedy"]
+    "genres": ["buddy", "christmas", "comedy"]
   },
   "When Harry Met Sally (1989)": {
     "title": "When Harry Met Sally",
@@ -3492,7 +3508,7 @@
     "decade": "1980s",
     "actors": ["Billy Crystal", "Bruno Kirby", "Carrie Fisher", "Meg Ryan"],
     "directors": ["Rob Reiner"],
-    "genres": ["Christmas", "comedy", "drama", "romance", "romantic comedy"]
+    "genres": ["christmas", "comedy", "drama", "romance", "romantic comedy"]
   },
   "Awakenings (1990)": {
     "title": "Awakenings",
@@ -3519,14 +3535,7 @@
       "Rodney A. Grant"
     ],
     "directors": ["Kevin Costner"],
-    "genres": [
-      "adventure",
-      "drama",
-      "film based on a novel",
-      "war",
-      "western",
-      "Western"
-    ]
+    "genres": ["adventure", "drama", "film based on a novel", "war", "western"]
   },
   "Die Hard 2 (1990)": {
     "title": "Die Hard 2",
@@ -3542,7 +3551,7 @@
     "genres": [
       "action",
       "action thriller",
-      "Christmas",
+      "christmas",
       "crime",
       "film based on a novel",
       "thriller"
@@ -3561,7 +3570,7 @@
     ],
     "directors": ["Tim Burton"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "fantasy",
@@ -3620,7 +3629,7 @@
     "decade": "1990s",
     "actors": ["Daniel Stern", "Joe Pesci", "John Heard", "Macaulay Culkin"],
     "directors": ["Chris Columbus"],
-    "genres": ["adventure", "children's", "Christmas", "comedy", "family"]
+    "genres": ["adventure", "children's", "christmas", "comedy", "family"]
   },
   "The Hunt for Red October (1990)": {
     "title": "The Hunt for Red October",
@@ -3633,6 +3642,7 @@
       "adventure",
       "drama",
       "film based on a novel",
+      "political thriller",
       "spy",
       "submarine",
       "thriller",
@@ -3656,7 +3666,7 @@
       "comedy",
       "comedy thriller",
       "crime",
-      "LGBT-related"
+      "lgbt-related"
     ]
   },
   "Miller's Crossing (1990)": {
@@ -3674,7 +3684,7 @@
       "crime",
       "drama",
       "film noir",
-      "LGBT-related",
+      "lgbt-related",
       "neo-noir",
       "thriller"
     ],
@@ -3866,6 +3876,7 @@
       "historical",
       "history",
       "mystery",
+      "political thriller",
       "thriller"
     ],
     "subjects": ["assassination of John F. Kennedy"]
@@ -3923,7 +3934,7 @@
       "drama",
       "film based on a novel",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "psychological horror",
       "psychological thriller",
       "thriller"
@@ -4011,7 +4022,7 @@
       "drama",
       "erotic",
       "erotic thriller",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "thriller"
     ]
@@ -4029,7 +4040,7 @@
     "directors": ["Tim Burton"],
     "genres": [
       "action",
-      "Christmas",
+      "christmas",
       "crime",
       "fantasy",
       "neo-noir",
@@ -4084,7 +4095,7 @@
       "Macaulay Culkin"
     ],
     "directors": ["Chris Columbus"],
-    "genres": ["adventure", "Christmas", "comedy", "crime", "family", "mystery"]
+    "genres": ["adventure", "christmas", "comedy", "crime", "family", "mystery"]
   },
   "The Last of the Mohicans (1992)": {
     "title": "The Last of the Mohicans",
@@ -4144,6 +4155,7 @@
       "crime",
       "drama",
       "film based on a novel",
+      "political thriller",
       "spy",
       "techno-thriller",
       "thriller"
@@ -4188,7 +4200,7 @@
       "Richard Harris"
     ],
     "directors": ["Clint Eastwood"],
-    "genres": ["crime", "drama", "western", "Western"],
+    "genres": ["crime", "drama", "western"],
     "subjects": ["drama"]
   },
   "Wayne's World (1992)": {
@@ -4437,7 +4449,7 @@
       "comedy drama",
       "drama",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "screwball comedy"
     ]
   },
@@ -4454,7 +4466,7 @@
     "directors": ["Henry Selick"],
     "genres": [
       "animation",
-      "Christmas",
+      "christmas",
       "dark fantasy",
       "family",
       "fantasy",
@@ -4473,7 +4485,7 @@
       "Tom Hanks"
     ],
     "directors": ["Jonathan Demme"],
-    "genres": ["drama", "LGBT-related", "trial"],
+    "genres": ["drama", "lgbt-related", "trial"],
     "subjects": ["HIV/AIDS", "homophobia"]
   },
   "Robin Hood: Men in Tights (1993)": {
@@ -4505,6 +4517,7 @@
     ],
     "subjects": [
       "Oskar Schindler",
+      "rescue of Jews during the Holocaust",
       "The Holocaust",
       "unfree labour",
       "World War II"
@@ -4524,7 +4537,7 @@
     "decade": "1990s",
     "actors": ["Bill Paxton", "Kurt Russell", "Sam Elliott", "Val Kilmer"],
     "directors": ["George P. Cosmatos", "Kevin Jarre"],
-    "genres": ["biographical", "biography", "drama", "history", "Western"],
+    "genres": ["biographical", "biography", "drama", "history", "western"],
     "subjects": ["Earp Vendetta Ride", "firefight at the O.K. Corral"]
   },
   "True Romance (1993)": {
@@ -4565,7 +4578,7 @@
     "decade": "1990s",
     "actors": ["Courteney Cox", "Jim Carrey", "Sean Young", "Tone Loc"],
     "directors": ["Tom Shadyac"],
-    "genres": ["action", "American football", "comedy", "LGBT-related"],
+    "genres": ["action", "american football", "comedy", "lgbt-related"],
     "subjects": ["revenge"]
   },
   "Clerks (1994)": {
@@ -4614,7 +4627,7 @@
       "Sarah Jessica Parker"
     ],
     "directors": ["Tim Burton"],
-    "genres": ["biographical", "biography", "comedy", "drama", "LGBT-related"]
+    "genres": ["biographical", "biography", "comedy", "drama", "lgbt-related"]
   },
   "Forrest Gump (1994)": {
     "title": "Forrest Gump",
@@ -4623,7 +4636,7 @@
     "actors": ["Gary Sinise", "Robin Wright", "Sally Field", "Tom Hanks"],
     "directors": ["Robert Zemeckis"],
     "genres": [
-      "American football",
+      "american football",
       "comedy",
       "coming-of-age fiction",
       "drama",
@@ -4682,7 +4695,7 @@
     "decade": "1990s",
     "actors": ["Aidan Quinn", "Anthony Hopkins", "Brad Pitt", "Julia Ormond"],
     "directors": ["Edward Zwick"],
-    "genres": ["drama", "film based on literature", "romance", "war", "Western"]
+    "genres": ["drama", "film based on literature", "romance", "war", "western"]
   },
   "L\u00e9on: The Professional (1994)": {
     "title": "L\u00e9on: The Professional",
@@ -4723,7 +4736,7 @@
     "decade": "1990s",
     "actors": ["Graham Greene", "James Garner", "Jodie Foster", "Mel Gibson"],
     "directors": ["Richard Donner"],
-    "genres": ["action", "adventure", "comedy", "Western"],
+    "genres": ["action", "adventure", "comedy", "western"],
     "subjects": ["gambling"]
   },
   "Natural Born Killers (1994)": {
@@ -5021,7 +5034,7 @@
     "genres": [
       "comedy",
       "coming-of-age fiction",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy",
       "teen"
@@ -5462,7 +5475,7 @@
       "Tom Cruise"
     ],
     "directors": ["Cameron Crowe"],
-    "genres": ["American football", "comedy", "drama", "romance", "sport"],
+    "genres": ["american football", "comedy", "drama", "romance", "sport"],
     "subjects": [
       "greed",
       "moral conversion",
@@ -5864,7 +5877,7 @@
       "comedy",
       "comedy drama",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy"
     ],
@@ -5876,7 +5889,7 @@
     "decade": "1990s",
     "actors": ["Colm Meaney", "John Cusack", "John Malkovich", "Nicolas Cage"],
     "directors": ["Simon West"],
-    "genres": ["action", "crime", "LGBT-related", "prison", "thriller"],
+    "genres": ["action", "crime", "lgbt-related", "prison", "thriller"],
     "subjects": ["aviation", "terrorism"]
   },
   "Contact (1997)": {
@@ -5951,7 +5964,7 @@
       "film based on a novel",
       "horror",
       "mystery",
-      "Satanic",
+      "satanic",
       "thriller"
     ],
     "subjects": ["demon", "supernatural"]
@@ -5990,7 +6003,14 @@
       "speculative/fantastic fiction",
       "thriller"
     ],
-    "subjects": ["hell", "loss", "spaceflight", "supernatural", "wormhole"]
+    "subjects": [
+      "coming to terms with the past",
+      "hell",
+      "loss",
+      "spaceflight",
+      "supernatural",
+      "wormhole"
+    ]
   },
   "Face/Off (1997)": {
     "title": "Face/Off",
@@ -6076,7 +6096,7 @@
       "Rya Kihlstedt"
     ],
     "directors": ["Raja Gosnell"],
-    "genres": ["action", "Christmas", "comedy", "crime"]
+    "genres": ["action", "christmas", "comedy", "crime"]
   },
   "I Know What You Did Last Summer (1997)": {
     "title": "I Know What You Did Last Summer",
@@ -6243,7 +6263,7 @@
       "comedy",
       "comedy drama",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy"
     ]
@@ -6372,7 +6392,7 @@
     "decade": "1990s",
     "actors": ["Adam Sandler", "Fairuza Balk", "Henry Winkler", "Kathy Bates"],
     "directors": ["Frank Coraci"],
-    "genres": ["American football", "comedy", "sport"]
+    "genres": ["american football", "comedy", "sport"]
   },
   "American History X (1998)": {
     "title": "American History X",
@@ -6509,7 +6529,7 @@
     "decade": "1990s",
     "actors": ["Gene Hackman", "Jon Voight", "Lisa Bonet", "Will Smith"],
     "directors": ["Tony Scott"],
-    "genres": ["action", "thriller"]
+    "genres": ["action", "political thriller", "thriller"]
   },
   "Eyes Wide Shut (1999)": {
     "title": "Eyes Wide Shut",
@@ -6518,7 +6538,7 @@
     "actors": ["Nicole Kidman", "Sydney Pollack", "Todd Field", "Tom Cruise"],
     "directors": ["Stanley Kubrick"],
     "genres": [
-      "Christmas",
+      "christmas",
       "drama",
       "erotic",
       "erotic thriller",
@@ -6669,7 +6689,7 @@
       "heist",
       "superhero",
       "swashbuckler",
-      "Western"
+      "western"
     ],
     "subjects": ["revenge", "slavery in the United States"]
   },
@@ -6818,7 +6838,7 @@
       "crime",
       "drama",
       "erotic thriller",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "neo-noir",
       "teen"
@@ -6834,10 +6854,10 @@
       "action",
       "buddy cop",
       "comedy",
-      "LGBT-related",
+      "lgbt-related",
       "sci-fi",
       "steampunk",
-      "Western"
+      "western"
     ]
   },
   "X-Men (2000)": {
@@ -7072,7 +7092,7 @@
     "actors": ["Greg Kinnear", "Meg Ryan", "Parker Posey", "Tom Hanks"],
     "directors": ["Nora Ephron"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "film based on literature",
@@ -7224,7 +7244,7 @@
       "crime",
       "drama",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "psychological thriller",
       "thriller"
     ],
@@ -7472,7 +7492,7 @@
       "buddy",
       "crime thriller",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "thriller",
       "vigilante"
     ]
@@ -7561,7 +7581,7 @@
       "dystopian",
       "fantasy",
       "horror",
-      "Satanic",
+      "satanic",
       "thriller"
     ],
     "subjects": ["supernatural"]
@@ -7572,7 +7592,7 @@
     "decade": "1990s",
     "actors": ["Al Pacino", "Cameron Diaz", "Dennis Quaid", "James Woods"],
     "directors": ["Oliver Stone"],
-    "genres": ["American football", "drama", "sport"]
+    "genres": ["american football", "drama", "sport"]
   },
   "High Fidelity (2000)": {
     "title": "High Fidelity",
@@ -7653,7 +7673,7 @@
     "actors": ["Isaac Hayes", "Mary Kay Bergman", "Matt Stone", "Trey Parker"],
     "directors": ["Trey Parker"],
     "genres": [
-      "animated with LGBT character(s)",
+      "animated with lgbt character(s)",
       "animation",
       "comedy",
       "fantasy",
@@ -7825,6 +7845,7 @@
     "subjects": [
       "beach",
       "campfire",
+      "disenchantment",
       "drug",
       "French",
       "infidelity",
@@ -7881,7 +7902,7 @@
       "Naomi Watts"
     ],
     "directors": ["David Lynch"],
-    "genres": ["drama", "LGBT-related", "mystery", "neo-noir", "thriller"],
+    "genres": ["drama", "lgbt-related", "mystery", "neo-noir", "thriller"],
     "subjects": [
       "agency",
       "amnesia",
@@ -7982,7 +8003,7 @@
       "comedy drama",
       "drama",
       "flashback",
-      "LGBT-related",
+      "lgbt-related",
       "romantic comedy"
     ],
     "subjects": [
@@ -8002,7 +8023,7 @@
     "genres": [
       "adventure",
       "children's",
-      "Christmas",
+      "christmas",
       "comedy",
       "family",
       "fantasy",
@@ -8054,7 +8075,7 @@
       "Russell Crowe"
     ],
     "directors": ["Ridley Scott"],
-    "genres": ["action", "adventure", "drama", "melodrama", "Peplum genre"],
+    "genres": ["action", "adventure", "drama", "melodrama", "peplum genre"],
     "subjects": [
       "downward social mobility",
       "gladiator",
@@ -8202,7 +8223,7 @@
       "Michael Douglas"
     ],
     "directors": ["Steven Soderbergh"],
-    "genres": ["crime", "drama", "thriller"]
+    "genres": ["crime", "drama", "political thriller", "thriller"]
   },
   "Almost Famous (2000)": {
     "title": "Almost Famous",
@@ -8288,7 +8309,7 @@
       "buddy cop",
       "comedy",
       "martial arts",
-      "Western"
+      "western"
     ]
   },
   "The Blair Witch Project (1999)": {
@@ -8604,7 +8625,7 @@
     "actors": ["Denzel Washington", "Ryan Hurst", "Will Patton", "Wood Harris"],
     "directors": ["Boaz Yakin"],
     "genres": [
-      "American football",
+      "american football",
       "biographical",
       "biography",
       "drama",
@@ -8799,7 +8820,7 @@
     "actors": ["Don Cheadle", "Jeremy Piven", "Nicolas Cage", "T\u00e9a Leoni"],
     "directors": ["Brett Ratner"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "comedy drama",
       "drama",
@@ -8959,7 +8980,7 @@
       "Kate Beckinsale"
     ],
     "directors": ["Peter Chelsom"],
-    "genres": ["Christmas", "comedy", "romance", "romantic comedy"]
+    "genres": ["christmas", "comedy", "romance", "romantic comedy"]
   },
   "Chocolat (2000)": {
     "title": "Chocolat",
@@ -9012,7 +9033,7 @@
       "Seann William Scott"
     ],
     "directors": ["Danny Leiner"],
-    "genres": ["buddy", "comedy", "LGBT-related", "mystery", "sci-fi"]
+    "genres": ["buddy", "comedy", "lgbt-related", "mystery", "sci-fi"]
   },
   "The Matrix Revolutions (2003)": {
     "title": "The Matrix Revolutions",
@@ -9047,7 +9068,7 @@
     ],
     "directors": ["Sharon Maguire"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "film based on a novel",
@@ -9081,7 +9102,7 @@
       "comedy",
       "coming-of-age fiction",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance"
     ]
   },
@@ -9334,7 +9355,7 @@
     "genres": [
       "comedy",
       "comedy drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy"
     ]
@@ -9409,6 +9430,7 @@
       "action thriller",
       "film based on a novel",
       "mystery",
+      "political thriller",
       "spy",
       "thriller"
     ],
@@ -9537,7 +9559,7 @@
     "genres": [
       "comedy",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy",
       "teen"
@@ -9642,6 +9664,7 @@
       "action thriller",
       "crime",
       "flashback",
+      "political thriller",
       "spy",
       "thriller"
     ]
@@ -9748,7 +9771,7 @@
       "Stephen Dillane"
     ],
     "directors": ["Stephen Daldry"],
-    "genres": ["drama", "film based on a novel", "LGBT-related", "romance"],
+    "genres": ["drama", "film based on a novel", "lgbt-related", "romance"],
     "subjects": ["dysfunctional family", "suicide", "Virginia Woolf"]
   },
   "About a Boy (2002)": {
@@ -9908,7 +9931,7 @@
       "coming-of-age fiction",
       "drama",
       "female buddy",
-      "LGBT-related",
+      "lgbt-related",
       "musical",
       "romance",
       "romantic comedy",
@@ -10037,7 +10060,7 @@
       "science fiction",
       "thriller"
     ],
-    "subjects": ["predestination"]
+    "subjects": ["predestination", "rollback in time"]
   },
   "The Life of David Gale (2003)": {
     "title": "The Life of David Gale",
@@ -10088,7 +10111,7 @@
       "Vincent Cassel"
     ],
     "directors": ["Gaspar No\u00e9"],
-    "genres": ["crime", "drama", "LGBT-related", "mystery", "rape and revenge"],
+    "genres": ["crime", "drama", "lgbt-related", "mystery", "rape and revenge"],
     "subjects": ["revenge"]
   },
   "The Recruit (2003)": {
@@ -10302,7 +10325,7 @@
       "Marisa Tomei"
     ],
     "directors": ["Peter Segal"],
-    "genres": ["comedy", "LGBT-related"]
+    "genres": ["comedy", "lgbt-related"]
   },
   "Charlie's Angels: Full Throttle (2003)": {
     "title": "Charlie's Angels: Full Throttle",
@@ -10350,7 +10373,7 @@
       "Lauren Graham"
     ],
     "directors": ["Terry Zwigoff"],
-    "genres": ["Christmas", "comedy", "crime", "drama"],
+    "genres": ["christmas", "comedy", "crime", "drama"],
     "subjects": ["alcoholism"]
   },
   "Finding Neverland (2004)": {
@@ -10453,7 +10476,7 @@
     ],
     "directors": ["Richard Curtis"],
     "genres": [
-      "Christmas",
+      "christmas",
       "comedy",
       "drama",
       "romance",
@@ -10533,7 +10556,7 @@
       "comedy",
       "drama",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy"
     ]
@@ -10641,7 +10664,7 @@
     "decade": "2000s",
     "actors": ["Bob Newhart", "James Caan", "Will Ferrell", "Zooey Deschanel"],
     "directors": ["Jon Favreau"],
-    "genres": ["adventure", "Christmas", "comedy", "family", "fantasy"]
+    "genres": ["adventure", "christmas", "comedy", "family", "fantasy"]
   },
   "Kingdom of Heaven (2005)": {
     "title": "Kingdom of Heaven",
@@ -10798,6 +10821,7 @@
       "mystery"
     ],
     "subjects": [
+      "coming to terms with the past",
       "criminality",
       "friendship",
       "loyalty",
@@ -10961,7 +10985,7 @@
       "Monica Bellucci"
     ],
     "directors": ["Mel Gibson"],
-    "genres": ["biographical", "Christian fiction", "drama", "historical"]
+    "genres": ["biographical", "christian fiction", "drama", "historical"]
   },
   "Starsky & Hutch (2004)": {
     "title": "Starsky & Hutch",
@@ -11052,7 +11076,7 @@
       "animated",
       "animation",
       "children's",
-      "Christmas",
+      "christmas",
       "comedy",
       "family",
       "fantasy",
@@ -11151,7 +11175,7 @@
       "crime",
       "drama",
       "female buddy",
-      "LGBT-related"
+      "lgbt-related"
     ],
     "subjects": ["capital punishment", "prostitution", "serial killer"]
   },
@@ -11214,7 +11238,7 @@
       "biographical",
       "biography",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "war"
     ],
     "subjects": ["Alexander the Great"]
@@ -11437,7 +11461,7 @@
       "Shia LaBeouf"
     ],
     "directors": ["Francis Lawrence"],
-    "genres": ["action", "drama", "fantasy", "horror", "Satanic", "superhero"],
+    "genres": ["action", "drama", "fantasy", "horror", "satanic", "superhero"],
     "subjects": ["demon", "exorcism", "Satanic film", "smoking", "supernatural"]
   },
   "King Kong (2005)": {
@@ -11475,6 +11499,7 @@
     "directors": ["Brad Anderson"],
     "genres": ["drama", "psychological thriller", "thriller"],
     "subjects": [
+      "coming to terms with the past",
       "delusion",
       "guilt",
       "homicide",
@@ -11591,7 +11616,7 @@
     "decade": "2000s",
     "actors": ["Ben Stiller", "Christine Taylor", "Rip Torn", "Vince Vaughn"],
     "directors": ["Rawson Marshall Thurber"],
-    "genres": ["comedy", "LGBT-related", "sport"]
+    "genres": ["comedy", "lgbt-related", "sport"]
   },
   "Syriana (2005)": {
     "title": "Syriana",
@@ -11599,7 +11624,7 @@
     "decade": "2000s",
     "actors": ["Amanda Peet", "George Clooney", "Kayvan Novak", "Matt Damon"],
     "directors": ["Stephen Gaghan"],
-    "genres": ["drama", "film based on books", "thriller"]
+    "genres": ["drama", "film based on books", "political thriller", "thriller"]
   },
   "Shaun of the Dead (2004)": {
     "title": "Shaun of the Dead",
@@ -11706,6 +11731,7 @@
       "film based on a novel",
       "mystery",
       "political",
+      "political thriller",
       "sci-fi",
       "thriller"
     ],
@@ -11920,7 +11946,7 @@
     "genres": [
       "action",
       "buddy cop",
-      "Christmas",
+      "christmas",
       "comedy",
       "crime",
       "film noir",
@@ -12053,7 +12079,7 @@
     "genres": [
       "comedy",
       "film based on books",
-      "LGBT-related",
+      "lgbt-related",
       "romantic comedy",
       "teen"
     ],
@@ -12090,7 +12116,7 @@
       "Philip Seymour Hoffman"
     ],
     "directors": ["Bennett Miller"],
-    "genres": ["biographical", "biography", "crime", "drama", "LGBT-related"],
+    "genres": ["biographical", "biography", "crime", "drama", "lgbt-related"],
     "subjects": ["capital punishment"]
   },
   "Serenity (2005)": {
@@ -12113,9 +12139,9 @@
       "post-apocalyptic",
       "sci-fi",
       "science fiction",
-      "space Western",
+      "space western",
       "speculative/fantastic fiction",
-      "Western"
+      "western"
     ]
   },
   "The Lovely Bones (2009)": {
@@ -12175,7 +12201,7 @@
       "crime",
       "drama",
       "film based on literature",
-      "Western"
+      "western"
     ]
   },
   "The Da Vinci Code (2006)": {
@@ -12348,7 +12374,13 @@
       "Ralph Fiennes"
     ],
     "directors": ["Fernando Meirelles"],
-    "genres": ["drama", "film based on a novel", "mystery", "romance"],
+    "genres": [
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "political thriller",
+      "romance"
+    ],
     "subjects": [
       "corruption",
       "human subject research project",
@@ -12361,6 +12393,7 @@
     "imdb": "tt0387564",
     "decade": "2000s",
     "actors": ["Cary Elwes", "Danny Glover", "Ken Leung", "Leigh Whannell"],
+    "directors": ["James Wan"],
     "genres": ["crime", "gore", "horror", "mystery", "thriller"]
   },
   "Idiocracy (2006)": {
@@ -12402,7 +12435,7 @@
       "Randy Quaid"
     ],
     "directors": ["Ang Lee"],
-    "genres": ["drama", "LGBT-related", "romance"],
+    "genres": ["drama", "lgbt-related", "romance"],
     "subjects": [
       "commitment",
       "fidelity",
@@ -12435,7 +12468,7 @@
     ],
     "directors": ["Frank Coraci"],
     "genres": ["comedy", "drama", "fantasy", "science fiction"],
-    "subjects": ["time travel"]
+    "subjects": ["rollback in time", "time travel"]
   },
   "The Grudge (2004)": {
     "title": "The Grudge",
@@ -12560,7 +12593,7 @@
     "directors": ["Peter Segal"],
     "genres": [
       "action comedy",
-      "American football",
+      "american football",
       "comedy",
       "comedy drama",
       "crime",
@@ -12720,7 +12753,7 @@
       "Ulrich Tukur"
     ],
     "directors": ["Florian Henckel von Donnersmarck"],
-    "genres": ["drama", "mystery", "thriller"],
+    "genres": ["drama", "mystery", "political thriller", "thriller"],
     "subjects": [
       "Cold War",
       "internal conflict",
@@ -12848,7 +12881,14 @@
       "Marie-Jos\u00e9e Croze"
     ],
     "directors": ["Steven Spielberg"],
-    "genres": ["action", "drama", "film based on books", "history", "spy"],
+    "genres": [
+      "action",
+      "drama",
+      "film based on books",
+      "history",
+      "political thriller",
+      "spy"
+    ],
     "subjects": [
       "collective trauma",
       "espionage",
@@ -12908,7 +12948,7 @@
       "science fiction",
       "speculative/fantastic fiction",
       "thriller",
-      "Western"
+      "western"
     ],
     "subjects": ["alien invasion"]
   },
@@ -13051,7 +13091,7 @@
       "Will Ferrell"
     ],
     "directors": ["Adam McKay"],
-    "genres": ["action", "comedy", "LGBT-related", "sport"],
+    "genres": ["action", "comedy", "lgbt-related", "sport"],
     "subjects": ["motor car", "NASCAR"]
   },
   "Match Point (2005)": {
@@ -13545,7 +13585,7 @@
     "decade": "2000s",
     "actors": ["Amy Smart", "Anna Faris", "Chris Klein", "Ryan Reynolds"],
     "directors": ["Roger Kumble"],
-    "genres": ["Christmas", "comedy", "romance", "romantic comedy"]
+    "genres": ["christmas", "comedy", "romance", "romantic comedy"]
   },
   "V for Vendetta (2005)": {
     "title": "V for Vendetta",
@@ -13563,8 +13603,9 @@
       "action thriller",
       "drama",
       "dystopian",
-      "LGBT-related",
+      "lgbt-related",
       "political drama",
+      "political thriller",
       "post-apocalyptic",
       "sci-fi",
       "science fiction action",
@@ -13760,7 +13801,7 @@
       "Matthew Fox"
     ],
     "directors": ["Pete Travis"],
-    "genres": ["action", "crime", "drama", "thriller"],
+    "genres": ["action", "crime", "drama", "political thriller", "thriller"],
     "subjects": ["terrorism"]
   },
   "Borat (2006)": {
@@ -13819,7 +13860,7 @@
       "drama",
       "film based on a novel",
       "historical drama",
-      "Western"
+      "western"
     ],
     "subjects": ["Jesse James", "Robert Ford"]
   },
@@ -13874,7 +13915,7 @@
       "action comedy",
       "comedy",
       "fantasy",
-      "LGBT-related",
+      "lgbt-related",
       "magic realist",
       "romantic comedy"
     ]
@@ -13906,7 +13947,7 @@
     "genres": [
       "action",
       "adventure",
-      "Christmas",
+      "christmas",
       "comedy",
       "fantasy",
       "superhero"
@@ -13966,7 +14007,7 @@
       "Toni Collette"
     ],
     "directors": ["Jonathan Dayton", "Valerie Faris"],
-    "genres": ["comedy", "drama", "LGBT-related", "road movie"],
+    "genres": ["comedy", "drama", "lgbt-related", "road movie"],
     "subjects": ["dysfunctional family"]
   },
   "Pirates of the Caribbean: At World's End (2007)": {
@@ -14060,7 +14101,11 @@
       "psychological horror",
       "thriller"
     ],
-    "subjects": ["death of one's child", "haunting"]
+    "subjects": [
+      "coming to terms with the past",
+      "death of one's child",
+      "haunting"
+    ]
   },
   "Wonder Woman (2017)": {
     "title": "Wonder Woman",
@@ -14219,7 +14264,7 @@
     "genres": [
       "association football",
       "comedy",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy",
       "sport",
@@ -14297,7 +14342,7 @@
     "decade": "2000s",
     "actors": ["Cameron Diaz", "Jack Black", "Jude Law", "Kate Winslet"],
     "directors": ["Nancy Meyers"],
-    "genres": ["Christmas", "comedy", "romance", "romantic comedy"]
+    "genres": ["christmas", "comedy", "romance", "romantic comedy"]
   },
   "Captain America: The First Avenger (2011)": {
     "title": "Captain America: The First Avenger",
@@ -14707,7 +14752,7 @@
       "Russell Crowe"
     ],
     "directors": ["Kevin Macdonald"],
-    "genres": ["crime", "drama", "mystery"]
+    "genres": ["crime", "drama", "mystery", "political thriller"]
   },
   "Hail, Caesar! (2016)": {
     "title": "Hail, Caesar!",
@@ -14728,7 +14773,7 @@
     "decade": "2000s",
     "actors": ["Jeremy Piven", "Joseph Ruskin", "Ray Liotta", "Ryan Reynolds"],
     "directors": ["Joe Carnahan"],
-    "genres": ["action", "comedy", "crime", "crime thriller", "LGBT-related"]
+    "genres": ["action", "comedy", "crime", "crime thriller", "lgbt-related"]
   },
   "Unstoppable (2010)": {
     "title": "Unstoppable",
@@ -14921,7 +14966,7 @@
     "decade": "2000s",
     "actors": ["John Cho", "Kal Penn", "Neil Patrick Harris", "Rob Corddry"],
     "directors": ["Hayden Schlossberg", "Jon Hurwitz"],
-    "genres": ["adventure", "buddy", "comedy", "LGBT-related"]
+    "genres": ["adventure", "buddy", "comedy", "lgbt-related"]
   },
   "The Prestige (2006)": {
     "title": "The Prestige",
@@ -15129,7 +15174,7 @@
       "comedy",
       "comedy drama",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy"
     ]
@@ -15236,7 +15281,14 @@
       "Russell Crowe"
     ],
     "directors": ["Ridley Scott"],
-    "genres": ["action", "drama", "film based on a novel", "spy", "thriller"],
+    "genres": [
+      "action",
+      "drama",
+      "film based on a novel",
+      "political thriller",
+      "spy",
+      "thriller"
+    ],
     "subjects": ["terrorism"]
   },
   "I Now Pronounce You Chuck and Larry (2007)": {
@@ -15245,7 +15297,7 @@
     "decade": "2000s",
     "actors": ["Adam Sandler", "Dan Aykroyd", "Jessica Biel", "Kevin James"],
     "directors": ["Dennis Dugan"],
-    "genres": ["buddy", "comedy", "LGBT-related", "romance", "romantic comedy"]
+    "genres": ["buddy", "comedy", "lgbt-related", "romance", "romantic comedy"]
   },
   "Brothers (2009)": {
     "title": "Brothers",
@@ -15319,7 +15371,7 @@
       "Elizabeth Berrington"
     ],
     "directors": ["Martin McDonagh"],
-    "genres": ["action", "buddy", "Christmas", "comedy", "crime", "drama"]
+    "genres": ["action", "buddy", "christmas", "comedy", "crime", "drama"]
   },
   "Mr. Brooks (2007)": {
     "title": "Mr. Brooks",
@@ -15355,7 +15407,7 @@
       "Steve Zahn"
     ],
     "directors": ["Jean-Marc Vall\u00e9e"],
-    "genres": ["biographical", "biography", "drama", "LGBT-related"],
+    "genres": ["biographical", "biography", "drama", "lgbt-related"],
     "subjects": [
       "Food and Drug Administration",
       "HIV/AIDS",
@@ -15551,7 +15603,7 @@
       "biography",
       "drama",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "romance"
     ]
   },
@@ -15665,7 +15717,7 @@
     "decade": "2010s",
     "actors": ["Anne Hathaway", "Jamie Foxx", "Jessica Alba", "Julia Roberts"],
     "directors": ["Garry Marshall"],
-    "genres": ["comedy", "LGBT-related", "romance", "romantic comedy"]
+    "genres": ["comedy", "lgbt-related", "romance", "romantic comedy"]
   },
   "Marley & Me (2008)": {
     "title": "Marley & Me",
@@ -15719,6 +15771,7 @@
       "drama",
       "film based on a novel",
       "mystery",
+      "political thriller",
       "thriller",
       "vigilante"
     ]
@@ -15864,7 +15917,7 @@
       "Mia Wasikowska"
     ],
     "directors": ["Lisa Cholodenko"],
-    "genres": ["comedy", "comedy drama", "drama", "LGBT-related", "romance"]
+    "genres": ["comedy", "comedy drama", "drama", "lgbt-related", "romance"]
   },
   "The Avengers (2012)": {
     "title": "The Avengers",
@@ -15936,7 +15989,7 @@
     "actors": ["Jae Head", "Quinton Aaron", "Sandra Bullock", "Tim McGraw"],
     "directors": ["John Lee Hancock"],
     "genres": [
-      "American football",
+      "american football",
       "biographical",
       "biography",
       "comedy drama",
@@ -16166,7 +16219,7 @@
     "decade": "2000s",
     "actors": ["Gabourey Sidibe", "Mariah Carey", "Mo'Nique", "Paula Patton"],
     "directors": ["Lee Daniels"],
-    "genres": ["drama", "film based on a novel", "LGBT-related", "teen"],
+    "genres": ["drama", "film based on a novel", "lgbt-related", "teen"],
     "subjects": ["dysfunctional family", "incest"]
   },
   "Taken (2008)": {
@@ -16265,7 +16318,7 @@
     "genres": [
       "drama",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "psychological horror",
       "psychological thriller",
       "thriller"
@@ -16277,7 +16330,14 @@
     "decade": "2010s",
     "actors": ["Greg Kinnear", "Igal Naor", "Jason Isaacs", "Matt Damon"],
     "directors": ["Paul Greengrass"],
-    "genres": ["action", "drama", "film based on books", "thriller", "war"]
+    "genres": [
+      "action",
+      "drama",
+      "film based on books",
+      "political thriller",
+      "thriller",
+      "war"
+    ]
   },
   "The Happening (2008)": {
     "title": "The Happening",
@@ -16405,7 +16465,7 @@
     "decade": "2010s",
     "actors": ["Ben Stiller", "Owen Wilson", "Robert De Niro", "Teri Polo"],
     "directors": ["Paul Weitz"],
-    "genres": ["Christmas", "comedy", "romance"]
+    "genres": ["christmas", "comedy", "romance"]
   },
   "Justice League (2017)": {
     "title": "Justice League",
@@ -16526,6 +16586,7 @@
       "drama",
       "historical",
       "history",
+      "political thriller",
       "thriller",
       "war"
     ],
@@ -16798,7 +16859,7 @@
     "decade": "2000s",
     "actors": ["Diego Luna", "Emile Hirsch", "Josh Brolin", "Sean Penn"],
     "directors": ["Gus Van Sant"],
-    "genres": ["biographical", "biography", "drama", "LGBT-related"]
+    "genres": ["biographical", "biography", "drama", "lgbt-related"]
   },
   "All Quiet on the Western Front (2022)": {
     "title": "All Quiet on the Western Front",
@@ -16882,7 +16943,14 @@
     "decade": "2010s",
     "actors": ["Alan Arkin", "Ben Affleck", "Bryan Cranston", "John Goodman"],
     "directors": ["Ben Affleck"],
-    "genres": ["biographical", "biography", "drama", "historical", "thriller"],
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "historical",
+      "political thriller",
+      "thriller"
+    ],
     "subjects": [
       "Canadian Caper",
       "hostage-rescue mission",
@@ -16988,8 +17056,7 @@
       "film based on a novel",
       "psychological drama",
       "romance",
-      "western",
-      "Western"
+      "western"
     ]
   },
   "Shershaah (2021)": {
@@ -17136,8 +17203,8 @@
     ],
     "directors": ["David O. Russell"],
     "genres": [
-      "American football",
-      "Christmas",
+      "american football",
+      "christmas",
       "comedy",
       "drama",
       "film based on a novel",
@@ -17179,7 +17246,12 @@
       "science fiction",
       "thriller"
     ],
-    "subjects": ["stalking", "toxic relationship", "violence against women"]
+    "subjects": [
+      "breakup",
+      "stalking",
+      "toxic relationship",
+      "violence against women"
+    ]
   },
   "The Imaginarium of Doctor Parnassus (2009)": {
     "title": "The Imaginarium of Doctor Parnassus",
@@ -17422,7 +17494,7 @@
       "exploitation",
       "girls with guns",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "science fiction",
       "zombie comedy"
     ],
@@ -17828,7 +17900,7 @@
       "Ryan Gosling"
     ],
     "directors": ["George Clooney"],
-    "genres": ["drama", "thriller"]
+    "genres": ["drama", "political thriller", "thriller"]
   },
   "Scream (2022)": {
     "title": "Scream",
@@ -17849,7 +17921,12 @@
       "slasher",
       "thriller"
     ],
-    "subjects": ["fandom", "serial killer", "trust"]
+    "subjects": [
+      "coming to terms with the past",
+      "fandom",
+      "serial killer",
+      "trust"
+    ]
   },
   "The Wrestler (2008)": {
     "title": "The Wrestler",
@@ -17985,7 +18062,7 @@
       "comedy horror",
       "female buddy",
       "horror",
-      "LGBT-related"
+      "lgbt-related"
     ],
     "subjects": ["supernatural"]
   },
@@ -18088,7 +18165,13 @@
       "Pierce Brosnan"
     ],
     "directors": ["Roman Polanski"],
-    "genres": ["crime", "drama", "film based on a novel", "mystery"]
+    "genres": [
+      "crime",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "political thriller"
+    ]
   },
   "Let the Right One In (2008)": {
     "title": "Let the Right One In",
@@ -18106,7 +18189,7 @@
       "fantasy",
       "film based on a novel",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "vampire"
     ],
     "subjects": ["aggression", "friendship", "love", "mobbing", "violence"]
@@ -18413,10 +18496,11 @@
     ],
     "directors": ["Pedro Almod\u00f3var"],
     "genres": [
+      "body horror",
       "drama",
       "film based on literature",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "melodrama",
       "mystery",
       "rape and revenge",
@@ -18761,7 +18845,7 @@
       "fantasy",
       "film based on a novel",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "romance",
       "vampire"
@@ -18787,7 +18871,7 @@
       "Will Ferrell"
     ],
     "directors": ["Adam McKay"],
-    "genres": ["comedy", "LGBT-related"]
+    "genres": ["comedy", "lgbt-related"]
   },
   "Due Date (2010)": {
     "title": "Due Date",
@@ -19174,7 +19258,7 @@
     "genres": [
       "comedy",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic comedy",
       "teen"
@@ -19363,7 +19447,7 @@
       "comedy",
       "disaster",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romantic comedy",
       "science fiction",
       "science fiction comedy"
@@ -19402,7 +19486,7 @@
       "Nicholas Hoult"
     ],
     "directors": ["Tom Ford"],
-    "genres": ["drama", "film based on literature", "LGBT-related", "romance"],
+    "genres": ["drama", "film based on literature", "lgbt-related", "romance"],
     "subjects": ["suicide"]
   },
   "The Expendables (2010)": {
@@ -19679,7 +19763,7 @@
       "dystopian",
       "fantasy",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "post-apocalyptic",
       "sci-fi",
@@ -19983,13 +20067,7 @@
     "decade": "2010s",
     "actors": ["Hailee Steinfeld", "Jeff Bridges", "Josh Brolin", "Matt Damon"],
     "directors": ["Ethan Coen", "Joel Coen"],
-    "genres": [
-      "adventure",
-      "drama",
-      "film based on a novel",
-      "western",
-      "Western"
-    ],
+    "genres": ["adventure", "drama", "film based on a novel", "western"],
     "subjects": ["revenge"]
   },
   "Remember Me (2010)": {
@@ -20099,7 +20177,7 @@
       "Zach Galifianakis"
     ],
     "directors": ["Todd Phillips"],
-    "genres": ["action comedy", "comedy", "LGBT-related"]
+    "genres": ["action comedy", "comedy", "lgbt-related"]
   },
   "Predators (2010)": {
     "title": "Predators",
@@ -20164,7 +20242,7 @@
     "genres": [
       "action",
       "comedy",
-      "LGBT-related",
+      "lgbt-related",
       "science fiction",
       "superhero"
     ]
@@ -20289,6 +20367,7 @@
       "Ron Livingston",
       "Vera Farmiga"
     ],
+    "directors": ["James Wan"],
     "genres": ["ghost", "horror", "mystery", "thriller"],
     "subjects": [
       "demonic possession",
@@ -20394,6 +20473,7 @@
     "imdb": "tt1477834",
     "decade": "2010s",
     "actors": ["Amber Heard", "Jason Momoa", "Patrick Wilson", "Willem Dafoe"],
+    "directors": ["James Wan"],
     "genres": ["action", "adventure", "fantasy", "science fiction", "superhero"]
   },
   "Bridesmaids (2011)": {
@@ -20476,7 +20556,7 @@
       "Kaitlyn Dever"
     ],
     "directors": ["Olivia Wilde"],
-    "genres": ["comedy", "LGBT-related"]
+    "genres": ["comedy", "lgbt-related"]
   },
   "Central Intelligence (2016)": {
     "title": "Central Intelligence",
@@ -20758,7 +20838,7 @@
       "drama",
       "fantasy",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "romance",
       "science fiction",
@@ -20851,6 +20931,7 @@
       "aggressiveness",
       "alcoholism",
       "alternative medicine",
+      "coming to terms with the past",
       "coping",
       "human nature",
       "individual and society",
@@ -20923,7 +21004,7 @@
       "drama",
       "film based on a novel",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "mystery",
       "rape and revenge",
       "thriller"
@@ -21067,6 +21148,7 @@
     "imdb": "tt1591095",
     "decade": "2010s",
     "actors": ["Lin Shaye", "Patrick Wilson", "Rose Byrne", "Ty Simpkins"],
+    "directors": ["James Wan"],
     "genres": [
       "drama",
       "ghost",
@@ -21351,7 +21433,7 @@
       "biography",
       "drama",
       "flashback",
-      "LGBT-related",
+      "lgbt-related",
       "romance"
     ],
     "subjects": ["terrorism"]
@@ -21405,7 +21487,7 @@
       "action",
       "adventure",
       "disaster",
-      "LGBT-related",
+      "lgbt-related",
       "sci-fi",
       "science fiction",
       "war"
@@ -21519,7 +21601,7 @@
     "decade": "2010s",
     "actors": ["Joel McHale", "Mark Wahlberg", "Mila Kunis", "Seth MacFarlane"],
     "directors": ["Seth MacFarlane"],
-    "genres": ["Christmas", "comedy", "fantasy"],
+    "genres": ["christmas", "comedy", "fantasy"],
     "subjects": ["alcoholism", "bear"]
   },
   "Love, Rosie (2014)": {
@@ -21595,7 +21677,7 @@
       "horror",
       "post-apocalyptic",
       "science fiction",
-      "Western"
+      "western"
     ]
   },
   "The Gray Man (2022)": {
@@ -21725,7 +21807,7 @@
       "coming-of-age fiction",
       "drama",
       "film based on a novel",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "teen"
     ],
@@ -21771,7 +21853,7 @@
       "film based on a novel",
       "survival",
       "thriller",
-      "Western"
+      "western"
     ]
   },
   "Pacific Rim (2013)": {
@@ -21912,6 +21994,7 @@
     "subjects": [
       "class discrimination",
       "cultural Reproduction",
+      "post-apocalyptic scenario",
       "rebellion",
       "survival"
     ]
@@ -22003,7 +22086,7 @@
       "biographical",
       "biography",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "music",
       "musical"
     ],
@@ -22415,7 +22498,7 @@
       "Leonardo DiCaprio"
     ],
     "directors": ["Quentin Tarantino"],
-    "genres": ["blaxploitation", "drama", "western", "Western"],
+    "genres": ["blaxploitation", "drama", "western"],
     "subjects": ["revenge", "slavery in the United States"]
   },
   "Percy Jackson & The Olympians - The Sea of Monsters (2013)": {
@@ -22859,7 +22942,7 @@
       "Stellan Skarsg\u00e5rd"
     ],
     "directors": ["Lars von Trier"],
-    "genres": ["art", "drama", "LGBT-related"],
+    "genres": ["art", "drama", "lgbt-related"],
     "subjects": ["nymphomania", "virginity"]
   },
   "Carrie (2013)": {
@@ -23135,7 +23218,7 @@
     "genres": [
       "comedy",
       "female buddy",
-      "LGBT-related",
+      "lgbt-related",
       "music",
       "musical",
       "romance",
@@ -23258,7 +23341,7 @@
       "Rooney Mara"
     ],
     "directors": ["Steven Soderbergh"],
-    "genres": ["crime", "drama", "LGBT-related", "mystery"]
+    "genres": ["crime", "drama", "lgbt-related", "mystery"]
   },
   "Rocketman (2019)": {
     "title": "Rocketman",
@@ -23275,7 +23358,7 @@
       "biographical",
       "biography",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "musical",
       "musical comedy"
     ]
@@ -23311,7 +23394,7 @@
       "drama",
       "film based on books",
       "historical",
-      "LGBT-related",
+      "lgbt-related",
       "thriller",
       "war"
     ],
@@ -23646,7 +23729,8 @@
     "imdb": "tt2226417",
     "decade": "2010s",
     "actors": ["Barbara Hershey", "Lin Shaye", "Patrick Wilson", "Rose Byrne"],
-    "genres": ["ghost", "horror", "LGBT-related", "mystery", "thriller"],
+    "directors": ["James Wan"],
+    "genres": ["ghost", "horror", "lgbt-related", "mystery", "thriller"],
     "subjects": ["haunted house", "supernatural"]
   },
   "Don Jon (2013)": {
@@ -23756,10 +23840,11 @@
       "coming-of-age fiction",
       "drama",
       "erotic",
-      "LGBT-related",
+      "lgbt-related",
       "romance"
     ],
     "subjects": [
+      "breakup",
       "human sexuality",
       "intimate relationship",
       "romance",
@@ -23822,7 +23907,7 @@
       "Morgan Freeman"
     ],
     "directors": ["Antoine Fuqua"],
-    "genres": ["action", "thriller"],
+    "genres": ["action", "political thriller", "thriller"],
     "subjects": ["terrorism", "White House"]
   },
   "Wild (2014)": {
@@ -23912,6 +23997,7 @@
     "subjects": [
       "behavioral disorder",
       "child abuse",
+      "coming to terms with the past",
       "coping",
       "death of subject's partner",
       "motherhood",
@@ -23960,7 +24046,7 @@
       "Maggie Gyllenhaal"
     ],
     "directors": ["Roland Emmerich"],
-    "genres": ["action", "drama", "thriller"],
+    "genres": ["action", "drama", "political thriller", "thriller"],
     "subjects": ["terrorism", "White House"]
   },
   "PK (2014)": {
@@ -24128,6 +24214,7 @@
       "drama",
       "dystopian",
       "film based on literature",
+      "intersex",
       "sci-fi",
       "science fiction",
       "thriller",
@@ -24146,11 +24233,11 @@
     ],
     "directors": ["Todd Haynes"],
     "genres": [
-      "Christmas",
+      "christmas",
       "drama",
       "film based on a novel",
-      "Lesbian-related",
-      "LGBT-related",
+      "lesbian-related",
+      "lgbt-related",
       "melodrama",
       "romance"
     ]
@@ -24193,7 +24280,7 @@
       "Vincent D'Onofrio"
     ],
     "directors": ["Antoine Fuqua"],
-    "genres": ["action", "adventure", "crime", "western", "Western"]
+    "genres": ["action", "adventure", "crime", "western"]
   },
   "The Heat (2013)": {
     "title": "The Heat",
@@ -24212,7 +24299,7 @@
       "comedy",
       "crime",
       "female buddy",
-      "LGBT-related"
+      "lgbt-related"
     ]
   },
   "Atomic Blonde (2017)": {
@@ -24226,7 +24313,7 @@
       "John Goodman"
     ],
     "directors": ["David Leitch"],
-    "genres": ["action", "girls with guns", "LGBT-related", "spy", "thriller"]
+    "genres": ["action", "girls with guns", "lgbt-related", "spy", "thriller"]
   },
   "Taken 3 (2014)": {
     "title": "Taken 3",
@@ -24252,7 +24339,7 @@
       "Robert De Niro"
     ],
     "directors": ["David O. Russell"],
-    "genres": ["biographical", "biography", "Christmas", "comedy", "drama"]
+    "genres": ["biographical", "biography", "christmas", "comedy", "drama"]
   },
   "The Adam Project (2022)": {
     "title": "The Adam Project",
@@ -24399,7 +24486,7 @@
       "Seth MacFarlane"
     ],
     "directors": ["Seth MacFarlane"],
-    "genres": ["comedy", "Western", "western"]
+    "genres": ["comedy", "western"]
   },
   "Get Hard (2015)": {
     "title": "Get Hard",
@@ -24522,7 +24609,7 @@
     "genres": [
       "action",
       "adventure",
-      "LGBT-related",
+      "lgbt-related",
       "sci-fi",
       "science fiction",
       "thriller"
@@ -24702,6 +24789,7 @@
     "imdb": "tt2820852",
     "decade": "2010s",
     "actors": ["Dwayne Johnson", "Jason Statham", "Paul Walker", "Vin Diesel"],
+    "directors": ["James Wan"],
     "genres": ["action", "comedy", "crime", "drama", "heist", "thriller"],
     "subjects": ["motor car", "terrorism"]
   },
@@ -24716,7 +24804,7 @@
       "Rebel Wilson"
     ],
     "directors": ["Elizabeth Banks"],
-    "genres": ["comedy", "LGBT-related", "music", "musical"]
+    "genres": ["comedy", "lgbt-related", "music", "musical"]
   },
   "Tag (2018)": {
     "title": "Tag",
@@ -24947,6 +25035,7 @@
       "Patrick Wilson",
       "Vera Farmiga"
     ],
+    "directors": ["James Wan"],
     "genres": ["ghost", "horror", "mystery", "thriller"]
   },
   "Creed (2015)": {
@@ -25296,7 +25385,7 @@
       "Walton Goggins"
     ],
     "directors": ["Quentin Tarantino"],
-    "genres": ["crime", "drama", "mystery", "Western"],
+    "genres": ["crime", "drama", "mystery", "western"],
     "subjects": [
       "ambush",
       "bounty hunter",
@@ -25487,7 +25576,7 @@
       "biography",
       "crime",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "thriller"
     ]
   },
@@ -25701,7 +25790,7 @@
       "fantasy",
       "sci-fi",
       "science fiction",
-      "space Western",
+      "space western",
       "speculative/fantastic fiction"
     ],
     "subjects": ["Han Solo"]
@@ -25823,7 +25912,7 @@
       "drama",
       "erotic thriller",
       "film based on literature",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "thriller"
     ]
@@ -25841,6 +25930,7 @@
     "directors": ["Kenneth Lonergan"],
     "genres": ["drama"],
     "subjects": [
+      "coming to terms with the past",
       "coping",
       "death of a sibling",
       "guilt",
@@ -26131,7 +26221,7 @@
       "Zac Efron"
     ],
     "directors": ["Nicholas Stoller"],
-    "genres": ["comedy", "LGBT-related"]
+    "genres": ["comedy", "lgbt-related"]
   },
   "Gifted (2017)": {
     "title": "Gifted",
@@ -26179,7 +26269,7 @@
       "Zoey Deutch"
     ],
     "directors": ["John Hamburg"],
-    "genres": ["Christmas", "comedy"]
+    "genres": ["christmas", "comedy"]
   },
   "Ghostbusters: Afterlife (2021)": {
     "title": "Ghostbusters: Afterlife",
@@ -26397,7 +26487,7 @@
       "Tracy Letts"
     ],
     "directors": ["Greta Gerwig"],
-    "genres": ["comedy", "comedy drama", "drama", "LGBT-related", "tragicomedy"]
+    "genres": ["comedy", "comedy drama", "drama", "lgbt-related", "tragicomedy"]
   },
   "Split (2016)": {
     "title": "Split",
@@ -26423,7 +26513,7 @@
       "Trevante Rhodes"
     ],
     "directors": ["Barry Jenkins"],
-    "genres": ["drama", "LGBT-related"],
+    "genres": ["drama", "lgbt-related"],
     "subjects": [
       "cycle of poverty",
       "drug-related crime",
@@ -26535,7 +26625,7 @@
     "decade": "2010s",
     "actors": ["Emma Stone", "Nicholas Hoult", "Olivia Colman", "Rachel Weisz"],
     "directors": ["Y\u00f3rgos L\u00e1nthimos"],
-    "genres": ["biographical", "biography", "comedy", "drama", "LGBT-related"],
+    "genres": ["biographical", "biography", "comedy", "drama", "lgbt-related"],
     "subjects": [
       "ambition",
       "Anne, Queen of Great Britain",
@@ -26629,7 +26719,7 @@
       "Nick Robinson"
     ],
     "directors": ["Greg Berlanti"],
-    "genres": ["comedy", "drama", "LGBT-related", "romance"],
+    "genres": ["comedy", "drama", "lgbt-related", "romance"],
     "subjects": ["coming out"]
   },
   "Happy Death Day (2017)": {
@@ -26666,13 +26756,14 @@
       "Kelsey Asbille"
     ],
     "directors": ["Taylor Sheridan"],
-    "genres": ["crime", "drama", "mystery", "thriller", "Western"]
+    "genres": ["crime", "drama", "mystery", "thriller", "western"]
   },
   "Sound of Metal (2019)": {
     "title": "Sound of Metal",
     "imdb": "tt5363618",
     "decade": "2010s",
     "actors": ["Lauren Ridloff", "Olivia Cooke", "Paul Raci", "Riz Ahmed"],
+    "directors": ["Darius Marder"],
     "genres": ["drama", "music"]
   },
   "F9 (2021)": {
@@ -26744,7 +26835,7 @@
       "action",
       "adventure",
       "comedy",
-      "LGBT-related",
+      "lgbt-related",
       "speculative/fantastic fiction",
       "superhero",
       "time-travel"
@@ -26791,7 +26882,7 @@
     "genres": [
       "drama",
       "fantasy",
-      "LGBT-related",
+      "lgbt-related",
       "magic realist",
       "melodrama",
       "romance",
@@ -26862,7 +26953,7 @@
     "genres": [
       "coming-of-age fiction",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "romance",
       "romantic drama"
     ],
@@ -27023,7 +27114,7 @@
       "comedy",
       "comedy drama",
       "drama",
-      "LGBT-related"
+      "lgbt-related"
     ]
   },
   "The Post (2017)": {
@@ -27106,7 +27197,7 @@
       "comedy",
       "drama",
       "musical",
-      "Western"
+      "western"
     ]
   },
   "Black Adam (2022)": {
@@ -27185,7 +27276,7 @@
     "actors": ["Cynthia Erivo", "Dakota Johnson", "Jeff Bridges", "Jon Hamm"],
     "directors": ["Drew Goddard"],
     "genres": ["crime", "crime thriller", "drama", "mystery", "neo-noir"],
-    "subjects": ["guilt", "outsider"]
+    "subjects": ["coming to terms with the past", "guilt", "outsider"]
   },
   "A Quiet Place (2018)": {
     "title": "A Quiet Place",
@@ -27341,6 +27432,7 @@
       "thriller"
     ],
     "subjects": [
+      "coming to terms with the past",
       "psychological repression",
       "self-discovery",
       "self-reflection"
@@ -27363,7 +27455,7 @@
       "comedy",
       "comedy drama",
       "drama",
-      "LGBT-related",
+      "lgbt-related",
       "road movie"
     ],
     "subjects": [
@@ -27532,7 +27624,7 @@
       "fantasy",
       "film based on a novel",
       "horror",
-      "LGBT-related",
+      "lgbt-related",
       "slasher",
       "supernatural horror"
     ]
@@ -28171,6 +28263,7 @@
       "vigilante"
     ],
     "subjects": [
+      "coming to terms with the past",
       "death of a close person",
       "drinking culture",
       "gender relations",
