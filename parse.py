@@ -26,7 +26,6 @@ WDT = Namespace("http://www.wikidata.org/prop/direct/")
 
 
 def main(entity_type, *props):
-
     find_next = set()
 
     for entity in wikidata(
