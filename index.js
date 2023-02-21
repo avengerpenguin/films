@@ -97,11 +97,11 @@ const config = {
         const selection = event.detail.selection.value;
         if (selection === answer) {
           document.getElementById(
-            "result"
+            "result",
           ).innerHTML = `<p class="right">${selection} is correct!</p>`;
         } else {
           document.getElementById(
-            "result"
+            "result",
           ).innerHTML = `<p class="wrong">Not ${selection}!</p>`;
         }
 
@@ -113,7 +113,7 @@ const config = {
 
         // Disallow guessing this again
         autoCompleteJS.data.src = autoCompleteJS.data.src.filter(
-          (x) => x !== selection
+          (x) => x !== selection,
         );
 
         // Return focus back to guess box for quick feedback loops
