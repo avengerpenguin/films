@@ -1772,7 +1772,7 @@
       "Thomas Mann"
     ],
     "directors": ["Nima Nourizadeh"],
-    "composers": [""],
+    "composers": null,
     "settings": ["California"],
     "genres": ["comedy", "found footage", "teen"],
     "subjects": ["alcoholism"]
@@ -1891,7 +1891,7 @@
     "decade": "2010s",
     "actors": ["Adelaide Kane", "Ethan Hawke", "Lena Headey", "Max Burkholder"],
     "directors": ["James DeMonaco"],
-    "composers": [""],
+    "composers": null,
     "settings": ["Los Angeles"],
     "genres": ["dystopian", "horror", "sci-fi", "science fiction", "thriller"],
     "subjects": null
@@ -2326,7 +2326,7 @@
       "William Jackson Harper"
     ],
     "directors": ["Ari Aster"],
-    "composers": [""],
+    "composers": null,
     "settings": ["H\u00e5rga", "Sweden"],
     "genres": ["drama", "horror", "mystery", "thriller"],
     "subjects": null
