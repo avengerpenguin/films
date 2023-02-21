@@ -7785,6 +7785,29 @@
     "genres": ["action", "drama", "film based on a novel", "spy", "thriller"],
     "subjects": null
   },
+  "Ad Astra (2019)": {
+    "title": "Ad Astra",
+    "imdb": "tt2935510",
+    "decade": "2010s",
+    "actors": [
+      "Brad Pitt",
+      "Donald Sutherland",
+      "Ruth Negga",
+      "Tommy Lee Jones"
+    ],
+    "directors": ["James Gray"],
+    "composers": ["Max Richter"],
+    "settings": null,
+    "genres": [
+      "adventure",
+      "drama",
+      "epic",
+      "mystery",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": null
+  },
   "The Purge: Anarchy (2014)": {
     "title": "The Purge: Anarchy",
     "imdb": "tt2975578",
@@ -8289,6 +8312,22 @@
     "genres": ["biographical", "biography", "black comedy", "comedy", "drama"],
     "subjects": ["Tonya Harding"]
   },
+  "The Nun (2018)": {
+    "title": "The Nun",
+    "imdb": "tt5814060",
+    "decade": "2010s",
+    "actors": [
+      "Bonnie Aarons",
+      "Demi\u00e1n Bichir",
+      "Jonas Bloquet",
+      "Taissa Farmiga"
+    ],
+    "directors": ["Corin Hardy"],
+    "composers": ["Abel Korzeniowski"],
+    "settings": ["Romania"],
+    "genres": ["detective", "ghost", "horror", "mystery", "thriller"],
+    "subjects": null
+  },
   "Free Guy (2021)": {
     "title": "Free Guy",
     "imdb": "tt6264654",
@@ -8377,6 +8416,28 @@
     "composers": ["Theodore Shapiro"],
     "settings": ["New York City"],
     "genres": ["biography", "drama"],
+    "subjects": null
+  },
+  "Black Adam (2022)": {
+    "title": "Black Adam",
+    "imdb": "tt6443346",
+    "decade": "2020s",
+    "actors": [
+      "Aldis Hodge",
+      "Dwayne Johnson",
+      "Noah Centineo",
+      "Pierce Brosnan"
+    ],
+    "directors": ["Jaume Collet-Serra"],
+    "composers": ["Lorne Balfe"],
+    "settings": ["Kahndaq"],
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy",
+      "science fiction",
+      "superhero"
+    ],
     "subjects": null
   },
   "Us (2019)": {
