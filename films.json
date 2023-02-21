@@ -13,6 +13,8 @@
       "Reginald Gardiner"
     ],
     "directors": ["Charlie Chaplin"],
+    "composers": ["Charlie Chaplin", "Meredith Willson"],
+    "settings": ["Bacteria", "Osterlich", "Tomainia"],
     "genres": [
       "anti-war",
       "comedy",
@@ -32,6 +34,8 @@
     "decade": "1950s",
     "actors": ["Henry Fonda", "John Fiedler", "Lee J. Cobb", "Martin Balsam"],
     "directors": ["Sidney Lumet"],
+    "composers": ["Kenyon Hopkins"],
+    "settings": ["Manhattan"],
     "genres": ["crime", "drama", "huis clos", "trial"],
     "subjects": ["capital punishment", "distinction", "jury trial"]
   },
@@ -46,6 +50,8 @@
       "Stephen Boyd"
     ],
     "directors": ["William Wyler"],
+    "composers": ["Mikl\u00f3s R\u00f3zsa"],
+    "settings": ["Israel"],
     "genres": [
       "action",
       "adventure",
@@ -55,7 +61,7 @@
       "film based on a novel",
       "peplum genre"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "North by Northwest (1959)": {
     "title": "North by Northwest",
@@ -68,6 +74,15 @@
       "Jessie Royce Landis"
     ],
     "directors": ["Alfred Hitchcock"],
+    "composers": ["Bernard Herrmann"],
+    "settings": [
+      "Chicago",
+      "Indiana",
+      "Long Island",
+      "Manhattan",
+      "Mount Rushmore",
+      "New York City"
+    ],
     "genres": ["action", "adventure", "crime", "mystery", "spy", "thriller"],
     "subjects": ["espionage", "kidnapping", "mistaken identity"]
   },
@@ -82,6 +97,8 @@
       "Steve McQueen"
     ],
     "directors": ["John Sturges"],
+    "composers": ["Elmer Bernstein"],
+    "settings": ["Germany"],
     "genres": [
       "adventure",
       "drama",
@@ -103,6 +120,8 @@
       "Warren Clarke"
     ],
     "directors": ["Stanley Kubrick"],
+    "composers": ["Wendy Carlos"],
+    "settings": ["London"],
     "genres": [
       "crime",
       "drama",
@@ -128,6 +147,8 @@
       "Roy Scheider"
     ],
     "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": ["Massachusetts"],
     "genres": [
       "adventure",
       "drama",
@@ -155,6 +176,8 @@
       "Robert Englund"
     ],
     "directors": ["Wes Craven"],
+    "composers": ["Charles Bernstein"],
+    "settings": ["Ohio"],
     "genres": ["ghost", "horror", "slasher", "teen"],
     "subjects": ["dream", "reality", "serial killer"]
   },
@@ -169,6 +192,8 @@
       "Treat Williams"
     ],
     "directors": ["Sergio Leone"],
+    "composers": ["Ennio Morricone"],
+    "settings": ["Brooklyn", "New York City"],
     "genres": ["crime", "drama", "film based on a novel", "flashback"],
     "subjects": ["organized crime"]
   },
@@ -183,6 +208,8 @@
       "Molly Ringwald"
     ],
     "directors": ["John Hughes"],
+    "composers": ["Keith Forsey"],
+    "settings": ["Chicago"],
     "genres": [
       "comedy",
       "comedy drama",
@@ -190,7 +217,7 @@
       "drama",
       "teen"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Aliens (1986)": {
     "title": "Aliens",
@@ -203,6 +230,8 @@
       "Sigourney Weaver"
     ],
     "directors": ["James Cameron"],
+    "composers": ["James Horner"],
+    "settings": ["Acheron", "Hadley's Hope", "USS Sulaco"],
     "genres": [
       "action",
       "adventure",
@@ -224,8 +253,10 @@
       "Kevin Peter Hall"
     ],
     "directors": ["John McTiernan"],
+    "composers": ["Alan Silvestri"],
+    "settings": ["Guatemala"],
     "genres": ["action", "adventure", "horror", "science fiction", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Dances with Wolves (1990)": {
     "title": "Dances with Wolves",
@@ -238,8 +269,10 @@
       "Rodney A. Grant"
     ],
     "directors": ["Kevin Costner"],
+    "composers": ["John Barry"],
+    "settings": ["South Dakota"],
     "genres": ["adventure", "drama", "film based on a novel", "war", "western"],
-    "subjects": [""]
+    "subjects": null
   },
   "Edward Scissorhands (1990)": {
     "title": "Edward Scissorhands",
@@ -252,6 +285,8 @@
       "Winona Ryder"
     ],
     "directors": ["Tim Burton"],
+    "composers": ["Danny Elfman"],
+    "settings": null,
     "genres": [
       "christmas",
       "comedy",
@@ -261,7 +296,7 @@
       "romance",
       "science fiction"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Total Recall (1990)": {
     "title": "Total Recall",
@@ -274,6 +309,8 @@
       "Sharon Stone"
     ],
     "directors": ["Paul Verhoeven"],
+    "composers": ["Jerry Goldsmith"],
+    "settings": ["Mars"],
     "genres": [
       "action",
       "adventure",
@@ -304,6 +341,16 @@
       "Lawrence A. Bonney"
     ],
     "directors": ["Jonathan Demme"],
+    "composers": ["Howard Shore"],
+    "settings": [
+      "Baltimore",
+      "Illinois",
+      "Memphis",
+      "Ohio",
+      "Quantico",
+      "Virginia",
+      "Washington, D.C."
+    ],
     "genres": [
       "crime",
       "drama",
@@ -327,6 +374,8 @@
       "Sigourney Weaver"
     ],
     "directors": ["David Fincher"],
+    "composers": ["Elliot Goldenthal"],
+    "settings": ["Fiorina \"Fury\" 161"],
     "genres": [
       "action",
       "adventure",
@@ -343,6 +392,8 @@
     "decade": "1990s",
     "actors": ["Demi Moore", "Jack Nicholson", "Kevin Bacon", "Tom Cruise"],
     "directors": ["Rob Reiner"],
+    "composers": ["Marc Shaiman"],
+    "settings": ["Guantanamo Bay Naval Base", "Washington, D.C."],
     "genres": ["crime", "drama", "legal drama", "thriller", "trial"],
     "subjects": ["extrajudicial punishment", "United States Marine Corps"]
   },
@@ -357,6 +408,8 @@
       "Tom Hanks"
     ],
     "directors": ["Jonathan Demme"],
+    "composers": ["Howard Shore"],
+    "settings": ["Philadelphia"],
     "genres": ["drama", "lgbt-related", "trial"],
     "subjects": ["HIV/AIDS", "homophobia"]
   },
@@ -371,6 +424,14 @@
       "Ralph Fiennes"
     ],
     "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": [
+      "Auschwitz",
+      "Br\u00fcnnlitz labor camp",
+      "Krak\u00f3w",
+      "Krak\u00f3w Ghetto",
+      "Krak\u00f3w-P\u0142asz\u00f3w concentration camp"
+    ],
     "genres": [
       "biographical",
       "biography",
@@ -393,8 +454,10 @@
     "decade": "1990s",
     "actors": ["Jim Carrey", "Nicole Kidman", "Tommy Lee Jones", "Val Kilmer"],
     "directors": ["Joel Schumacher"],
+    "composers": ["Elliot Goldenthal"],
+    "settings": ["Gotham City"],
     "genres": ["action", "adventure", "fantasy", "neo-noir", "superhero"],
-    "subjects": [""]
+    "subjects": null
   },
   "Happy Gilmore (1996)": {
     "title": "Happy Gilmore",
@@ -407,6 +470,8 @@
       "Julie Bowen"
     ],
     "directors": ["Dennis Dugan"],
+    "composers": ["Mark Mothersbaugh"],
+    "settings": null,
     "genres": ["comedy", "sport"],
     "subjects": ["baseball"]
   },
@@ -421,6 +486,8 @@
       "Steve Buscemi"
     ],
     "directors": ["Ethan Coen", "Joel Coen"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Los Angeles"],
     "genres": ["comedy", "comedy of error", "crime", "film noir"],
     "subjects": ["V\u00e5g\u00e5sommeren"]
   },
@@ -435,6 +502,16 @@
       "Tom Skerritt"
     ],
     "directors": ["Robert Zemeckis"],
+    "composers": ["Alan Silvestri"],
+    "settings": [
+      "Florida",
+      "Hokkaido",
+      "New Mexico",
+      "Puerto Rico",
+      "Vega",
+      "Washington, D.C.",
+      "Wisconsin"
+    ],
     "genres": [
       "drama",
       "film based on a novel",
@@ -463,8 +540,10 @@
       "Stellan Skarsg\u00e5rd"
     ],
     "directors": ["Gus Van Sant"],
+    "composers": ["Danny Elfman", "Elliott Smith"],
+    "settings": ["Boston"],
     "genres": ["coming-of-age fiction", "drama", "romance"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Lord of the Rings: The Fellowship of the Ring (2001)": {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -472,6 +551,8 @@
     "decade": "2000s",
     "actors": ["Elijah Wood", "Ian McKellen", "Orlando Bloom", "Sean Bean"],
     "directors": ["Peter Jackson"],
+    "composers": ["Howard Shore"],
+    "settings": ["Middle-earth"],
     "genres": [
       "action",
       "adventure",
@@ -479,7 +560,7 @@
       "fantasy",
       "film based on a novel"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Mission: Impossible 2 (2000)": {
     "title": "Mission: Impossible 2",
@@ -487,6 +568,8 @@
     "decade": "2000s",
     "actors": ["Dougray Scott", "Thandiwe Newton", "Tom Cruise", "Ving Rhames"],
     "directors": ["John Woo"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Dead Horse Point State Park", "Seville", "Sydney"],
     "genres": ["action", "adventure", "spy", "thriller"],
     "subjects": ["terrorism"]
   },
@@ -496,6 +579,8 @@
     "decade": "1990s",
     "actors": ["Brad Pitt", "Edward Norton", "Meat Loaf", "Zach Grenier"],
     "directors": ["David Fincher"],
+    "composers": ["Dust Brothers"],
+    "settings": ["Los Angeles"],
     "genres": [
       "drama",
       "film based on a novel",
@@ -516,6 +601,8 @@
       "Willem Dafoe"
     ],
     "directors": ["Troy Duffy"],
+    "composers": ["Jeff Danna"],
+    "settings": ["Boston"],
     "genres": [
       "action",
       "buddy",
@@ -525,7 +612,7 @@
       "thriller",
       "vigilante"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Spider-Man (2002)": {
     "title": "Spider-Man",
@@ -538,6 +625,8 @@
       "Willem Dafoe"
     ],
     "directors": ["Sam Raimi"],
+    "composers": ["Danny Elfman"],
+    "settings": ["New York City"],
     "genres": [
       "action",
       "adventure",
@@ -547,7 +636,7 @@
       "science fiction",
       "superhero"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Austin Powers: The Spy Who Shagged Me (1999)": {
     "title": "Austin Powers: The Spy Who Shagged Me",
@@ -555,6 +644,8 @@
     "decade": "1990s",
     "actors": ["Heather Graham", "Michael York", "Mike Myers", "Robert Wagner"],
     "directors": ["Jay Roach"],
+    "composers": ["George S. Clinton"],
+    "settings": ["London", "Moon", "Seattle"],
     "genres": ["action", "adventure", "comedy", "parody", "spy"],
     "subjects": ["cloning", "time travel"]
   },
@@ -569,6 +660,8 @@
       "Michael C. Williams"
     ],
     "directors": ["Daniel Myrick", "Eduardo S\u00e1nchez"],
+    "composers": ["Tony Cora"],
+    "settings": ["Maryland"],
     "genres": ["found footage", "horror", "mystery", "psychological horror"],
     "subjects": [
       "filmmaking",
@@ -589,6 +682,8 @@
       "Wesley Snipes"
     ],
     "directors": ["Guillermo del Toro"],
+    "composers": ["Marco Beltrami"],
+    "settings": ["London"],
     "genres": [
       "action",
       "fantasy",
@@ -599,7 +694,7 @@
       "thriller",
       "vampire"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Unbreakable (2000)": {
     "title": "Unbreakable",
@@ -612,6 +707,8 @@
       "Spencer Treat Clark"
     ],
     "directors": ["M. Night Shyamalan"],
+    "composers": ["James Newton Howard"],
+    "settings": ["Philadelphia"],
     "genres": [
       "detective",
       "drama",
@@ -623,7 +720,7 @@
       "superhero",
       "thriller"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "The Fast and the Furious (2001)": {
     "title": "The Fast and the Furious",
@@ -636,6 +733,8 @@
       "Vin Diesel"
     ],
     "directors": ["Rob Cohen"],
+    "composers": ["BT"],
+    "settings": ["Los Angeles", "Mexico"],
     "genres": ["action", "crime", "thriller"],
     "subjects": ["Los Angeles Police Department"]
   },
@@ -650,8 +749,10 @@
       "Selma Blair"
     ],
     "directors": ["Robert Luketic"],
+    "composers": ["Rolfe Kent"],
+    "settings": ["California"],
     "genres": ["comedy", "film based on a novel", "romance"],
-    "subjects": [""]
+    "subjects": null
   },
   "How to Lose a Guy in 10 Days (2003)": {
     "title": "How to Lose a Guy in 10 Days",
@@ -664,8 +765,10 @@
       "Matthew McConaughey"
     ],
     "directors": ["Donald Petrie"],
+    "composers": ["David Newman"],
+    "settings": ["New York City"],
     "genres": ["comedy", "romance", "romantic comedy"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Pianist (2002)": {
     "title": "The Pianist",
@@ -678,6 +781,8 @@
       "Thomas Kretschmann"
     ],
     "directors": ["Roman Polanski"],
+    "composers": ["Wojciech Kilar"],
+    "settings": ["Warsaw", "Warsaw Ghetto"],
     "genres": [
       "biographical",
       "biography",
@@ -701,6 +806,8 @@
       "Rory Culkin"
     ],
     "directors": ["M. Night Shyamalan"],
+    "composers": ["James Newton Howard"],
+    "settings": ["Bucks County"],
     "genres": [
       "alien invasion",
       "drama",
@@ -724,6 +831,8 @@
       "Shu Qi"
     ],
     "directors": ["Corey Yuen", "Louis Leterrier"],
+    "composers": ["Stanley Clarke"],
+    "settings": ["Nice", "Paris"],
     "genres": ["action", "crime", "crime thriller", "thriller"],
     "subjects": ["carrier", "organized crime"]
   },
@@ -733,8 +842,10 @@
     "decade": "2000s",
     "actors": ["Colm Feore", "Judi Dench", "Thandiwe Newton", "Vin Diesel"],
     "directors": ["David Twohy"],
+    "composers": ["Graeme Revell"],
+    "settings": null,
     "genres": ["action", "adventure", "sci-fi", "science fiction"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Italian Job (2003)": {
     "title": "The Italian Job",
@@ -747,8 +858,10 @@
       "Mark Wahlberg"
     ],
     "directors": ["F. Gary Gray"],
+    "composers": ["John Powell"],
+    "settings": ["California", "Los Angeles"],
     "genres": ["action", "crime", "heist", "mystery", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Notebook (2004)": {
     "title": "The Notebook",
@@ -761,13 +874,15 @@
       "Ryan Gosling"
     ],
     "directors": ["Nick Cassavetes"],
+    "composers": ["Aaron Zigman"],
+    "settings": ["South Carolina"],
     "genres": [
       "coming-of-age fiction",
       "drama",
       "film based on a novel",
       "romance"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "School of Rock (2003)": {
     "title": "School of Rock",
@@ -775,8 +890,10 @@
     "decade": "2000s",
     "actors": ["Adam Pascal", "Jack Black", "Joan Cusack", "Mike White"],
     "directors": ["Richard Linklater"],
+    "composers": ["Jack Black"],
+    "settings": ["New York"],
     "genres": ["comedy", "music", "musical"],
-    "subjects": [""]
+    "subjects": null
   },
   "Troy (2004)": {
     "title": "Troy",
@@ -784,6 +901,8 @@
     "decade": "2000s",
     "actors": ["Brad Pitt", "Eric Bana", "Julian Glover", "Orlando Bloom"],
     "directors": ["Wolfgang Petersen"],
+    "composers": ["James Horner"],
+    "settings": ["Ancient Greece"],
     "genres": ["action", "drama", "film based on books", "war"],
     "subjects": ["Trojan War"]
   },
@@ -793,6 +912,8 @@
     "decade": "2000s",
     "actors": ["Adam Sandler", "Drew Barrymore", "Rob Schneider", "Sean Astin"],
     "directors": ["Peter Segal"],
+    "composers": ["Teddy Castellucci"],
+    "settings": ["Hawaii"],
     "genres": ["comedy", "drama", "romance", "romantic comedy"],
     "subjects": ["amnesia"]
   },
@@ -807,6 +928,8 @@
       "Will Smith"
     ],
     "directors": ["Alex Proyas"],
+    "composers": ["Marco Beltrami"],
+    "settings": ["Chicago"],
     "genres": [
       "action",
       "dystopian",
@@ -828,6 +951,8 @@
       "Julia Roberts"
     ],
     "directors": ["Steven Soderbergh"],
+    "composers": ["David Holmes"],
+    "settings": ["France", "Italy", "Lake Como", "Netherlands"],
     "genres": [
       "action",
       "comedy",
@@ -837,7 +962,7 @@
       "mystery",
       "thriller"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "X-Men: The Last Stand (2006)": {
     "title": "X-Men: The Last Stand",
@@ -850,6 +975,8 @@
       "Patrick Stewart"
     ],
     "directors": ["Brett Ratner"],
+    "composers": ["John Powell"],
+    "settings": ["Alberta", "New York", "San Francisco", "Washington, D.C."],
     "genres": [
       "action",
       "adventure",
@@ -858,7 +985,7 @@
       "science fiction",
       "superhero"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Mean Girls (2004)": {
     "title": "Mean Girls",
@@ -871,6 +998,8 @@
       "Tina Fey"
     ],
     "directors": ["Mark Waters"],
+    "composers": ["Rolfe Kent"],
+    "settings": ["Evanston"],
     "genres": [
       "comedy",
       "film based on books",
@@ -891,6 +1020,8 @@
       "Nathan Fillion"
     ],
     "directors": ["Joss Whedon"],
+    "composers": ["David Newman"],
+    "settings": ["Cortex Relay 7", "Miranda", "Serenity"],
     "genres": [
       "action",
       "adventure",
@@ -904,7 +1035,7 @@
       "speculative/fantastic fiction",
       "western"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Hitch (2005)": {
     "title": "Hitch",
@@ -912,8 +1043,10 @@
     "decade": "2000s",
     "actors": ["Amber Valletta", "Eva Mendes", "Kevin James", "Will Smith"],
     "directors": ["Andy Tennant"],
+    "composers": ["George Fenton"],
+    "settings": ["New York City"],
     "genres": ["comedy", "romance", "romantic comedy"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Fountain (2006)": {
     "title": "The Fountain",
@@ -926,6 +1059,8 @@
       "Sean Patrick Thomas"
     ],
     "directors": ["Darren Aronofsky"],
+    "composers": ["Clint Mansell"],
+    "settings": ["Spain"],
     "genres": [
       "adventure",
       "drama",
@@ -935,7 +1070,7 @@
       "romance",
       "science fiction"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Match Point (2005)": {
     "title": "Match Point",
@@ -948,8 +1083,10 @@
       "Scarlett Johansson"
     ],
     "directors": ["Woody Allen"],
+    "composers": ["Georges Bizet"],
+    "settings": ["London"],
     "genres": ["crime", "drama", "romance", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "The A-Team (2010)": {
     "title": "The A-Team",
@@ -962,6 +1099,8 @@
       "Sharlto Copley"
     ],
     "directors": ["Joe Carnahan"],
+    "composers": ["Alan Silvestri"],
+    "settings": ["Los Angeles", "Mexico"],
     "genres": [
       "action",
       "action comedy",
@@ -983,6 +1122,8 @@
       "Meryl Streep"
     ],
     "directors": ["Wes Anderson"],
+    "composers": ["Alexandre Desplat"],
+    "settings": null,
     "genres": [
       "action",
       "adventure",
@@ -992,7 +1133,7 @@
       "melodrama",
       "stop-motion animated"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Real Steel (2011)": {
     "title": "Real Steel",
@@ -1005,6 +1146,8 @@
       "Hugh Jackman"
     ],
     "directors": ["Shawn Levy"],
+    "composers": ["Danny Elfman"],
+    "settings": ["Detroit", "New York City", "Texas"],
     "genres": [
       "action",
       "boxing",
@@ -1013,7 +1156,7 @@
       "sci-fi",
       "science fiction"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Sunshine (2007)": {
     "title": "Sunshine",
@@ -1021,8 +1164,10 @@
     "decade": "2000s",
     "actors": ["Chris Evans", "Cillian Murphy", "Cliff Curtis", "Rose Byrne"],
     "directors": ["Danny Boyle"],
+    "composers": ["John Murphy"],
+    "settings": ["Sydney"],
     "genres": ["adventure", "sci-fi", "science fiction", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Inside Man (2006)": {
     "title": "Inside Man",
@@ -1035,8 +1180,10 @@
       "Jodie Foster"
     ],
     "directors": ["Spike Lee"],
+    "composers": ["Terence Blanchard"],
+    "settings": ["New York City"],
     "genres": ["action", "crime", "drama", "heist", "mystery"],
-    "subjects": [""]
+    "subjects": null
   },
   "Ex Machina (2014)": {
     "title": "Ex Machina",
@@ -1049,6 +1196,8 @@
       "Sonoya Mizuno"
     ],
     "directors": ["Alex Garland"],
+    "composers": ["Ben Salisbury", "Geoff Barrow"],
+    "settings": ["Alaska"],
     "genres": [
       "drama",
       "psychological thriller",
@@ -1069,6 +1218,8 @@
     "decade": "2000s",
     "actors": ["Aaron Yoo", "Jim Sturgess", "Kate Bosworth", "Kevin Spacey"],
     "directors": ["Robert Luketic"],
+    "composers": ["Dave Sardy"],
+    "settings": ["Boston"],
     "genres": ["crime", "drama", "film based on literature", "history"],
     "subjects": ["gambling", "MIT Blackjack Team"]
   },
@@ -1078,6 +1229,8 @@
     "decade": "2000s",
     "actors": ["Katherine Heigl", "Leslie Mann", "Paul Rudd", "Seth Rogen"],
     "directors": ["Judd Apatow"],
+    "composers": ["Loudon Wainwright III"],
+    "settings": ["Los Angeles"],
     "genres": ["comedy", "comedy drama", "drama", "romance", "romantic comedy"],
     "subjects": ["human pregnancy"]
   },
@@ -1092,8 +1245,10 @@
       "Jose Pablo Cantillo"
     ],
     "directors": ["Brian Taylor", "Mark Neveldine"],
+    "composers": ["Paul Haslinger"],
+    "settings": ["Los Angeles"],
     "genres": ["action", "crime", "crime thriller", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "I Am Legend (2007)": {
     "title": "I Am Legend",
@@ -1106,6 +1261,8 @@
       "Will Smith"
     ],
     "directors": ["Francis Lawrence"],
+    "composers": ["James Newton Howard"],
+    "settings": ["New York City"],
     "genres": [
       "action",
       "drama",
@@ -1128,6 +1285,14 @@
       "Russell Crowe"
     ],
     "directors": ["Ridley Scott"],
+    "composers": ["Marc Streitenfeld"],
+    "settings": [
+      "Harlem",
+      "Manhattanville",
+      "New Jersey",
+      "New York City",
+      "Thailand"
+    ],
     "genres": [
       "biographical",
       "biography",
@@ -1149,8 +1314,10 @@
       "Stellan Skarsg\u00e5rd"
     ],
     "directors": ["Phyllida Lloyd"],
+    "composers": ["Stig Anderson"],
+    "settings": ["Greece"],
     "genres": ["comedy", "musical", "romance", "romantic comedy"],
-    "subjects": [""]
+    "subjects": null
   },
   "Warcraft (2016)": {
     "title": "Warcraft",
@@ -1158,8 +1325,10 @@
     "decade": "2010s",
     "actors": ["Ben Foster", "Dominic Cooper", "Paula Patton", "Travis Fimmel"],
     "directors": ["Duncan Jones"],
+    "composers": ["Ramin Djawadi"],
+    "settings": ["Azeroth", "Warcraft universe"],
     "genres": ["action", "adventure", "fantasy"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Blind Side (2009)": {
     "title": "The Blind Side",
@@ -1167,6 +1336,8 @@
     "decade": "2000s",
     "actors": ["Jae Head", "Quinton Aaron", "Sandra Bullock", "Tim McGraw"],
     "directors": ["John Lee Hancock"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Tennessee"],
     "genres": [
       "american football",
       "biographical",
@@ -1189,8 +1360,10 @@
       "John Malkovich"
     ],
     "directors": ["Ethan Coen", "Joel Coen"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Washington, D.C."],
     "genres": ["comedy", "crime", "drama"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Hurt Locker (2008)": {
     "title": "The Hurt Locker",
@@ -1203,6 +1376,8 @@
       "Jeremy Renner"
     ],
     "directors": ["Kathryn Bigelow"],
+    "composers": ["Marco Beltrami"],
+    "settings": ["Iraq"],
     "genres": [
       "action",
       "action thriller",
@@ -1219,8 +1394,10 @@
     "decade": "2000s",
     "actors": ["Ben Stiller", "Jack Black", "Jeff Kahn", "Robert Downey Jr."],
     "directors": ["Ben Stiller"],
+    "composers": ["Theodore Shapiro"],
+    "settings": ["Asia"],
     "genres": ["action", "comedy", "parody", "war"],
-    "subjects": [""]
+    "subjects": null
   },
   "The Reader (2008)": {
     "title": "The Reader",
@@ -1228,6 +1405,8 @@
     "decade": "2000s",
     "actors": ["Bruno Ganz", "Jeanette Hain", "Kate Winslet", "Ralph Fiennes"],
     "directors": ["Stephen Daldry"],
+    "composers": ["Nico Muhly"],
+    "settings": ["Italy"],
     "genres": [
       "coming-of-age fiction",
       "drama",
@@ -1248,6 +1427,8 @@
       "Zo\u00eb Bell"
     ],
     "directors": ["Quentin Tarantino"],
+    "composers": ["David Arnold"],
+    "settings": ["Tennessee", "Texas"],
     "genres": ["action", "slasher", "splatter", "thriller", "vigilante"],
     "subjects": ["serial killer"]
   },
@@ -1262,8 +1443,10 @@
       "Sarah Roemer"
     ],
     "directors": ["Lasse Hallstr\u00f6m"],
+    "composers": ["Jan A. P. Kaczmarek"],
+    "settings": ["Japan"],
     "genres": ["biography", "drama", "family"],
-    "subjects": [""]
+    "subjects": null
   },
   "Transformers: Revenge of the Fallen (2009)": {
     "title": "Transformers: Revenge of the Fallen",
@@ -1271,8 +1454,10 @@
     "decade": "2000s",
     "actors": ["Josh Duhamel", "Megan Fox", "Shia LaBeouf", "Tyrese Gibson"],
     "directors": ["Michael Bay"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Los Angeles", "New York City", "Paris", "Washington, D.C."],
     "genres": ["action", "adventure", "sci-fi", "science fiction"],
-    "subjects": [""]
+    "subjects": null
   },
   "Thor: Love and Thunder (2022)": {
     "title": "Thor: Love and Thunder",
@@ -1285,8 +1470,10 @@
       "Tessa Thompson"
     ],
     "directors": ["Taika Waititi"],
+    "composers": ["Michael Giacchino", "Nami Melumad"],
+    "settings": null,
     "genres": ["action", "adventure", "comedy", "science fiction", "superhero"],
-    "subjects": [""]
+    "subjects": null
   },
   "Paul (2011)": {
     "title": "Paul",
@@ -1294,6 +1481,8 @@
     "decade": "2010s",
     "actors": ["Mia Stallard", "Nick Frost", "Seth Rogen", "Simon Pegg"],
     "directors": ["Greg Mottola"],
+    "composers": ["David Arnold"],
+    "settings": ["California"],
     "genres": [
       "adventure",
       "buddy",
@@ -1311,6 +1500,8 @@
     "decade": "2000s",
     "actors": ["David James", "Jason Cope", "Nathalie Boltt", "Sharlto Copley"],
     "directors": ["Neill Blomkamp"],
+    "composers": ["Clinton Shorter"],
+    "settings": ["Johannesburg"],
     "genres": [
       "action",
       "drama",
@@ -1320,7 +1511,7 @@
       "science fiction",
       "thriller"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Escape Plan (2013)": {
     "title": "Escape Plan",
@@ -1333,8 +1524,16 @@
       "Vincent D'Onofrio"
     ],
     "directors": ["Mikael H\u00e5fstr\u00f6m"],
+    "composers": ["Alex Heffes"],
+    "settings": [
+      "Atlantic Ocean",
+      "Colorado",
+      "Los Angeles",
+      "Miami",
+      "New Orleans"
+    ],
     "genres": ["action", "prison", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Iron Man 2 (2010)": {
     "title": "Iron Man 2",
@@ -1347,8 +1546,22 @@
       "Robert Downey Jr."
     ],
     "directors": ["Jon Favreau"],
+    "composers": ["John Debney"],
+    "settings": [
+      "California",
+      "Edwards Air Force Base",
+      "Flushing",
+      "H\u00f4tel de Paris Monte-Carlo",
+      "Malibu",
+      "Monaco",
+      "Monte Carlo",
+      "Moscow",
+      "New Mexico",
+      "New York City",
+      "Washington, D.C."
+    ],
     "genres": ["action", "adventure", "sci-fi", "science fiction", "superhero"],
-    "subjects": [""]
+    "subjects": null
   },
   "Mission: Impossible \u2013 Ghost Protocol (2011)": {
     "title": "Mission: Impossible \u2013 Ghost Protocol",
@@ -1356,8 +1569,51 @@
     "decade": "2010s",
     "actors": ["Jeremy Renner", "Paula Patton", "Simon Pegg", "Tom Cruise"],
     "directors": ["Brad Bird"],
+    "composers": ["Michael Giacchino"],
+    "settings": [
+      "Budapest",
+      "Burj Khalifa",
+      "Dubai",
+      "Moscow",
+      "Mumbai",
+      "San Francisco",
+      "Seattle"
+    ],
     "genres": ["action", "adventure", "spy", "thriller"],
     "subjects": ["terrorism"]
+  },
+  "Zack Snyder's Justice League (2021)": {
+    "title": "Zack Snyder's Justice League",
+    "imdb": "tt12361974",
+    "decade": "2020s",
+    "actors": ["Amy Adams", "Ben Affleck", "Gal Gadot", "Henry Cavill"],
+    "directors": ["Zack Snyder"],
+    "composers": ["Junkie XL"],
+    "settings": [
+      "Atlantis",
+      "Batcave",
+      "Central City",
+      "Crete",
+      "Gotham City",
+      "Iceland",
+      "Kent Farm",
+      "London",
+      "Louvre Palace",
+      "Metropolis",
+      "Paris",
+      "Pozharnov",
+      "Smallville",
+      "Stryker's Island",
+      "Themyscira"
+    ],
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy",
+      "science fiction action",
+      "superhero"
+    ],
+    "subjects": ["alien invasion"]
   },
   "The Twilight Saga: New Moon (2009)": {
     "title": "The Twilight Saga: New Moon",
@@ -1370,6 +1626,8 @@
       "Taylor Lautner"
     ],
     "directors": ["Chris Weitz"],
+    "composers": ["Alexandre Desplat"],
+    "settings": ["Italy", "Washington"],
     "genres": [
       "action",
       "adventure",
@@ -1382,7 +1640,7 @@
       "vampire",
       "werewolf"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "The Irishman (2019)": {
     "title": "The Irishman",
@@ -1390,6 +1648,8 @@
     "decade": "2010s",
     "actors": ["Al Pacino", "Harvey Keitel", "Joe Pesci", "Robert De Niro"],
     "directors": ["Martin Scorsese"],
+    "composers": ["Robbie Robertson"],
+    "settings": ["New York City"],
     "genres": [
       "biographical",
       "biography",
@@ -1397,7 +1657,7 @@
       "drama",
       "film based on books"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "The Adjustment Bureau (2011)": {
     "title": "The Adjustment Bureau",
@@ -1410,6 +1670,8 @@
       "Matt Damon"
     ],
     "directors": ["George Nolfi"],
+    "composers": ["Thomas Newman"],
+    "settings": ["New York City"],
     "genres": [
       "action",
       "fantasy",
@@ -1419,7 +1681,7 @@
       "science fiction",
       "thriller"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Taken 2 (2012)": {
     "title": "Taken 2",
@@ -1427,6 +1689,8 @@
     "decade": "2010s",
     "actors": ["Famke Janssen", "Leland Orser", "Liam Neeson", "Maggie Grace"],
     "directors": ["Olivier Megaton"],
+    "composers": ["Nathaniel Mechaly"],
+    "settings": ["Istanbul", "Los Angeles", "Paris", "Tirana"],
     "genres": ["action", "crime", "crime thriller", "thriller", "vigilante"],
     "subjects": ["revenge", "terrorism"]
   },
@@ -1441,8 +1705,10 @@
       "Zach Galifianakis"
     ],
     "directors": ["Todd Phillips"],
+    "composers": ["Christophe Beck"],
+    "settings": ["Bangkok", "Los Angeles", "Thailand"],
     "genres": ["action comedy", "comedy", "lgbt-related"],
-    "subjects": [""]
+    "subjects": null
   },
   "Prometheus (2012)": {
     "title": "Prometheus",
@@ -1455,6 +1721,8 @@
       "Noomi Rapace"
     ],
     "directors": ["Ridley Scott"],
+    "composers": ["Marc Streitenfeld"],
+    "settings": ["LV-223"],
     "genres": ["adventure", "horror", "mystery", "sci-fi", "science fiction"],
     "subjects": ["extraterrestrial life"]
   },
@@ -1469,8 +1737,10 @@
       "Liam Neeson"
     ],
     "directors": ["Joe Carnahan"],
+    "composers": ["Marc Streitenfeld"],
+    "settings": ["Arctic"],
     "genres": ["action", "adventure", "drama", "film based on literature"],
-    "subjects": [""]
+    "subjects": null
   },
   "Midnight in Paris (2011)": {
     "title": "Midnight in Paris",
@@ -1478,6 +1748,8 @@
     "decade": "2010s",
     "actors": ["Kathy Bates", "Kurt Fuller", "Owen Wilson", "Rachel McAdams"],
     "directors": ["Woody Allen"],
+    "composers": ["Stephane Wrembel"],
+    "settings": ["Paris"],
     "genres": [
       "comedy",
       "fantasy",
@@ -1500,8 +1772,45 @@
       "Thomas Mann"
     ],
     "directors": ["Nima Nourizadeh"],
+    "composers": [""],
+    "settings": ["California"],
     "genres": ["comedy", "found footage", "teen"],
     "subjects": ["alcoholism"]
+  },
+  "The Gray Man (2022)": {
+    "title": "The Gray Man",
+    "imdb": "tt1649418",
+    "decade": "2020s",
+    "actors": [
+      "Ana de Armas",
+      "Billy Bob Thornton",
+      "Chris Evans",
+      "Ryan Gosling"
+    ],
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "composers": ["Henry Jackman"],
+    "settings": [
+      "Baku",
+      "Bangkok",
+      "Berlin",
+      "Croatia",
+      "Hong Kong",
+      "Langley",
+      "London",
+      "Monaco",
+      "Prague",
+      "Turkey",
+      "Vienna",
+      "Virginia",
+      "Washington, D.C."
+    ],
+    "genres": [
+      "action",
+      "action thriller",
+      "film based on a novel",
+      "thriller"
+    ],
+    "subjects": ["terrorism"]
   },
   "Her (2013)": {
     "title": "Her",
@@ -1514,6 +1823,8 @@
       "Scarlett Johansson"
     ],
     "directors": ["Spike Jonze"],
+    "composers": ["Arcade Fire"],
+    "settings": ["Los Angeles"],
     "genres": [
       "comedy",
       "drama",
@@ -1544,6 +1855,8 @@
       "Rachel McAdams"
     ],
     "directors": ["Tom McCarthy"],
+    "composers": ["Howard Shore"],
+    "settings": ["Boston"],
     "genres": ["biographical", "biography", "crime", "drama"],
     "subjects": [
       "investigative journalism",
@@ -1561,6 +1874,8 @@
       "Nadine Velazquez"
     ],
     "directors": ["Robert Zemeckis"],
+    "composers": ["Alan Silvestri"],
+    "settings": ["Atlanta", "Florida"],
     "genres": ["drama", "thriller"],
     "subjects": [
       "addiction",
@@ -1576,8 +1891,10 @@
     "decade": "2010s",
     "actors": ["Adelaide Kane", "Ethan Hawke", "Lena Headey", "Max Burkholder"],
     "directors": ["James DeMonaco"],
+    "composers": [""],
+    "settings": ["Los Angeles"],
     "genres": ["dystopian", "horror", "sci-fi", "science fiction", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Jumanji: Welcome to the Jungle (2017)": {
     "title": "Jumanji: Welcome to the Jungle",
@@ -1585,6 +1902,8 @@
     "decade": "2010s",
     "actors": ["Dwayne Johnson", "Jack Black", "Karen Gillan", "Kevin Hart"],
     "directors": ["Jake Kasdan"],
+    "composers": ["Henry Jackman", "James Newton Howard"],
+    "settings": ["New Hampshire"],
     "genres": [
       "action",
       "adventure",
@@ -1592,7 +1911,7 @@
       "fantasy",
       "film based on books"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "No Time to Die (2021)": {
     "title": "No Time to Die",
@@ -1605,8 +1924,10 @@
       "Rami Malek"
     ],
     "directors": ["Cary Joji Fukunaga", "Danny Boyle", "Sam Mendes"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Jamaica", "London", "Matera", "Santiago de Cuba"],
     "genres": ["action", "adventure", "spy", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Hell or High Water (2016)": {
     "title": "Hell or High Water",
@@ -1614,8 +1935,10 @@
     "decade": "2010s",
     "actors": ["Ben Foster", "Chris Pine", "Gil Birmingham", "Jeff Bridges"],
     "directors": ["David Mackenzie"],
+    "composers": ["Nick Cave", "Warren Ellis"],
+    "settings": ["Oklahoma"],
     "genres": ["crime", "drama", "heist", "neo-western", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Game Night (2018)": {
     "title": "Game Night",
@@ -1628,8 +1951,10 @@
       "Sharon Horgan"
     ],
     "directors": ["John Francis Daley", "Jonathan Goldstein"],
+    "composers": ["Cliff Martinez"],
+    "settings": null,
     "genres": ["action", "adventure", "comedy", "comedy thriller", "mystery"],
-    "subjects": [""]
+    "subjects": null
   },
   "Nightcrawler (2014)": {
     "title": "Nightcrawler",
@@ -1637,6 +1962,8 @@
     "decade": "2010s",
     "actors": ["Bill Paxton", "Jake Gyllenhaal", "Rene Russo", "Riz Ahmed"],
     "directors": ["Dan Gilroy"],
+    "composers": ["James Newton Howard"],
+    "settings": ["Los Angeles"],
     "genres": ["crime", "drama", "neo-noir", "thriller"],
     "subjects": [
       "journalism ethics and standards",
@@ -1656,8 +1983,10 @@
       "Saoirse Ronan"
     ],
     "directors": ["Greta Gerwig"],
+    "composers": ["Alexandre Desplat"],
+    "settings": ["Massachusetts"],
     "genres": ["drama", "film based on a novel", "romance"],
-    "subjects": [""]
+    "subjects": null
   },
   "X-Men: Apocalypse (2016)": {
     "title": "X-Men: Apocalypse",
@@ -1670,6 +1999,14 @@
       "Nicholas Hoult"
     ],
     "directors": ["Bryan Singer"],
+    "composers": ["John Ottman"],
+    "settings": [
+      "Alberta",
+      "Cairo",
+      "East Berlin",
+      "Poland",
+      "Westchester County"
+    ],
     "genres": [
       "action",
       "adventure",
@@ -1680,7 +2017,7 @@
       "science fiction action",
       "superhero"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Captain America: Civil War (2016)": {
     "title": "Captain America: Civil War",
@@ -1693,6 +2030,19 @@
       "Sebastian Stan"
     ],
     "directors": ["Anthony Russo", "Joe Russo"],
+    "composers": ["Henry Jackman"],
+    "settings": [
+      "Berlin",
+      "Bucharest",
+      "Cleveland",
+      "Culiac\u00e1n",
+      "Lagos",
+      "Leipzig/Halle Airport",
+      "London",
+      "Queens",
+      "Siberia",
+      "Vienna"
+    ],
     "genres": ["action", "adventure", "sci-fi", "science fiction", "superhero"],
     "subjects": ["terrorism"]
   },
@@ -1707,6 +2057,8 @@
       "Tom Hiddleston"
     ],
     "directors": ["Taika Waititi"],
+    "composers": ["Mark Mothersbaugh"],
+    "settings": ["Asgard", "Mazatl\u00e1n", "Norway"],
     "genres": [
       "action",
       "adventure",
@@ -1715,7 +2067,7 @@
       "science fiction",
       "superhero"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "The Martian (2015)": {
     "title": "The Martian",
@@ -1723,6 +2075,8 @@
     "decade": "2010s",
     "actors": ["Jessica Chastain", "Kate Mara", "Kristen Wiig", "Matt Damon"],
     "directors": ["Ridley Scott"],
+    "composers": ["Harry Gregson-Williams"],
+    "settings": ["Mars"],
     "genres": [
       "action",
       "adventure",
@@ -1749,8 +2103,10 @@
     "decade": "2010s",
     "actors": ["Daniel Zovatto", "Dylan Minnette", "Jane Levy", "Stephen Lang"],
     "directors": ["Fede \u00c1lvarez"],
+    "composers": ["Roque Ba\u00f1os"],
+    "settings": ["Detroit"],
     "genres": ["crime", "horror", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "John Wick: Chapter 2 (2017)": {
     "title": "John Wick: Chapter 2",
@@ -1763,8 +2119,10 @@
       "Ruby Rose"
     ],
     "directors": ["Chad Stahelski"],
+    "composers": ["Tyler Bates"],
+    "settings": ["New York City", "Rome", "The Continental"],
     "genres": ["action", "crime", "thriller"],
-    "subjects": [""]
+    "subjects": null
   },
   "Kingsman: The Golden Circle (2017)": {
     "title": "Kingsman: The Golden Circle",
@@ -1772,6 +2130,15 @@
     "decade": "2010s",
     "actors": ["Channing Tatum", "Colin Firth", "Mark Strong", "Taron Egerton"],
     "directors": ["Matthew Vaughn"],
+    "composers": ["Henry Jackman"],
+    "settings": [
+      "Cambodia",
+      "Glastonbury Festival",
+      "Italy",
+      "Kentucky",
+      "London",
+      "Washington, D.C."
+    ],
     "genres": [
       "action",
       "action comedy",
@@ -1780,7 +2147,7 @@
       "crime",
       "spy"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Dunkirk (2017)": {
     "title": "Dunkirk",
@@ -1788,6 +2155,8 @@
     "decade": "2010s",
     "actors": ["Barry Keoghan", "Fionn Whitehead", "Mark Rylance", "Tom Hardy"],
     "directors": ["Christopher Nolan"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Dunkirk", "England", "English Channel", "France", "Woking"],
     "genres": ["action", "drama", "history", "war"],
     "subjects": ["Dunkirk evacuation"]
   },
@@ -1802,6 +2171,8 @@
       "Woody Harrelson"
     ],
     "directors": ["Martin McDonagh"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Ebbing"],
     "genres": ["black comedy", "comedy", "crime", "drama", "mystery"],
     "subjects": ["law enforcement", "violence against women"]
   },
@@ -1816,8 +2187,10 @@
       "Kelsey Asbille"
     ],
     "directors": ["Taylor Sheridan"],
+    "composers": ["Nick Cave"],
+    "settings": ["Wind River Indian Reservation"],
     "genres": ["crime", "drama", "mystery", "thriller", "western"],
-    "subjects": [""]
+    "subjects": null
   },
   "Life (2017)": {
     "title": "Life",
@@ -1830,6 +2203,8 @@
       "Ryan Reynolds"
     ],
     "directors": ["Daniel Espinosa"],
+    "composers": ["Jon Ekstrand"],
+    "settings": null,
     "genres": [
       "action",
       "drama",
@@ -1838,7 +2213,7 @@
       "science fiction",
       "thriller"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "I, Tonya (2017)": {
     "title": "I, Tonya",
@@ -1851,6 +2226,8 @@
       "Sebastian Stan"
     ],
     "directors": ["Craig Gillespie"],
+    "composers": ["Jeff Russo"],
+    "settings": ["Portland"],
     "genres": ["biographical", "biography", "black comedy", "comedy", "drama"],
     "subjects": ["Tonya Harding"]
   },
@@ -1865,8 +2242,10 @@
       "Taika Waititi"
     ],
     "directors": ["Shawn Levy"],
+    "composers": ["Christophe Beck"],
+    "settings": ["United States of America"],
     "genres": ["action", "adventure", "comedy", "fantasy", "science fiction"],
-    "subjects": [""]
+    "subjects": null
   },
   "Us (2019)": {
     "title": "Us",
@@ -1879,6 +2258,8 @@
       "Winston Duke"
     ],
     "directors": ["Jordan Peele"],
+    "composers": ["Michael Abels"],
+    "settings": ["California"],
     "genres": [
       "action",
       "horror",
@@ -1905,6 +2286,8 @@
       "Zazie Beetz"
     ],
     "directors": ["Todd Phillips"],
+    "composers": ["Hildur Gu\u00f0nad\u00f3ttir"],
+    "settings": ["Gotham City"],
     "genres": ["crime", "drama", "psychological thriller", "thriller"],
     "subjects": ["Joker"]
   },
@@ -1919,6 +2302,8 @@
       "Jessica Chastain"
     ],
     "directors": ["Andr\u00e9s Muschietti"],
+    "composers": ["Benjamin Wallfisch"],
+    "settings": ["Maine"],
     "genres": [
       "drama",
       "fantasy",
@@ -1928,7 +2313,7 @@
       "slasher",
       "supernatural horror"
     ],
-    "subjects": [""]
+    "subjects": null
   },
   "Midsommar (2019)": {
     "title": "Midsommar",
@@ -1941,7 +2326,9 @@
       "William Jackson Harper"
     ],
     "directors": ["Ari Aster"],
+    "composers": [""],
+    "settings": ["H\u00e5rga", "Sweden"],
     "genres": ["drama", "horror", "mystery", "thriller"],
-    "subjects": [""]
+    "subjects": null
   }
 }

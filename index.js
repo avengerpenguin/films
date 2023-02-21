@@ -80,6 +80,15 @@ function renderGuess(corpus, selection, answer) {
           .join(", ")}</p>
     `;
   }
+  if (corpus[selection].settings) {
+    html += `
+        <p>Set in: ${corpus[selection].settings
+          .map((x) => {
+            return highlight(x, corpus[answer].settings);
+          })
+          .join(", ")}</p>
+    `;
+  }
   return html;
 }
 
