@@ -1274,6 +1274,20 @@
     "genres": ["action", "adventure", "sci-fi", "science fiction"],
     "subjects": [""]
   },
+  "Thor: Love and Thunder (2022)": {
+    "title": "Thor: Love and Thunder",
+    "imdb": "tt10648342",
+    "decade": "2020s",
+    "actors": [
+      "Chris Hemsworth",
+      "Christian Bale",
+      "Natalie Portman",
+      "Tessa Thompson"
+    ],
+    "directors": ["Taika Waititi"],
+    "genres": ["action", "adventure", "comedy", "science fiction", "superhero"],
+    "subjects": [""]
+  },
   "Paul (2011)": {
     "title": "Paul",
     "imdb": "tt1092026",
@@ -1631,6 +1645,20 @@
       "video journalism"
     ]
   },
+  "Little Women (2019)": {
+    "title": "Little Women",
+    "imdb": "tt3281548",
+    "decade": "2010s",
+    "actors": [
+      "Eliza Scanlen",
+      "Emma Watson",
+      "Florence Pugh",
+      "Saoirse Ronan"
+    ],
+    "directors": ["Greta Gerwig"],
+    "genres": ["drama", "film based on a novel", "romance"],
+    "subjects": [""]
+  },
   "X-Men: Apocalypse (2016)": {
     "title": "X-Men: Apocalypse",
     "imdb": "tt3385516",
@@ -1825,5 +1853,95 @@
     "directors": ["Craig Gillespie"],
     "genres": ["biographical", "biography", "black comedy", "comedy", "drama"],
     "subjects": ["Tonya Harding"]
+  },
+  "Free Guy (2021)": {
+    "title": "Free Guy",
+    "imdb": "tt6264654",
+    "decade": "2020s",
+    "actors": [
+      "Jodie Comer",
+      "Lil Rel Howery",
+      "Ryan Reynolds",
+      "Taika Waititi"
+    ],
+    "directors": ["Shawn Levy"],
+    "genres": ["action", "adventure", "comedy", "fantasy", "science fiction"],
+    "subjects": [""]
+  },
+  "Us (2019)": {
+    "title": "Us",
+    "imdb": "tt6857112",
+    "decade": "2010s",
+    "actors": [
+      "Elisabeth Moss",
+      "Lupita Nyong'o",
+      "Tim Heidecker",
+      "Winston Duke"
+    ],
+    "directors": ["Jordan Peele"],
+    "genres": [
+      "action",
+      "horror",
+      "mystery",
+      "psychological horror",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": [
+      "coming to terms with the past",
+      "psychological repression",
+      "self-discovery",
+      "self-reflection"
+    ]
+  },
+  "Joker (2019)": {
+    "title": "Joker",
+    "imdb": "tt7286456",
+    "decade": "2010s",
+    "actors": [
+      "Frances Conroy",
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "directors": ["Todd Phillips"],
+    "genres": ["crime", "drama", "psychological thriller", "thriller"],
+    "subjects": ["Joker"]
+  },
+  "It: Chapter Two (2019)": {
+    "title": "It: Chapter Two",
+    "imdb": "tt7349950",
+    "decade": "2010s",
+    "actors": [
+      "Bill Hader",
+      "Isaiah Mustafa",
+      "James McAvoy",
+      "Jessica Chastain"
+    ],
+    "directors": ["Andr\u00e9s Muschietti"],
+    "genres": [
+      "drama",
+      "fantasy",
+      "film based on a novel",
+      "horror",
+      "lgbt-related",
+      "slasher",
+      "supernatural horror"
+    ],
+    "subjects": [""]
+  },
+  "Midsommar (2019)": {
+    "title": "Midsommar",
+    "imdb": "tt8772262",
+    "decade": "2010s",
+    "actors": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "Vilhelm Blomgren",
+      "William Jackson Harper"
+    ],
+    "directors": ["Ari Aster"],
+    "genres": ["drama", "horror", "mystery", "thriller"],
+    "subjects": [""]
   }
 }
