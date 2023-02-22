@@ -69,6 +69,63 @@
     ],
     "subjects": ["antisemitism", "fascism"]
   },
+  "Citizen Kane (1941)": {
+    "title": "Citizen Kane",
+    "imdb": "tt0033467",
+    "decade": "1940s",
+    "actors": [
+      "Agnes Moorehead",
+      "Dorothy Comingore",
+      "Joseph Cotten",
+      "Orson Welles"
+    ],
+    "directors": ["Orson Welles"],
+    "composers": ["Bernard Herrmann"],
+    "settings": ["Florida", "New York City"],
+    "genres": ["biographical", "drama", "fiction", "flashback", "mystery"],
+    "subjects": null
+  },
+  "Casablanca (1942)": {
+    "title": "Casablanca",
+    "imdb": "tt0034583",
+    "decade": "1940s",
+    "actors": [
+      "Claude Rains",
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "directors": ["Michael Curtiz"],
+    "composers": ["Max Steiner"],
+    "settings": ["Casablanca"],
+    "genres": ["drama", "flashback", "romance", "war"],
+    "subjects": ["fleeting relationship", "World War II"]
+  },
+  "It's a Wonderful Life (1946)": {
+    "title": "It's a Wonderful Life",
+    "imdb": "tt0038650",
+    "decade": "1940s",
+    "actors": [
+      "Donna Reed",
+      "James Stewart",
+      "Lionel Barrymore",
+      "Thomas Mitchell"
+    ],
+    "directors": ["Frank Capra"],
+    "composers": ["Dimitri Tiomkin"],
+    "settings": ["Bedford Falls", "New York"],
+    "genres": [
+      "christmas",
+      "comedy",
+      "drama",
+      "family",
+      "fantasy",
+      "film based on literature",
+      "flashback",
+      "romantic comedy"
+    ],
+    "subjects": ["angel"]
+  },
   "Sunset Boulevard (1950)": {
     "title": "Sunset Boulevard",
     "imdb": "tt0043014",
@@ -143,6 +200,46 @@
     "genres": ["crime", "drama", "huis clos", "trial"],
     "subjects": ["capital punishment", "distinction", "jury trial"]
   },
+  "The Bridge on the River Kwai (1957)": {
+    "title": "The Bridge on the River Kwai",
+    "imdb": "tt0050212",
+    "decade": "1950s",
+    "actors": [
+      "Alec Guinness",
+      "Jack Hawkins",
+      "Sessue Hayakawa",
+      "William Holden"
+    ],
+    "directors": ["David Lean"],
+    "composers": ["Malcolm Arnold"],
+    "settings": ["Thailand"],
+    "genres": ["adventure", "drama", "film based on a novel", "war"],
+    "subjects": ["Pacific War", "River Kwai bridge", "World War II"]
+  },
+  "Vertigo (1958)": {
+    "title": "Vertigo",
+    "imdb": "tt0052357",
+    "decade": "1950s",
+    "actors": [
+      "Barbara Bel Geddes",
+      "James Stewart",
+      "Kim Novak",
+      "Tom Helmore"
+    ],
+    "directors": ["Alfred Hitchcock"],
+    "composers": ["Bernard Herrmann"],
+    "settings": ["California", "San Francisco"],
+    "genres": [
+      "crime",
+      "detective",
+      "drama",
+      "flashback",
+      "mystery",
+      "romance",
+      "thriller"
+    ],
+    "subjects": ["suicide"]
+  },
   "Ben-Hur (1959)": {
     "title": "Ben-Hur",
     "imdb": "tt0052618",
@@ -209,6 +306,60 @@
       "screwball comedy"
     ],
     "subjects": null
+  },
+  "Psycho (1960)": {
+    "title": "Psycho",
+    "imdb": "tt0054215",
+    "decade": "1960s",
+    "actors": ["Anthony Perkins", "Janet Leigh", "John Gavin", "Vera Miles"],
+    "directors": ["Alfred Hitchcock"],
+    "composers": ["Bernard Herrmann"],
+    "settings": ["Arizona", "California"],
+    "genres": [
+      "film based on a novel",
+      "horror",
+      "mystery",
+      "psychological horror",
+      "psychological thriller",
+      "slasher",
+      "thriller"
+    ],
+    "subjects": ["serial killer"]
+  },
+  "Lawrence of Arabia (1962)": {
+    "title": "Lawrence of Arabia",
+    "imdb": "tt0056172",
+    "decade": "1960s",
+    "actors": [
+      "Alec Guinness",
+      "Anthony Quinn",
+      "Jack Hawkins",
+      "Peter O'Toole"
+    ],
+    "directors": ["David Lean"],
+    "composers": ["Maurice Jarre"],
+    "settings": ["Aqaba", "Cairo", "Jordan", "London"],
+    "genres": [
+      "adventure",
+      "biographical",
+      "biography",
+      "drama",
+      "film based on books",
+      "flashback",
+      "war"
+    ],
+    "subjects": [
+      "Arab Revolt",
+      "assassin",
+      "Battle of Aqaba",
+      "cultural identity",
+      "grandiose delusions",
+      "male bonding",
+      "power",
+      "rivalry",
+      "T. E. Lawrence",
+      "World War I"
+    ]
   },
   "To Kill a Mockingbird (1962)": {
     "title": "To Kill a Mockingbird",
@@ -368,6 +519,30 @@
       "space exploration"
     ]
   },
+  "Butch Cassidy and the Sundance Kid (1969)": {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "imdb": "tt0064115",
+    "decade": "1960s",
+    "actors": [
+      "Katharine Ross",
+      "Paul Newman",
+      "Robert Redford",
+      "Strother Martin"
+    ],
+    "directors": ["George Roy Hill"],
+    "composers": ["Burt Bacharach"],
+    "settings": ["Bolivia", "South America"],
+    "genres": [
+      "biographical",
+      "biography",
+      "buddy",
+      "comedy drama",
+      "crime",
+      "drama",
+      "western"
+    ],
+    "subjects": ["Butch Cassidy", "Sundance Kid"]
+  },
   "A Clockwork Orange (1971)": {
     "title": "A Clockwork Orange",
     "imdb": "tt0066921",
@@ -434,6 +609,33 @@
     "settings": ["Washington, D.C."],
     "genres": ["film based on a novel", "horror", "satanic"],
     "subjects": ["demon", "exorcism", "supernatural"]
+  },
+  "The Sting (1973)": {
+    "title": "The Sting",
+    "imdb": "tt0070735",
+    "decade": "1970s",
+    "actors": [
+      "Charles Durning",
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw"
+    ],
+    "directors": ["George Roy Hill"],
+    "composers": ["Marvin Hamlisch"],
+    "settings": ["Chicago"],
+    "genres": ["buddy", "comedy", "crime", "drama", "heist"],
+    "subjects": ["gambling", "organized crime"]
+  },
+  "The Godfather Part II (1974)": {
+    "title": "The Godfather Part II",
+    "imdb": "tt0071562",
+    "decade": "1970s",
+    "actors": ["Al Pacino", "Diane Keaton", "Robert De Niro", "Robert Duvall"],
+    "directors": ["Francis Ford Coppola"],
+    "composers": ["Nino Rota"],
+    "settings": ["Havana", "New York City"],
+    "genres": ["crime", "drama", "film based on a novel", "flashback"],
+    "subjects": ["organized crime"]
   },
   "Dog Day Afternoon (1975)": {
     "title": "Dog Day Afternoon",
@@ -545,6 +747,76 @@
     ],
     "subjects": ["prostitution"]
   },
+  "Close Encounters of the Third Kind (1977)": {
+    "title": "Close Encounters of the Third Kind",
+    "imdb": "tt0075860",
+    "decade": "1970s",
+    "actors": [
+      "Fran\u00e7ois Truffaut",
+      "Melinda Dillon",
+      "Richard Dreyfuss",
+      "Teri Garr"
+    ],
+    "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": ["United States of America"],
+    "genres": [
+      "adventure",
+      "drama",
+      "sci-fi",
+      "science fiction",
+      "speculative/fantastic fiction"
+    ],
+    "subjects": null
+  },
+  "The Deer Hunter (1978)": {
+    "title": "The Deer Hunter",
+    "imdb": "tt0077416",
+    "decade": "1970s",
+    "actors": [
+      "Christopher Walken",
+      "John Cazale",
+      "John Savage",
+      "Robert De Niro"
+    ],
+    "directors": ["Michael Cimino"],
+    "composers": ["Stanley Myers"],
+    "settings": ["Pennsylvania"],
+    "genres": ["anti-war", "drama", "war"],
+    "subjects": ["Vietnam War"]
+  },
+  "Grease (1978)": {
+    "title": "Grease",
+    "imdb": "tt0077631",
+    "decade": "1970s",
+    "actors": [
+      "Jeff Conaway",
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing"
+    ],
+    "directors": ["Randal Kleiser"],
+    "composers": ["Barry Gibb", "John Farrar"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy", "musical", "romance", "romantic comedy", "teen"],
+    "subjects": null
+  },
+  "Halloween (1978)": {
+    "title": "Halloween",
+    "imdb": "tt0077651",
+    "decade": "1970s",
+    "actors": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Nancy Kyes",
+      "Tony Moran"
+    ],
+    "directors": ["John Carpenter"],
+    "composers": ["John Carpenter"],
+    "settings": ["Haddonfield"],
+    "genres": ["drama", "horror", "slasher", "teen", "thriller"],
+    "subjects": ["serial killer"]
+  },
   "Alien (1979)": {
     "title": "Alien",
     "imdb": "tt0078748",
@@ -609,6 +881,33 @@
     "genres": ["comedy", "parody", "religious satire"],
     "subjects": ["messianism"]
   },
+  "Airplane! (1980)": {
+    "title": "Airplane!",
+    "imdb": "tt0080339",
+    "decade": "1980s",
+    "actors": [
+      "Julie Hagerty",
+      "Kareem Abdul-Jabbar",
+      "Leslie Nielsen",
+      "Robert Hays"
+    ],
+    "directors": ["David Zucker", "Jerry Zucker", "Jim Abrahams"],
+    "composers": ["Elmer Bernstein"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy", "disaster", "parody", "satirical", "slapstick"],
+    "subjects": ["aviation", "aviation accident"]
+  },
+  "The Elephant Man (1980)": {
+    "title": "The Elephant Man",
+    "imdb": "tt0080678",
+    "decade": "1980s",
+    "actors": ["Anne Bancroft", "Anthony Hopkins", "John Gielgud", "John Hurt"],
+    "directors": ["David Lynch"],
+    "composers": ["John Morris"],
+    "settings": ["London"],
+    "genres": ["biographical", "biography", "drama"],
+    "subjects": ["cruelty", "disability", "Joseph Merrick", "social exclusion"]
+  },
   "Raging Bull (1980)": {
     "title": "Raging Bull",
     "imdb": "tt0081398",
@@ -661,6 +960,57 @@
     ],
     "subjects": ["alcoholism", "horror film", "supernatural"]
   },
+  "Blade Runner (1982)": {
+    "title": "Blade Runner",
+    "imdb": "tt0083658",
+    "decade": "1980s",
+    "actors": [
+      "Edward James Olmos",
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "directors": ["Ridley Scott"],
+    "composers": ["Vangelis"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "action",
+      "cyberpunk",
+      "drama",
+      "dystopian",
+      "film based on a novel",
+      "film noir",
+      "neo-noir",
+      "sci-fi",
+      "science fiction",
+      "tech noir",
+      "thriller"
+    ],
+    "subjects": ["android", "artificial intelligence"]
+  },
+  "First Blood (1982)": {
+    "title": "First Blood",
+    "imdb": "tt0083944",
+    "decade": "1980s",
+    "actors": [
+      "Bill McKinney",
+      "Brian Dennehy",
+      "Richard Crenna",
+      "Sylvester Stallone"
+    ],
+    "directors": ["Ted Kotcheff"],
+    "composers": ["Jerry Goldsmith"],
+    "settings": ["British Columbia"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "film based on a novel",
+      "thriller",
+      "war"
+    ],
+    "subjects": ["Vietnam veteran"]
+  },
   "Gandhi (1982)": {
     "title": "Gandhi",
     "imdb": "tt0083987",
@@ -707,6 +1057,22 @@
       "science fiction"
     ],
     "subjects": ["alien invasion", "extraterrestrial life"]
+  },
+  "Star Wars: Episode VI \u2013 Return of the Jedi (1983)": {
+    "title": "Star Wars: Episode VI \u2013 Return of the Jedi",
+    "imdb": "tt0086190",
+    "decade": "1980s",
+    "actors": [
+      "Billy Dee Williams",
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Mark Hamill"
+    ],
+    "directors": ["Richard Marquand"],
+    "composers": ["John Williams"],
+    "settings": ["Dagobah", "Endor", "Tatooine"],
+    "genres": ["action", "adventure", "fantasy", "science fiction"],
+    "subjects": null
   },
   "Scarface (1983)": {
     "title": "Scarface",
@@ -824,6 +1190,37 @@
     "genres": ["crime", "drama", "film based on a novel", "flashback"],
     "subjects": ["organized crime"]
   },
+  "The Terminator (1984)": {
+    "title": "The Terminator",
+    "imdb": "tt0088247",
+    "decade": "1980s",
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn",
+      "Paul Winfield"
+    ],
+    "directors": ["James Cameron"],
+    "composers": ["Brad Fiedel"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "action",
+      "drama",
+      "dystopian",
+      "monster",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller",
+      "time-travel"
+    ],
+    "subjects": [
+      "android",
+      "cybernetic revolt",
+      "Los Angeles Police Department",
+      "time travel"
+    ]
+  },
   "Back to the Future (1985)": {
     "title": "Back to the Future",
     "imdb": "tt0088763",
@@ -870,6 +1267,25 @@
     ],
     "subjects": null
   },
+  "The Goonies (1985)": {
+    "title": "The Goonies",
+    "imdb": "tt0089218",
+    "decade": "1980s",
+    "actors": ["Corey Feldman", "Jeff Cohen", "Josh Brolin", "Sean Astin"],
+    "directors": ["Richard Donner"],
+    "composers": ["Dave Grusin"],
+    "settings": ["Oregon"],
+    "genres": [
+      "action",
+      "adventure",
+      "children's",
+      "comedy",
+      "family",
+      "pirate",
+      "treasure hunt"
+    ],
+    "subjects": ["sea piracy"]
+  },
   "Rocky IV (1985)": {
     "title": "Rocky IV",
     "imdb": "tt0089927",
@@ -909,6 +1325,24 @@
     ],
     "subjects": ["extraterrestrial life"]
   },
+  "Ferris Bueller's Day Off (1986)": {
+    "title": "Ferris Bueller's Day Off",
+    "imdb": "tt0091042",
+    "decade": "1980s",
+    "actors": ["Alan Ruck", "Jeffrey Jones", "Matthew Broderick", "Mia Sara"],
+    "directors": ["John Hughes"],
+    "composers": ["Ira Newborn"],
+    "settings": ["Chicago"],
+    "genres": ["comedy", "coming-of-age fiction", "teen"],
+    "subjects": [
+      "adolescence",
+      "anticonformism",
+      "deception",
+      "friendship",
+      "joie de vivre",
+      "social norm"
+    ]
+  },
   "Stand by Me (1986)": {
     "title": "Stand by Me",
     "imdb": "tt0092005",
@@ -939,6 +1373,17 @@
       "puberty",
       "self-discovery"
     ]
+  },
+  "Top Gun (1986)": {
+    "title": "Top Gun",
+    "imdb": "tt0092099",
+    "decade": "1980s",
+    "actors": ["Kelly McGillis", "Tim Robbins", "Tom Cruise", "Val Kilmer"],
+    "directors": ["Tony Scott"],
+    "composers": ["Giorgio Moroder", "Harold Faltermeyer"],
+    "settings": ["California"],
+    "genres": ["action", "drama", "melodrama", "romance"],
+    "subjects": ["military aviation"]
   },
   "Dirty Dancing (1987)": {
     "title": "Dirty Dancing",
@@ -1030,6 +1475,27 @@
     ],
     "subjects": ["sea piracy"]
   },
+  "RoboCop (1987)": {
+    "title": "RoboCop",
+    "imdb": "tt0093870",
+    "decade": "1980s",
+    "actors": ["Dan O'Herlihy", "Nancy Allen", "Peter Weller", "Ronny Cox"],
+    "directors": ["Paul Verhoeven"],
+    "composers": ["Basil Poledouris"],
+    "settings": ["Detroit", "Michigan"],
+    "genres": [
+      "action",
+      "crime",
+      "dystopian",
+      "sci-fi",
+      "science fiction",
+      "speculative/fantastic fiction",
+      "splatter",
+      "superhero",
+      "thriller"
+    ],
+    "subjects": ["amnesia", "revenge", "riot control", "robot"]
+  },
   "Big (1988)": {
     "title": "Big",
     "imdb": "tt0094737",
@@ -1069,6 +1535,38 @@
       "thriller"
     ],
     "subjects": ["hostage crisis", "Los Angeles Police Department", "terrorism"]
+  },
+  "Rain Man (1988)": {
+    "title": "Rain Man",
+    "imdb": "tt0095953",
+    "decade": "1980s",
+    "actors": [
+      "Dustin Hoffman",
+      "Gerald R. Molen",
+      "Tom Cruise",
+      "Valeria Golino"
+    ],
+    "directors": ["Barry Levinson"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Los Angeles", "Missouri"],
+    "genres": ["buddy", "comedy drama", "drama"],
+    "subjects": ["autism", "gambling"]
+  },
+  "Dead Poets Society (1989)": {
+    "title": "Dead Poets Society",
+    "imdb": "tt0097165",
+    "decade": "1980s",
+    "actors": [
+      "Ethan Hawke",
+      "Josh Charles",
+      "Robert Sean Leonard",
+      "Robin Williams"
+    ],
+    "directors": ["Peter Weir"],
+    "composers": ["Maurice Jarre"],
+    "settings": ["Welton Academy"],
+    "genres": ["comedy", "coming-of-age fiction", "drama", "teen"],
+    "subjects": null
   },
   "Indiana Jones and the Last Crusade (1989)": {
     "title": "Indiana Jones and the Last Crusade",
@@ -1267,6 +1765,31 @@
     ],
     "subjects": ["offender profiling", "serial killer"]
   },
+  "Terminator 2: Judgment Day (1991)": {
+    "title": "Terminator 2: Judgment Day",
+    "imdb": "tt0103064",
+    "decade": "1990s",
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Edward Furlong",
+      "Linda Hamilton",
+      "Robert Patrick"
+    ],
+    "directors": ["James Cameron"],
+    "composers": ["Brad Fiedel"],
+    "settings": ["California", "Los Angeles"],
+    "genres": [
+      "action",
+      "drama",
+      "dystopian",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller",
+      "time-travel"
+    ],
+    "subjects": ["android", "cybernetic revolt", "time travel"]
+  },
   "Alien 3 (1992)": {
     "title": "Alien 3",
     "imdb": "tt0103644",
@@ -1427,6 +1950,35 @@
     ],
     "subjects": ["Groundhog Day", "time loop"]
   },
+  "Jurassic Park (1993)": {
+    "title": "Jurassic Park",
+    "imdb": "tt0107290",
+    "decade": "1990s",
+    "actors": [
+      "Jeff Goldblum",
+      "Laura Dern",
+      "Richard Attenborough",
+      "Sam Neill"
+    ],
+    "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": ["Costa Rica", "Dominican Republic", "Isla Nublar"],
+    "genres": [
+      "action",
+      "adventure",
+      "film based on a novel",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": [
+      "amusement park",
+      "business ethics",
+      "cloning",
+      "complex system",
+      "dinosaur"
+    ]
+  },
   "The Nightmare Before Christmas (1993)": {
     "title": "The Nightmare Before Christmas",
     "imdb": "tt0107688",
@@ -1501,6 +2053,22 @@
       "unfree labour",
       "World War II"
     ]
+  },
+  "True Romance (1993)": {
+    "title": "True Romance",
+    "imdb": "tt0108399",
+    "decade": "1990s",
+    "actors": [
+      "Christian Slater",
+      "Dennis Hopper",
+      "Patricia Arquette",
+      "Val Kilmer"
+    ],
+    "directors": ["Tony Scott"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Detroit", "Los Angeles"],
+    "genres": ["action", "crime", "drama", "romance", "thriller"],
+    "subjects": null
   },
   "What's Eating Gilbert Grape (1993)": {
     "title": "What's Eating Gilbert Grape",
@@ -1596,6 +2164,33 @@
       "Vietnam War"
     ]
   },
+  "Interview with the Vampire (1994)": {
+    "title": "Interview with the Vampire",
+    "imdb": "tt0110148",
+    "decade": "1990s",
+    "actors": ["Antonio Banderas", "Brad Pitt", "Kirsten Dunst", "Tom Cruise"],
+    "directors": ["Neil Jordan"],
+    "composers": ["Elliot Goldenthal"],
+    "settings": ["Louisiana", "New Orleans", "Paris", "San Francisco"],
+    "genres": [
+      "drama",
+      "fantasy",
+      "film based on a novel",
+      "horror",
+      "romance",
+      "vampire"
+    ],
+    "subjects": [
+      "death",
+      "evil",
+      "homicide",
+      "humanitas",
+      "immortality",
+      "internal conflict",
+      "morality",
+      "vampire"
+    ]
+  },
   "The Mask (1994)": {
     "title": "The Mask",
     "imdb": "tt0110475",
@@ -1638,6 +2233,22 @@
       "rape and revenge"
     ],
     "subjects": ["serial killer"]
+  },
+  "Pulp Fiction (1994)": {
+    "title": "Pulp Fiction",
+    "imdb": "tt0110912",
+    "decade": "1990s",
+    "actors": [
+      "Bruce Willis",
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "directors": ["Quentin Tarantino"],
+    "composers": null,
+    "settings": ["Los Angeles"],
+    "genres": ["crime", "drama", "gangster", "independent", "thriller"],
+    "subjects": ["organized crime"]
   },
   "The Shawshank Redemption (1994)": {
     "title": "The Shawshank Redemption",
@@ -1695,6 +2306,26 @@
     ],
     "genres": ["action", "comedy", "romantic comedy", "spy", "thriller"],
     "subjects": ["terrorism"]
+  },
+  "Apollo 13 (1995)": {
+    "title": "Apollo 13",
+    "imdb": "tt0112384",
+    "decade": "1990s",
+    "actors": ["Bill Paxton", "Gary Sinise", "Kevin Bacon", "Tom Hanks"],
+    "directors": ["Ron Howard"],
+    "composers": ["James Horner"],
+    "settings": ["Florida", "Houston", "Texas"],
+    "genres": [
+      "adventure",
+      "disaster",
+      "docudrama",
+      "drama",
+      "film based on books",
+      "historical",
+      "history",
+      "survival"
+    ],
+    "subjects": ["Apollo 13"]
   },
   "Bad Boys (1995)": {
     "title": "Bad Boys",
@@ -1815,6 +2446,41 @@
     ],
     "subjects": null
   },
+  "Die Hard with a Vengeance (1995)": {
+    "title": "Die Hard with a Vengeance",
+    "imdb": "tt0112864",
+    "decade": "1990s",
+    "actors": [
+      "Bruce Willis",
+      "Graham Greene",
+      "Jeremy Irons",
+      "Samuel L. Jackson"
+    ],
+    "directors": ["John McTiernan"],
+    "composers": ["Michael Kamen"],
+    "settings": ["New York City"],
+    "genres": [
+      "action",
+      "action thriller",
+      "adventure",
+      "buddy",
+      "buddy cop",
+      "heist",
+      "thriller"
+    ],
+    "subjects": ["New York City Police Department", "revenge", "terrorism"]
+  },
+  "Heat (1995)": {
+    "title": "Heat",
+    "imdb": "tt0113277",
+    "decade": "1990s",
+    "actors": ["Al Pacino", "Jon Voight", "Robert De Niro", "Val Kilmer"],
+    "directors": ["Michael Mann"],
+    "composers": ["Elliot Goldenthal"],
+    "settings": ["Los Angeles"],
+    "genres": ["action", "crime", "drama", "heist"],
+    "subjects": ["Los Angeles Police Department"]
+  },
   "Jumanji (1995)": {
     "title": "Jumanji",
     "imdb": "tt0113497",
@@ -1862,6 +2528,53 @@
     ],
     "subjects": ["mortal sin", "serial killer", "seven deadly sins"]
   },
+  "The Usual Suspects (1995)": {
+    "title": "The Usual Suspects",
+    "imdb": "tt0114814",
+    "decade": "1990s",
+    "actors": [
+      "Chazz Palminteri",
+      "Gabriel Byrne",
+      "Kevin Spacey",
+      "Stephen Baldwin"
+    ],
+    "directors": ["Bryan Singer"],
+    "composers": ["John Ottman"],
+    "settings": ["Los Angeles", "New York City", "San Pedro"],
+    "genres": [
+      "action",
+      "crime",
+      "detective",
+      "drama",
+      "flashback",
+      "heist",
+      "mystery",
+      "neo-noir",
+      "thriller"
+    ],
+    "subjects": [
+      "criminal investigation",
+      "criminality",
+      "deception",
+      "urban legend"
+    ]
+  },
+  "Fargo (1996)": {
+    "title": "Fargo",
+    "imdb": "tt0116282",
+    "decade": "1990s",
+    "actors": [
+      "Frances McDormand",
+      "Peter Stormare",
+      "Steve Buscemi",
+      "William H. Macy"
+    ],
+    "directors": ["Ethan Coen", "Joel Coen"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Fargo"],
+    "genres": ["black comedy", "crime", "drama", "neo-noir", "thriller"],
+    "subjects": null
+  },
   "From Dusk till Dawn (1996)": {
     "title": "From Dusk till Dawn",
     "imdb": "tt0116367",
@@ -1902,6 +2615,37 @@
     "genres": ["comedy", "sport"],
     "subjects": ["baseball"]
   },
+  "Independence Day (1996)": {
+    "title": "Independence Day",
+    "imdb": "tt0116629",
+    "decade": "1990s",
+    "actors": ["Bill Pullman", "Jeff Goldblum", "Mary McDonnell", "Will Smith"],
+    "directors": ["Roland Emmerich"],
+    "composers": ["David Arnold"],
+    "settings": [
+      "California",
+      "Houston",
+      "Los Angeles",
+      "New York City",
+      "Washington, D.C."
+    ],
+    "genres": [
+      "action",
+      "action thriller",
+      "adventure",
+      "alien invasion",
+      "disaster",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": [
+      "alien invasion",
+      "aviation",
+      "extraterrestrial life",
+      "Roswell UFO incident"
+    ]
+  },
   "Jerry Maguire (1996)": {
     "title": "Jerry Maguire",
     "imdb": "tt0116695",
@@ -1924,6 +2668,22 @@
       "selfishness"
     ]
   },
+  "Mission: Impossible (1996)": {
+    "title": "Mission: Impossible",
+    "imdb": "tt0117060",
+    "decade": "1990s",
+    "actors": [
+      "Emmanuelle B\u00e9art",
+      "Henry Czerny",
+      "Jon Voight",
+      "Tom Cruise"
+    ],
+    "directors": ["Brian De Palma"],
+    "composers": ["Danny Elfman"],
+    "settings": ["Channel Tunnel", "Dublin", "Langley", "London", "Prague"],
+    "genres": ["action", "adventure", "heist", "spy", "thriller"],
+    "subjects": ["espionage"]
+  },
   "Primal Fear (1996)": {
     "title": "Primal Fear",
     "imdb": "tt0117381",
@@ -1942,6 +2702,24 @@
       "trial"
     ],
     "subjects": null
+  },
+  "The Rock (1996)": {
+    "title": "The Rock",
+    "imdb": "tt0117500",
+    "decade": "1990s",
+    "actors": ["Ed Harris", "John Spencer", "Nicolas Cage", "Sean Connery"],
+    "directors": ["Michael Bay"],
+    "composers": ["Hans Zimmer", "Nick Glennie-Smith"],
+    "settings": ["San Francisco"],
+    "genres": [
+      "action",
+      "adventure",
+      "buddy",
+      "buddy cop",
+      "prison",
+      "thriller"
+    ],
+    "subjects": ["terrorism"]
   },
   "Romeo + Juliet (1996)": {
     "title": "Romeo + Juliet",
@@ -2122,6 +2900,25 @@
       "science"
     ]
   },
+  "The Devil's Advocate (1997)": {
+    "title": "The Devil's Advocate",
+    "imdb": "tt0118971",
+    "decade": "1990s",
+    "actors": ["Al Pacino", "Charlize Theron", "Jeffrey Jones", "Keanu Reeves"],
+    "directors": ["Taylor Hackford"],
+    "composers": ["James Newton Howard"],
+    "settings": ["New York City"],
+    "genres": [
+      "drama",
+      "fantasy",
+      "film based on a novel",
+      "horror",
+      "mystery",
+      "satanic",
+      "thriller"
+    ],
+    "subjects": ["demon", "supernatural"]
+  },
   "Donnie Brasco (1997)": {
     "title": "Donnie Brasco",
     "imdb": "tt0119008",
@@ -2253,6 +3050,22 @@
       "Los Angeles Police Department",
       "police corruption"
     ]
+  },
+  "Liar Liar (1997)": {
+    "title": "Liar Liar",
+    "imdb": "tt0119528",
+    "decade": "1990s",
+    "actors": [
+      "Amanda Donohoe",
+      "Jennifer Tilly",
+      "Jim Carrey",
+      "Maura Tierney"
+    ],
+    "directors": ["Tom Shadyac"],
+    "composers": ["John Debney"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy", "fantasy", "trial"],
+    "subjects": null
   },
   "The Lost World: Jurassic Park (1997)": {
     "title": "The Lost World: Jurassic Park",
@@ -2393,6 +3206,28 @@
     "genres": ["crime", "drama", "independent", "prison"],
     "subjects": ["dysfunctional family"]
   },
+  "Being John Malkovich (1999)": {
+    "title": "Being John Malkovich",
+    "imdb": "tt0120601",
+    "decade": "1990s",
+    "actors": [
+      "Cameron Diaz",
+      "Catherine Keener",
+      "John Cusack",
+      "John Malkovich"
+    ],
+    "directors": ["Spike Jonze"],
+    "composers": ["Carter Burwell"],
+    "settings": ["New Jersey", "New York City"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "fantasy",
+      "surrealist cinema"
+    ],
+    "subjects": ["body swap", "identity"]
+  },
   "Blade (1998)": {
     "title": "Blade",
     "imdb": "tt0120611",
@@ -2417,6 +3252,52 @@
       "vampire"
     ],
     "subjects": null
+  },
+  "Dogma (1999)": {
+    "title": "Dogma",
+    "imdb": "tt0120655",
+    "decade": "1990s",
+    "actors": ["Ben Affleck", "Bud Cort", "Linda Fiorentino", "Matt Damon"],
+    "directors": ["Kevin Smith"],
+    "composers": ["Howard Shore"],
+    "settings": ["New Jersey", "Wisconsin"],
+    "genres": ["adventure", "comedy", "drama", "fantasy"],
+    "subjects": null
+  },
+  "Enemy of the State (1998)": {
+    "title": "Enemy of the State",
+    "imdb": "tt0120660",
+    "decade": "1990s",
+    "actors": ["Gene Hackman", "Jon Voight", "Lisa Bonet", "Will Smith"],
+    "directors": ["Tony Scott"],
+    "composers": ["Harry Gregson-Williams", "Trevor Rabin"],
+    "settings": ["Maryland", "Washington, D.C."],
+    "genres": ["action", "political thriller", "thriller"],
+    "subjects": null
+  },
+  "Eyes Wide Shut (1999)": {
+    "title": "Eyes Wide Shut",
+    "imdb": "tt0120663",
+    "decade": "1990s",
+    "actors": ["Nicole Kidman", "Sydney Pollack", "Todd Field", "Tom Cruise"],
+    "directors": ["Stanley Kubrick"],
+    "composers": [
+      "Dmitri Shostakovich",
+      "Franz Liszt",
+      "Gy\u00f6rgy Ligeti",
+      "Jocelyn Pook"
+    ],
+    "settings": ["New York City"],
+    "genres": [
+      "christmas",
+      "drama",
+      "erotic",
+      "erotic thriller",
+      "film based on literature",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": ["adultery", "human sexuality"]
   },
   "Fear and Loathing in Las Vegas (1998)": {
     "title": "Fear and Loathing in Las Vegas",
@@ -2464,6 +3345,22 @@
       "prison"
     ],
     "subjects": ["capital punishment"]
+  },
+  "Lock, Stock and Two Smoking Barrels (1998)": {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "imdb": "tt0120735",
+    "decade": "1990s",
+    "actors": [
+      "Dexter Fletcher",
+      "Jason Flemyng",
+      "Jason Statham",
+      "Nick Moran"
+    ],
+    "directors": ["Guy Ritchie"],
+    "composers": ["David Hughes"],
+    "settings": ["London"],
+    "genres": ["action", "black comedy", "comedy", "crime", "heist"],
+    "subjects": ["gambling"]
   },
   "The Lord of the Rings: The Fellowship of the Ring (2001)": {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -2515,6 +3412,17 @@
       "zombie"
     ],
     "subjects": ["epidemic"]
+  },
+  "Rush Hour (1998)": {
+    "title": "Rush Hour",
+    "imdb": "tt0120812",
+    "decade": "1990s",
+    "actors": ["Chris Tucker", "Jackie Chan", "Ken Leung", "Tom Wilkinson"],
+    "directors": ["Brett Ratner"],
+    "composers": ["Lalo Schifrin"],
+    "settings": ["Hong Kong", "Los Angeles"],
+    "genres": ["action", "buddy cop", "comedy", "crime", "martial arts"],
+    "subjects": ["Los Angeles Police Department"]
   },
   "Saving Private Ryan (1998)": {
     "title": "Saving Private Ryan",
@@ -2669,6 +3577,28 @@
       "psychological manipulation"
     ]
   },
+  "Cube (1997)": {
+    "title": "Cube",
+    "imdb": "tt0123755",
+    "decade": "1990s",
+    "actors": [
+      "Andrew Miller",
+      "David Hewlett",
+      "Maurice Dean Wint",
+      "Nicole de Boer"
+    ],
+    "directors": ["Vincenzo Natali"],
+    "composers": ["Mark Korven"],
+    "settings": null,
+    "genres": [
+      "drama",
+      "horror",
+      "mystery",
+      "psychological horror",
+      "science fiction"
+    ],
+    "subjects": ["decipherment", "escape", "problem solving"]
+  },
   "Notting Hill (1999)": {
     "title": "Notting Hill",
     "imdb": "tt0125439",
@@ -2679,6 +3609,95 @@
     "settings": ["London", "Notting Hill"],
     "genres": ["comedy", "comedy drama", "drama", "romance", "romantic comedy"],
     "subjects": ["celebrity", "movie star", "on-again, off-again relationship"]
+  },
+  "You've Got Mail (1998)": {
+    "title": "You've Got Mail",
+    "imdb": "tt0128853",
+    "decade": "1990s",
+    "actors": ["Greg Kinnear", "Meg Ryan", "Parker Posey", "Tom Hanks"],
+    "directors": ["Nora Ephron"],
+    "composers": ["George Fenton"],
+    "settings": ["New Jersey", "New York City"],
+    "genres": [
+      "christmas",
+      "comedy",
+      "drama",
+      "film based on literature",
+      "romance",
+      "romantic comedy"
+    ],
+    "subjects": ["computing"]
+  },
+  "The Matrix (1999)": {
+    "title": "The Matrix",
+    "imdb": "tt0133093",
+    "decade": "1990s",
+    "actors": [
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Keanu Reeves",
+      "Laurence Fishburne"
+    ],
+    "directors": ["Lana Wachowski", "Lilly Wachowski"],
+    "composers": ["Don Davis"],
+    "settings": null,
+    "genres": [
+      "action",
+      "action thriller",
+      "cyberpunk",
+      "dystopian",
+      "film noir",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["artificial intelligence", "security hacker", "telepresence"]
+  },
+  "The Talented Mr. Ripley (1999)": {
+    "title": "The Talented Mr. Ripley",
+    "imdb": "tt0134119",
+    "decade": "1990s",
+    "actors": ["Cate Blanchett", "Gwyneth Paltrow", "Jude Law", "Matt Damon"],
+    "directors": ["Anthony Minghella"],
+    "composers": ["Gabriel Yared"],
+    "settings": ["Italy", "New York City", "Rome", "Sanremo", "Venice"],
+    "genres": [
+      "crime",
+      "drama",
+      "film based on a novel",
+      "lgbt-related",
+      "psychological thriller",
+      "thriller"
+    ],
+    "subjects": [
+      "deception",
+      "double life",
+      "high society",
+      "impostor",
+      "lie",
+      "playboy",
+      "upward social mobility"
+    ]
+  },
+  "Pitch Black (2000)": {
+    "title": "Pitch Black",
+    "imdb": "tt0134847",
+    "decade": "2000s",
+    "actors": ["Cole Hauser", "Keith David", "Radha Mitchell", "Vin Diesel"],
+    "directors": ["David Twohy"],
+    "composers": ["Graeme Revell"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "horror",
+      "monster",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": null
   },
   "Fight Club (1999)": {
     "title": "Fight Club",
@@ -2697,6 +3716,35 @@
     ],
     "subjects": ["alter ego"]
   },
+  "Shakespeare in Love (1998)": {
+    "title": "Shakespeare in Love",
+    "imdb": "tt0138097",
+    "decade": "1990s",
+    "actors": [
+      "Geoffrey Rush",
+      "Gwyneth Paltrow",
+      "Joseph Fiennes",
+      "Tom Wilkinson"
+    ],
+    "directors": ["John Madden"],
+    "composers": ["Stephen Warbeck"],
+    "settings": ["London"],
+    "genres": [
+      "biographical",
+      "comedy",
+      "comedy drama",
+      "drama",
+      "history",
+      "romantic comedy"
+    ],
+    "subjects": [
+      "artistic creation",
+      "artistic inspiration",
+      "English Renaissance theatre",
+      "love",
+      "William Shakespeare"
+    ]
+  },
   "Training Day (2001)": {
     "title": "Training Day",
     "imdb": "tt0139654",
@@ -2712,6 +3760,22 @@
     "settings": ["Los Angeles"],
     "genres": ["action", "buddy cop", "crime", "drama", "hood"],
     "subjects": ["Los Angeles Police Department"]
+  },
+  "Big Daddy (1999)": {
+    "title": "Big Daddy",
+    "imdb": "tt0142342",
+    "decade": "1990s",
+    "actors": [
+      "Adam Sandler",
+      "Cole Sprouse",
+      "Joey Lauren Adams",
+      "Jon Stewart"
+    ],
+    "directors": ["Dennis Dugan"],
+    "composers": ["Teddy Castellucci"],
+    "settings": ["New York City"],
+    "genres": ["comedy", "drama"],
+    "subjects": null
   },
   "American Psycho (2000)": {
     "title": "American Psycho",
@@ -2821,6 +3885,30 @@
     ],
     "subjects": null
   },
+  "10 Things I Hate About You (1999)": {
+    "title": "10 Things I Hate About You",
+    "imdb": "tt0147800",
+    "decade": "1990s",
+    "actors": [
+      "Heath Ledger",
+      "Joseph Gordon-Levitt",
+      "Julia Stiles",
+      "Larisa Oleynik"
+    ],
+    "directors": ["Gil Junger"],
+    "composers": ["Richard Gibbs"],
+    "settings": ["Seattle", "Washington"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "coming-of-age fiction",
+      "drama",
+      "romance",
+      "romantic comedy",
+      "teen"
+    ],
+    "subjects": null
+  },
   "Office Space (1999)": {
     "title": "Office Space",
     "imdb": "tt0151804",
@@ -2864,6 +3952,36 @@
     "settings": ["Memphis", "Moscow", "Tennessee", "Texas"],
     "genres": ["adventure", "drama", "robinsonade", "romance"],
     "subjects": ["loss", "social isolation", "solitude", "survival skill"]
+  },
+  "Sleepy Hollow (1999)": {
+    "title": "Sleepy Hollow",
+    "imdb": "tt0162661",
+    "decade": "1990s",
+    "actors": [
+      "Christina Ricci",
+      "Johnny Depp",
+      "Michael Gambon",
+      "Miranda Richardson"
+    ],
+    "directors": ["Tim Burton"],
+    "composers": ["Danny Elfman"],
+    "settings": ["New York City", "Sleepy Hollow"],
+    "genres": [
+      "fantasy",
+      "film based on literature",
+      "ghost",
+      "gothic",
+      "horror",
+      "mystery",
+      "slasher"
+    ],
+    "subjects": [
+      "criminal investigation",
+      "rationality",
+      "revenge",
+      "supernatural",
+      "witchcraft"
+    ]
   },
   "Jurassic Park III (2001)": {
     "title": "Jurassic Park III",
@@ -2949,6 +4067,67 @@
     ],
     "subjects": ["demon"]
   },
+  "The Lord of the Rings: The Two Towers (2002)": {
+    "title": "The Lord of the Rings: The Two Towers",
+    "imdb": "tt0167261",
+    "decade": "2000s",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom",
+      "Viggo Mortensen"
+    ],
+    "directors": ["Peter Jackson"],
+    "composers": ["Howard Shore"],
+    "settings": ["Middle-earth"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "fantasy",
+      "film based on a novel"
+    ],
+    "subjects": null
+  },
+  "The Sixth Sense (1999)": {
+    "title": "The Sixth Sense",
+    "imdb": "tt0167404",
+    "decade": "1990s",
+    "actors": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Olivia Williams",
+      "Toni Collette"
+    ],
+    "directors": ["M. Night Shyamalan"],
+    "composers": ["James Newton Howard"],
+    "settings": ["Pennsylvania", "Philadelphia"],
+    "genres": ["drama", "ghost", "horror", "mystery", "thriller"],
+    "subjects": null
+  },
+  "American Beauty (1999)": {
+    "title": "American Beauty",
+    "imdb": "tt0169547",
+    "decade": "1990s",
+    "actors": ["Annette Bening", "Kevin Spacey", "Thora Birch", "Wes Bentley"],
+    "directors": ["Sam Mendes"],
+    "composers": ["Thomas Newman"],
+    "settings": ["California"],
+    "genres": [
+      "comedy drama",
+      "drama",
+      "flashback",
+      "lgbt-related",
+      "romantic comedy"
+    ],
+    "subjects": [
+      "culture of the United States",
+      "dysfunctional family",
+      "role",
+      "social convention",
+      "virginity"
+    ]
+  },
   "Dr. Seuss' How the Grinch Stole Christmas (2000)": {
     "title": "Dr. Seuss' How the Grinch Stole Christmas",
     "imdb": "tt0170016",
@@ -2967,6 +4146,22 @@
       "film based on books",
       "musical"
     ],
+    "subjects": null
+  },
+  "Bad Boys II (2003)": {
+    "title": "Bad Boys II",
+    "imdb": "tt0172156",
+    "decade": "2000s",
+    "actors": [
+      "Gabrielle Union",
+      "Jordi Moll\u00e0",
+      "Martin Lawrence",
+      "Will Smith"
+    ],
+    "directors": ["Michael Bay"],
+    "composers": ["Trevor Rabin"],
+    "settings": ["Cuba", "Miami", "Miami metropolitan area"],
+    "genres": ["action", "buddy cop", "comedy", "crime", "hood"],
     "subjects": null
   },
   "Gladiator (2000)": {
@@ -3000,6 +4195,54 @@
     "settings": ["British Columbia"],
     "genres": ["comedy", "comedy horror", "horror", "teen"],
     "subjects": null
+  },
+  "Requiem for a Dream (2000)": {
+    "title": "Requiem for a Dream",
+    "imdb": "tt0180093",
+    "decade": "2000s",
+    "actors": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Marlon Wayans"
+    ],
+    "directors": ["Darren Aronofsky"],
+    "composers": ["Clint Mansell"],
+    "settings": ["Brooklyn", "Coney Island", "Florida"],
+    "genres": ["drama", "film based on a novel"],
+    "subjects": [
+      "failing",
+      "heroin",
+      "non-controlled substance abuse",
+      "prostitution",
+      "self-destructive behaviour",
+      "substance abuse",
+      "substance dependence"
+    ]
+  },
+  "Minority Report (2002)": {
+    "title": "Minority Report",
+    "imdb": "tt0181689",
+    "decade": "2000s",
+    "actors": [
+      "Colin Farrell",
+      "Max von Sydow",
+      "Samantha Morton",
+      "Tom Cruise"
+    ],
+    "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": ["Washington, D.C."],
+    "genres": [
+      "action",
+      "crime",
+      "dystopian",
+      "film based on literature",
+      "mystery",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["criminal investigation"]
   },
   "Terminator 3: Rise of the Machines (2003)": {
     "title": "Terminator 3: Rise of the Machines",
@@ -3330,6 +4573,17 @@
     ],
     "subjects": null
   },
+  "Meet the Parents (2000)": {
+    "title": "Meet the Parents",
+    "imdb": "tt0212338",
+    "decade": "2000s",
+    "actors": ["Ben Stiller", "Blythe Danner", "Robert De Niro", "Teri Polo"],
+    "directors": ["Jay Roach"],
+    "composers": ["Randy Newman"],
+    "settings": ["Chicago", "New York"],
+    "genres": ["comedy", "romance", "romantic comedy"],
+    "subjects": null
+  },
   "Miss Congeniality (2000)": {
     "title": "Miss Congeniality",
     "imdb": "tt0212346",
@@ -3500,6 +4754,29 @@
     "genres": ["action", "crime", "thriller"],
     "subjects": ["Los Angeles Police Department"]
   },
+  "The Matrix Reloaded (2003)": {
+    "title": "The Matrix Reloaded",
+    "imdb": "tt0234215",
+    "decade": "2000s",
+    "actors": [
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Keanu Reeves",
+      "Laurence Fishburne"
+    ],
+    "directors": ["Lana Wachowski", "Lilly Wachowski"],
+    "composers": ["Don Davis"],
+    "settings": null,
+    "genres": [
+      "action",
+      "cyberpunk",
+      "martial arts",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["telepresence"]
+  },
   "Equilibrium (2002)": {
     "title": "Equilibrium",
     "imdb": "tt0238380",
@@ -3518,6 +4795,25 @@
       "science fiction"
     ],
     "subjects": ["revenge", "revolution"]
+  },
+  "Ocean's Eleven (2001)": {
+    "title": "Ocean's Eleven",
+    "imdb": "tt0240772",
+    "decade": "2000s",
+    "actors": ["Brad Pitt", "George Clooney", "Julia Roberts", "Matt Damon"],
+    "directors": ["Steven Soderbergh"],
+    "composers": ["David Holmes"],
+    "settings": ["Bellagio Hotel & Casino", "Florida"],
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "crime",
+      "heist",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": ["gambling"]
   },
   "Harry Potter and the Philosopher's Stone (2001)": {
     "title": "Harry Potter and the Philosopher's Stone",
@@ -3564,6 +4860,34 @@
       "wuxia"
     ],
     "subjects": ["telepresence"]
+  },
+  "Bridget Jones's Diary (2001)": {
+    "title": "Bridget Jones's Diary",
+    "imdb": "tt0243155",
+    "decade": "2000s",
+    "actors": [
+      "Colin Firth",
+      "Gemma Jones",
+      "Hugh Grant",
+      "Ren\u00e9e Zellweger"
+    ],
+    "directors": ["Sharon Maguire"],
+    "composers": ["Patrick Doyle"],
+    "settings": [
+      "John F. Kennedy International Airport",
+      "London",
+      "United Kingdom"
+    ],
+    "genres": [
+      "christmas",
+      "comedy",
+      "drama",
+      "film based on a novel",
+      "melodrama",
+      "romance",
+      "romantic comedy"
+    ],
+    "subjects": ["goal pursuit", "mate choice"]
   },
   "Die Another Day (2002)": {
     "title": "Die Another Day",
@@ -3706,6 +5030,22 @@
     "genres": ["coming-of-age fiction", "crime", "drama", "thriller"],
     "subjects": ["organized crime"]
   },
+  "Panic Room (2002)": {
+    "title": "Panic Room",
+    "imdb": "tt0258000",
+    "decade": "2000s",
+    "actors": [
+      "Dwight Yoakam",
+      "Forest Whitaker",
+      "Jodie Foster",
+      "Kristen Stewart"
+    ],
+    "directors": ["David Fincher"],
+    "composers": ["Howard Shore"],
+    "settings": ["New York City"],
+    "genres": ["crime", "crime thriller", "drama", "horror", "thriller"],
+    "subjects": ["safe room"]
+  },
   "The Bourne Identity (2002)": {
     "title": "The Bourne Identity",
     "imdb": "tt0258463",
@@ -3733,6 +5073,17 @@
       "thriller"
     ],
     "subjects": ["amnesia"]
+  },
+  "Ghost Rider (2007)": {
+    "title": "Ghost Rider",
+    "imdb": "tt0259324",
+    "decade": "2000s",
+    "actors": ["Eva Mendes", "Matt Long", "Nicolas Cage", "Sam Elliott"],
+    "directors": ["Mark Steven Johnson"],
+    "composers": ["Christopher Young"],
+    "settings": ["Texas"],
+    "genres": ["action", "fantasy", "horror", "superhero", "thriller"],
+    "subjects": ["demon", "supernatural"]
   },
   "Vanilla Sky (2001)": {
     "title": "Vanilla Sky",
@@ -3789,6 +5140,24 @@
     ],
     "subjects": null
   },
+  "Black Hawk Down (2001)": {
+    "title": "Black Hawk Down",
+    "imdb": "tt0265086",
+    "decade": "2000s",
+    "actors": ["Eric Bana", "Ewan McGregor", "Josh Hartnett", "Tom Sizemore"],
+    "directors": ["Ridley Scott"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Africa"],
+    "genres": [
+      "action",
+      "drama",
+      "film based on books",
+      "historical",
+      "history",
+      "war"
+    ],
+    "subjects": ["Battle of Mogadishu"]
+  },
   "The Girl Next Door (2004)": {
     "title": "The Girl Next Door",
     "imdb": "tt0265208",
@@ -3811,6 +5180,22 @@
       "teen"
     ],
     "subjects": ["pornography"]
+  },
+  "The Royal Tenenbaums (2001)": {
+    "title": "The Royal Tenenbaums",
+    "imdb": "tt0265666",
+    "decade": "2000s",
+    "actors": [
+      "Anjelica Huston",
+      "Ben Stiller",
+      "Gene Hackman",
+      "Gwyneth Paltrow"
+    ],
+    "directors": ["Wes Anderson"],
+    "composers": ["Mark Mothersbaugh"],
+    "settings": ["New York City"],
+    "genres": ["comedy", "comedy drama", "drama"],
+    "subjects": ["dysfunctional family"]
   },
   "Kill Bill Volume 1 (2003)": {
     "title": "Kill Bill Volume 1",
@@ -3838,6 +5223,34 @@
       "wuxia"
     ],
     "subjects": ["revenge"]
+  },
+  "Insomnia (2002)": {
+    "title": "Insomnia",
+    "imdb": "tt0278504",
+    "decade": "2000s",
+    "actors": ["Al Pacino", "Hilary Swank", "Martin Donovan", "Robin Williams"],
+    "directors": ["Christopher Nolan"],
+    "composers": ["David Julyan"],
+    "settings": ["Alaska"],
+    "genres": ["crime", "drama", "mystery", "neo-noir", "thriller"],
+    "subjects": null
+  },
+  "A Walk to Remember (2002)": {
+    "title": "A Walk to Remember",
+    "imdb": "tt0281358",
+    "decade": "2000s",
+    "actors": ["Daryl Hannah", "Mandy Moore", "Peter Coyote", "Shane West"],
+    "directors": ["Adam Shankman"],
+    "composers": ["Mervyn Warren"],
+    "settings": ["North Carolina"],
+    "genres": [
+      "coming-of-age fiction",
+      "drama",
+      "film based on a novel",
+      "romance",
+      "teen"
+    ],
+    "subjects": null
   },
   "Signs (2002)": {
     "title": "Signs",
@@ -3965,6 +5378,28 @@
     "genres": ["action", "adventure", "comedy", "parody", "spy"],
     "subjects": ["spy"]
   },
+  "Harry Potter and the Chamber of Secrets (2002)": {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "imdb": "tt0295297",
+    "decade": "2000s",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Richard Harris",
+      "Rupert Grint"
+    ],
+    "directors": ["Chris Columbus"],
+    "composers": ["John Williams"],
+    "settings": ["England", "London"],
+    "genres": [
+      "adventure",
+      "children's",
+      "family",
+      "fantasy",
+      "film based on a novel"
+    ],
+    "subjects": null
+  },
   "The Chronicles of Riddick (2004)": {
     "title": "The Chronicles of Riddick",
     "imdb": "tt0296572",
@@ -3986,6 +5421,30 @@
     "settings": ["Detroit"],
     "genres": ["coming-of-age fiction", "drama", "hood", "music", "musical"],
     "subjects": ["dysfunctional family", "individual and society"]
+  },
+  "Chicago (2002)": {
+    "title": "Chicago",
+    "imdb": "tt0299658",
+    "decade": "2000s",
+    "actors": [
+      "Catherine Zeta-Jones",
+      "Ren\u00e9e Zellweger",
+      "Richard Gere",
+      "Taye Diggs"
+    ],
+    "directors": ["Rob Marshall"],
+    "composers": ["Danny Elfman", "John Kander"],
+    "settings": ["Chicago"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "crime",
+      "detective",
+      "drama",
+      "musical",
+      "prison"
+    ],
+    "subjects": ["capital punishment"]
   },
   "Old School (2003)": {
     "title": "Old School",
@@ -4013,6 +5472,22 @@
     "settings": ["New York City"],
     "genres": ["comedy", "lgbt-related"],
     "subjects": null
+  },
+  "Finding Neverland (2004)": {
+    "title": "Finding Neverland",
+    "imdb": "tt0308644",
+    "decade": "2000s",
+    "actors": [
+      "Johnny Depp",
+      "Julie Christie",
+      "Kate Winslet",
+      "Radha Mitchell"
+    ],
+    "directors": ["Marc Forster"],
+    "composers": ["Jan A. P. Kaczmarek"],
+    "settings": ["London"],
+    "genres": ["biographical", "biography", "drama", "family", "fantasy"],
+    "subjects": ["J. M. Barrie"]
   },
   "Identity (2003)": {
     "title": "Identity",
@@ -4106,6 +5581,22 @@
     "genres": ["action", "crime", "heist", "mystery", "thriller"],
     "subjects": null
   },
+  "Mission: Impossible III (2006)": {
+    "title": "Mission: Impossible III",
+    "imdb": "tt0317919",
+    "decade": "2000s",
+    "actors": [
+      "Michelle Monaghan",
+      "Philip Seymour Hoffman",
+      "Tom Cruise",
+      "Ving Rhames"
+    ],
+    "directors": ["J. J. Abrams"],
+    "composers": ["Michael Giacchino"],
+    "settings": ["Berlin", "Shanghai", "Vatican City", "Virginia"],
+    "genres": ["action", "adventure", "spy", "thriller"],
+    "subjects": null
+  },
   "Big Fish (2003)": {
     "title": "Big Fish",
     "imdb": "tt0319061",
@@ -4152,6 +5643,62 @@
       "Shutdown of thermohaline circulation"
     ]
   },
+  "Elf (2003)": {
+    "title": "Elf",
+    "imdb": "tt0319343",
+    "decade": "2000s",
+    "actors": ["Bob Newhart", "James Caan", "Will Ferrell", "Zooey Deschanel"],
+    "directors": ["Jon Favreau"],
+    "composers": ["John Debney"],
+    "settings": ["New York City"],
+    "genres": ["adventure", "christmas", "comedy", "family", "fantasy"],
+    "subjects": null
+  },
+  "Kingdom of Heaven (2005)": {
+    "title": "Kingdom of Heaven",
+    "imdb": "tt0320661",
+    "decade": "2000s",
+    "actors": ["Eva Green", "Liam Neeson", "Martin Hancock", "Orlando Bloom"],
+    "directors": ["Ridley Scott"],
+    "composers": ["Harry Gregson-Williams"],
+    "settings": ["France"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "epic",
+      "historical",
+      "medieval",
+      "war"
+    ],
+    "subjects": ["Balian of Ibelin"]
+  },
+  "Underworld (2003)": {
+    "title": "Underworld",
+    "imdb": "tt0320691",
+    "decade": "2000s",
+    "actors": [
+      "Kate Beckinsale",
+      "Michael Sheen",
+      "Scott Speedman",
+      "Shane Brolly"
+    ],
+    "directors": ["Len Wiseman"],
+    "composers": ["Paul Haslinger"],
+    "settings": ["Budapest"],
+    "genres": [
+      "action",
+      "action thriller",
+      "fantasy",
+      "girls with guns",
+      "horror",
+      "romance",
+      "thriller",
+      "vampire",
+      "werewolf"
+    ],
+    "subjects": ["revenge"]
+  },
   "The Last Samurai (2003)": {
     "title": "The Last Samurai",
     "imdb": "tt0325710",
@@ -4167,6 +5714,30 @@
     "settings": ["California", "Japan"],
     "genres": ["action", "drama", "ninja", "war"],
     "subjects": ["Satsuma Rebellion"]
+  },
+  "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "imdb": "tt0325980",
+    "decade": "2000s",
+    "actors": [
+      "Geoffrey Rush",
+      "Johnny Depp",
+      "Keira Knightley",
+      "Orlando Bloom"
+    ],
+    "directors": ["Gore Verbinski"],
+    "composers": ["Alan Silvestri", "Hans Zimmer", "Klaus Badelt"],
+    "settings": ["Isla de Muerta", "Jamaica"],
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "fantasy",
+      "pirate",
+      "swashbuckler",
+      "treasure hunt"
+    ],
+    "subjects": ["sea piracy"]
   },
   "Mystic River (2003)": {
     "title": "Mystic River",
@@ -4267,6 +5838,40 @@
     "settings": ["Ancient Greece"],
     "genres": ["action", "drama", "film based on books", "war"],
     "subjects": ["Trojan War"]
+  },
+  "Garden State (2004)": {
+    "title": "Garden State",
+    "imdb": "tt0333766",
+    "decade": "2000s",
+    "actors": ["Ian Holm", "Natalie Portman", "Peter Sarsgaard", "Zach Braff"],
+    "directors": ["Zach Braff"],
+    "composers": ["Nick Drake"],
+    "settings": ["New Jersey"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "coming-of-age fiction",
+      "drama",
+      "romance",
+      "romantic comedy"
+    ],
+    "subjects": ["dysfunctional family"]
+  },
+  "The Passion of the Christ (2004)": {
+    "title": "The Passion of the Christ",
+    "imdb": "tt0335345",
+    "decade": "2000s",
+    "actors": [
+      "Christo Jivkov",
+      "Jim Caviezel",
+      "Maia Morgenstern",
+      "Monica Bellucci"
+    ],
+    "directors": ["Mel Gibson"],
+    "composers": ["John Debney"],
+    "settings": ["Israel"],
+    "genres": ["biographical", "christian fiction", "drama", "historical"],
+    "subjects": null
   },
   "Live Free or Die Hard (2007)": {
     "title": "Live Free or Die Hard",
@@ -4427,6 +6032,30 @@
     ],
     "subjects": null
   },
+  "EuroTrip (2004)": {
+    "title": "EuroTrip",
+    "imdb": "tt0356150",
+    "decade": "2000s",
+    "actors": [
+      "Jacob Pitts",
+      "Michelle Trachtenberg",
+      "Scott Mechlowicz",
+      "Travis Wester"
+    ],
+    "directors": ["Alec Berg", "David Mandel", "Jeff Schaffer"],
+    "composers": ["James L. Venable"],
+    "settings": [
+      "Amsterdam",
+      "Berlin",
+      "Bratislava",
+      "London",
+      "Paris",
+      "Rome",
+      "Vatican City"
+    ],
+    "genres": ["comedy", "teen"],
+    "subjects": ["Europe", "vacation"]
+  },
   "Mr. & Mrs. Smith (2005)": {
     "title": "Mr. & Mrs. Smith",
     "imdb": "tt0356910",
@@ -4459,6 +6088,30 @@
     "settings": ["California"],
     "genres": ["comedy"],
     "subjects": null
+  },
+  "Walk the Line (2005)": {
+    "title": "Walk the Line",
+    "imdb": "tt0358273",
+    "decade": "2000s",
+    "actors": [
+      "Ginnifer Goodwin",
+      "Joaquin Phoenix",
+      "Reese Witherspoon",
+      "Robert Patrick"
+    ],
+    "directors": ["James Mangold"],
+    "composers": ["T Bone Burnett"],
+    "settings": ["California", "Tennessee"],
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "film based on books",
+      "flashback",
+      "music",
+      "musical"
+    ],
+    "subjects": ["alcoholism", "non-controlled substance abuse", "roadshow"]
   },
   "The Secret Life of Walter Mitty (2013)": {
     "title": "The Secret Life of Walter Mitty",
@@ -4672,6 +6325,47 @@
     "genres": ["action", "crime", "drama", "neo-noir", "thriller"],
     "subjects": null
   },
+  "Jurassic World (2015)": {
+    "title": "Jurassic World",
+    "imdb": "tt0369610",
+    "decade": "2010s",
+    "actors": [
+      "Bryce Dallas Howard",
+      "Chris Pratt",
+      "Judy Greer",
+      "Ty Simpkins"
+    ],
+    "directors": ["Colin Trevorrow"],
+    "composers": ["Michael Giacchino"],
+    "settings": ["Isla Nublar", "Wisconsin"],
+    "genres": ["action", "adventure", "biopunk", "sci-fi", "science fiction"],
+    "subjects": ["dinosaur"]
+  },
+  "Iron Man (2008)": {
+    "title": "Iron Man",
+    "imdb": "tt0371746",
+    "decade": "2000s",
+    "actors": [
+      "Gwyneth Paltrow",
+      "Jeff Bridges",
+      "Robert Downey Jr.",
+      "Terrence Howard"
+    ],
+    "directors": ["Jon Favreau"],
+    "composers": ["Ramin Djawadi"],
+    "settings": ["Afghanistan", "Kunar", "Los Angeles"],
+    "genres": ["action", "adventure", "sci-fi", "science fiction", "superhero"],
+    "subjects": [
+      "ammunition",
+      "business ethics",
+      "business magnate",
+      "computer",
+      "industrialist",
+      "inventor",
+      "technology",
+      "terrorism"
+    ]
+  },
   "The Bourne Supremacy (2004)": {
     "title": "The Bourne Supremacy",
     "imdb": "tt0372183",
@@ -4699,6 +6393,31 @@
     ],
     "subjects": null
   },
+  "Batman Begins (2005)": {
+    "title": "Batman Begins",
+    "imdb": "tt0372784",
+    "decade": "2000s",
+    "actors": [
+      "Christian Bale",
+      "Ken Watanabe",
+      "Liam Neeson",
+      "Michael Caine"
+    ],
+    "directors": ["Christopher Nolan"],
+    "composers": ["Hans Zimmer", "James Newton Howard"],
+    "settings": ["Bhutan", "Gotham City"],
+    "genres": [
+      "action",
+      "adventure",
+      "crime",
+      "crime thriller",
+      "drama",
+      "neo-noir",
+      "ninja",
+      "superhero"
+    ],
+    "subjects": ["fear", "ninja", "terrorism"]
+  },
   "Kiss Kiss Bang Bang (2005)": {
     "title": "Kiss Kiss Bang Bang",
     "imdb": "tt0373469",
@@ -4722,6 +6441,67 @@
       "mystery",
       "neo-noir"
     ],
+    "subjects": null
+  },
+  "Harry Potter and the Order of the Phoenix (2007)": {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "imdb": "tt0373889",
+    "decade": "2000s",
+    "actors": [
+      "Brendan Gleeson",
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "directors": ["David Yates"],
+    "composers": ["Nicholas Hooper"],
+    "settings": ["England", "Harry Potter universe", "Hogwarts", "London"],
+    "genres": [
+      "action",
+      "adventure",
+      "children's",
+      "family",
+      "fantasy",
+      "film based on a novel"
+    ],
+    "subjects": null
+  },
+  "Napoleon Dynamite (2004)": {
+    "title": "Napoleon Dynamite",
+    "imdb": "tt0374900",
+    "decade": "2000s",
+    "actors": ["Aaron Ruell", "Efren Ramirez", "Jon Gries", "Jon Heder"],
+    "directors": ["Jared Hess"],
+    "composers": ["John Swihart"],
+    "settings": ["Idaho"],
+    "genres": ["comedy", "coming-of-age fiction", "teen"],
+    "subjects": null
+  },
+  "Crash (2004)": {
+    "title": "Crash",
+    "imdb": "tt0375679",
+    "decade": "2000s",
+    "actors": [
+      "Don Cheadle",
+      "Karina Arroyave",
+      "Sandra Bullock",
+      "Thandiwe Newton"
+    ],
+    "directors": ["Paul Haggis"],
+    "composers": ["Mark Isham"],
+    "settings": ["Los Angeles"],
+    "genres": ["crime", "drama", "thriller"],
+    "subjects": ["Los Angeles Police Department", "prejudice", "racism"]
+  },
+  "Closer (2004)": {
+    "title": "Closer",
+    "imdb": "tt0376541",
+    "decade": "2000s",
+    "actors": ["Clive Owen", "Jude Law", "Julia Roberts", "Natalie Portman"],
+    "directors": ["Mike Nichols"],
+    "composers": ["Morrissey"],
+    "settings": ["London"],
+    "genres": ["drama", "romance"],
     "subjects": null
   },
   "X-Men: The Last Stand (2006)": {
@@ -4766,6 +6546,28 @@
       "lgbt-related",
       "romantic comedy",
       "teen"
+    ],
+    "subjects": ["revenge"]
+  },
+  "Kill Bill Volume 2 (2004)": {
+    "title": "Kill Bill Volume 2",
+    "imdb": "tt0378194",
+    "decade": "2000s",
+    "actors": [
+      "Daryl Hannah",
+      "David Carradine",
+      "Michael Madsen",
+      "Uma Thurman"
+    ],
+    "directors": ["Quentin Tarantino"],
+    "composers": ["Robert Rodriguez"],
+    "settings": ["Mexico", "Texas"],
+    "genres": [
+      "action",
+      "crime",
+      "girls with guns",
+      "martial arts",
+      "thriller"
     ],
     "subjects": ["revenge"]
   },
@@ -4830,6 +6632,66 @@
     ],
     "subjects": null
   },
+  "The Da Vinci Code (2006)": {
+    "title": "The Da Vinci Code",
+    "imdb": "tt0382625",
+    "decade": "2000s",
+    "actors": ["Audrey Tautou", "Ian McKellen", "Jean Reno", "Tom Hanks"],
+    "directors": ["Ron Howard"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Paris"],
+    "genres": [
+      "crime",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "thriller",
+      "treasure hunt"
+    ],
+    "subjects": ["Holy Grail"]
+  },
+  "Ratatouille (2007)": {
+    "title": "Ratatouille",
+    "imdb": "tt0382932",
+    "decade": "2000s",
+    "actors": ["Brad Garrett", "Ian Holm", "Lou Romano", "Patton Oswalt"],
+    "directors": ["Brad Bird", "Jan Pinkava"],
+    "composers": ["Michael Giacchino"],
+    "settings": ["Paris"],
+    "genres": [
+      "adventure",
+      "animation",
+      "buddy",
+      "comedy",
+      "coming-of-age fiction",
+      "flashback"
+    ],
+    "subjects": null
+  },
+  "Pirates of the Caribbean: Dead Man's Chest (2006)": {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "imdb": "tt0383574",
+    "decade": "2000s",
+    "actors": [
+      "Jack Davenport",
+      "Johnny Depp",
+      "Keira Knightley",
+      "Orlando Bloom"
+    ],
+    "directors": ["Gore Verbinski"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Haiti"],
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "fantasy",
+      "pirate",
+      "swashbuckler",
+      "treasure hunt"
+    ],
+    "subjects": ["sea piracy"]
+  },
   "Silent Hill (2006)": {
     "title": "Silent Hill",
     "imdb": "tt0384537",
@@ -4890,6 +6752,46 @@
     "genres": ["action", "crime", "thriller"],
     "subjects": null
   },
+  "Hotel Rwanda (2004)": {
+    "title": "Hotel Rwanda",
+    "imdb": "tt0395169",
+    "decade": "2000s",
+    "actors": [
+      "Don Cheadle",
+      "Joaquin Phoenix",
+      "Sophie Okonedo",
+      "Xolani Mali"
+    ],
+    "directors": ["Terry George"],
+    "composers": ["Andrea Guerra", "Rupert Gregson-Williams"],
+    "settings": ["H\u00f4tel des Mille Collines", "Kigali"],
+    "genres": ["biographical", "biography", "drama", "history"],
+    "subjects": ["Moral courage", "refuge", "Rwandan genocide"]
+  },
+  "Perfume: The Story of a Murderer (2006)": {
+    "title": "Perfume: The Story of a Murderer",
+    "imdb": "tt0396171",
+    "decade": "2000s",
+    "actors": [
+      "Alan Rickman",
+      "Ben Whishaw",
+      "Dustin Hoffman",
+      "Francesc Albiol"
+    ],
+    "directors": ["Tom Tykwer"],
+    "composers": ["Johnny Klimek", "Reinhold Heil", "Tom Tykwer"],
+    "settings": ["France", "Paris"],
+    "genres": [
+      "crime",
+      "drama",
+      "fantasy",
+      "film based on a novel",
+      "horror",
+      "psychological thriller",
+      "thriller"
+    ],
+    "subjects": ["capital punishment", "odor", "serial killer", "smell"]
+  },
   "Wedding Crashers (2005)": {
     "title": "Wedding Crashers",
     "imdb": "tt0396269",
@@ -4925,6 +6827,61 @@
     ],
     "subjects": ["organized crime"]
   },
+  "The Island (2005)": {
+    "title": "The Island",
+    "imdb": "tt0399201",
+    "decade": "2000s",
+    "actors": [
+      "Djimon Hounsou",
+      "Ewan McGregor",
+      "Scarlett Johansson",
+      "Steve Buscemi"
+    ],
+    "directors": ["Michael Bay"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Arizona", "Los Angeles"],
+    "genres": [
+      "action",
+      "dystopia",
+      "dystopian",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "speculative/fantastic fiction",
+      "thriller"
+    ],
+    "subjects": ["cloning", "virginity"]
+  },
+  "Lord of War (2005)": {
+    "title": "Lord of War",
+    "imdb": "tt0399295",
+    "decade": "2000s",
+    "actors": ["Bridget Moynahan", "Ethan Hawke", "Jared Leto", "Nicolas Cage"],
+    "directors": ["Andrew Niccol"],
+    "composers": ["Antonio Pinto"],
+    "settings": ["Berlin", "Colombia", "Liberia", "New York City", "Ukraine"],
+    "genres": ["action", "crime", "drama"],
+    "subjects": null
+  },
+  "Sin City (2005)": {
+    "title": "Sin City",
+    "imdb": "tt0401792",
+    "decade": "2000s",
+    "actors": ["Bruce Willis", "Clive Owen", "Jessica Alba", "Mickey Rourke"],
+    "directors": ["Frank Miller", "Quentin Tarantino", "Robert Rodriguez"],
+    "composers": ["Graeme Revell", "John Debney"],
+    "settings": ["Basin City"],
+    "genres": [
+      "action",
+      "crime",
+      "drama",
+      "film noir",
+      "neo-noir",
+      "thriller",
+      "vigilante"
+    ],
+    "subjects": ["revenge"]
+  },
   "Million Dollar Baby (2004)": {
     "title": "Million Dollar Baby",
     "imdb": "tt0405159",
@@ -4940,6 +6897,28 @@
     "settings": ["Los Angeles"],
     "genres": ["boxing", "buddy", "drama", "sport"],
     "subjects": ["boxing", "suicide"]
+  },
+  "War of the Worlds (2005)": {
+    "title": "War of the Worlds",
+    "imdb": "tt0407304",
+    "decade": "2000s",
+    "actors": ["Dakota Fanning", "Miranda Otto", "Tim Robbins", "Tom Cruise"],
+    "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": ["New Jersey", "New York", "New York City"],
+    "genres": [
+      "action",
+      "adventure",
+      "alien invasion",
+      "disaster",
+      "drama",
+      "film based on a novel",
+      "horror",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["alien invasion"]
   },
   "The Departed (2006)": {
     "title": "The Departed",
@@ -4980,6 +6959,42 @@
       "thriller"
     ],
     "subjects": ["revenge", "serial killer"]
+  },
+  "Munich (2005)": {
+    "title": "Munich",
+    "imdb": "tt0408306",
+    "decade": "2000s",
+    "actors": [
+      "Ciar\u00e1n Hinds",
+      "Daniel Craig",
+      "Eric Bana",
+      "Marie-Jos\u00e9e Croze"
+    ],
+    "directors": ["Steven Spielberg"],
+    "composers": ["John Williams"],
+    "settings": [
+      "Greece",
+      "London",
+      "Munich",
+      "Netherlands",
+      "New York City",
+      "Paris"
+    ],
+    "genres": [
+      "action",
+      "drama",
+      "film based on books",
+      "history",
+      "political thriller",
+      "spy"
+    ],
+    "subjects": [
+      "collective trauma",
+      "espionage",
+      "Munich massacre",
+      "Operation Wrath of God",
+      "revenge"
+    ]
   },
   "Watchmen (2009)": {
     "title": "Watchmen",
@@ -5126,6 +7141,22 @@
     ],
     "subjects": ["alien invasion"]
   },
+  "Stranger than Fiction (2006)": {
+    "title": "Stranger than Fiction",
+    "imdb": "tt0420223",
+    "decade": "2000s",
+    "actors": [
+      "Dustin Hoffman",
+      "Emma Thompson",
+      "Queen Latifah",
+      "Will Ferrell"
+    ],
+    "directors": ["Marc Forster"],
+    "composers": ["Brian Reitzell"],
+    "settings": ["Chicago"],
+    "genres": ["comedy", "drama", "fantasy", "romance"],
+    "subjects": null
+  },
   "The Curious Case of Benjamin Button (2008)": {
     "title": "The Curious Case of Benjamin Button",
     "imdb": "tt0421715",
@@ -5158,6 +7189,36 @@
     "settings": ["London"],
     "genres": ["action", "buddy", "comedy", "crime", "mystery", "parody"],
     "subjects": ["serial killer"]
+  },
+  "Lucky Number Slevin (2006)": {
+    "title": "Lucky Number Slevin",
+    "imdb": "tt0425210",
+    "decade": "2000s",
+    "actors": ["Ben Kingsley", "Josh Hartnett", "Lucy Liu", "Morgan Freeman"],
+    "directors": ["Paul McGuigan"],
+    "composers": ["J. Ralph"],
+    "settings": ["New York City"],
+    "genres": [
+      "action",
+      "comedy thriller",
+      "crime",
+      "crime thriller",
+      "drama",
+      "neo-noir",
+      "thriller"
+    ],
+    "subjects": ["gambling"]
+  },
+  "Thank You for Smoking (2005)": {
+    "title": "Thank You for Smoking",
+    "imdb": "tt0427944",
+    "decade": "2000s",
+    "actors": ["Aaron Eckhart", "Cameron Bright", "Joan Lunden", "Maria Bello"],
+    "directors": ["Jason Reitman"],
+    "composers": ["Rolfe Kent"],
+    "settings": ["Washington, D.C."],
+    "genres": ["comedy", "comedy drama", "drama", "film based on a novel"],
+    "subjects": null
   },
   "The A-Team (2010)": {
     "title": "The A-Team",
@@ -5267,6 +7328,22 @@
     ],
     "subjects": null
   },
+  "The Descent (2005)": {
+    "title": "The Descent",
+    "imdb": "tt0435625",
+    "decade": "2000s",
+    "actors": [
+      "Alex Reid",
+      "Natalie Mendoza",
+      "Saskia Mulder",
+      "Shauna Macdonald"
+    ],
+    "directors": ["Neil Marshall"],
+    "composers": ["David Julyan"],
+    "settings": ["North Carolina"],
+    "genres": ["adventure", "female buddy", "horror", "monster", "thriller"],
+    "subjects": null
+  },
   "Alita: Battle Angel (2019)": {
     "title": "Alita: Battle Angel",
     "imdb": "tt0437086",
@@ -5311,6 +7388,39 @@
       "science fiction"
     ],
     "subjects": ["android", "cybernetic revolt"]
+  },
+  "The Bourne Ultimatum (2007)": {
+    "title": "The Bourne Ultimatum",
+    "imdb": "tt0440963",
+    "decade": "2000s",
+    "actors": [
+      "Edgar Ram\u00edrez",
+      "Joan Allen",
+      "Julia Stiles",
+      "Matt Damon"
+    ],
+    "directors": ["Paul Greengrass"],
+    "composers": ["John Powell"],
+    "settings": [
+      "George Bush Center for Intelligence",
+      "London",
+      "London Waterloo station",
+      "Madrid",
+      "Moscow",
+      "New York City",
+      "Paris",
+      "Tangier",
+      "Turin"
+    ],
+    "genres": [
+      "action",
+      "action thriller",
+      "film based on a novel",
+      "mystery",
+      "spy",
+      "thriller"
+    ],
+    "subjects": null
   },
   "Lincoln (2012)": {
     "title": "Lincoln",
@@ -5435,6 +7545,24 @@
     "genres": ["adventure", "sci-fi", "science fiction", "thriller"],
     "subjects": null
   },
+  "Hancock (2008)": {
+    "title": "Hancock",
+    "imdb": "tt0448157",
+    "decade": "2000s",
+    "actors": ["Charlize Theron", "Jae Head", "Jason Bateman", "Will Smith"],
+    "directors": ["Peter Berg"],
+    "composers": ["John Powell"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "action",
+      "comedy",
+      "drama",
+      "fantasy",
+      "science fiction",
+      "superhero"
+    ],
+    "subjects": ["alcoholism"]
+  },
   "Little Miss Sunshine (2006)": {
     "title": "Little Miss Sunshine",
     "imdb": "tt0449059",
@@ -5476,6 +7604,22 @@
     ],
     "subjects": ["sea piracy"]
   },
+  "Babel (2006)": {
+    "title": "Babel",
+    "imdb": "tt0449467",
+    "decade": "2000s",
+    "actors": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Gael Garc\u00eda Bernal",
+      "Mohamed Akhzam"
+    ],
+    "directors": ["Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"],
+    "composers": ["Gustavo Santaolalla"],
+    "settings": ["California", "Japan", "Mexico", "Morocco", "Tokyo"],
+    "genres": ["drama"],
+    "subjects": null
+  },
   "Blood Diamond (2006)": {
     "title": "Blood Diamond",
     "imdb": "tt0450259",
@@ -5492,6 +7636,35 @@
     "genres": ["action", "adventure", "drama", "thriller", "war"],
     "subjects": null
   },
+  "1408 (2007)": {
+    "title": "1408",
+    "imdb": "tt0450385",
+    "decade": "2000s",
+    "actors": [
+      "John Cusack",
+      "Mary McCormack",
+      "Samuel L. Jackson",
+      "Tony Shalhoub"
+    ],
+    "directors": ["Mikael H\u00e5fstr\u00f6m"],
+    "composers": ["Gabriel Yared"],
+    "settings": ["Los Angeles", "New York City"],
+    "genres": [
+      "drama",
+      "fantasy",
+      "film based on literature",
+      "ghost",
+      "horror",
+      "mystery",
+      "psychological horror",
+      "thriller"
+    ],
+    "subjects": [
+      "coming to terms with the past",
+      "death of one's child",
+      "haunting"
+    ]
+  },
   "Wonder Woman (2017)": {
     "title": "Wonder Woman",
     "imdb": "tt0451279",
@@ -5502,6 +7675,28 @@
     "settings": ["Belgium", "Germany", "London", "Paris", "Themyscira"],
     "genres": ["action", "adventure", "drama", "fantasy", "superhero", "war"],
     "subjects": ["World War I"]
+  },
+  "Gone Baby Gone (2007)": {
+    "title": "Gone Baby Gone",
+    "imdb": "tt0452623",
+    "decade": "2000s",
+    "actors": [
+      "Casey Affleck",
+      "Ed Harris",
+      "Michelle Monaghan",
+      "Morgan Freeman"
+    ],
+    "directors": ["Ben Affleck"],
+    "composers": ["Harry Gregson-Williams"],
+    "settings": ["Boston"],
+    "genres": [
+      "crime",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "neo-noir"
+    ],
+    "subjects": null
   },
   "D\u00e9j\u00e0 Vu (2006)": {
     "title": "D\u00e9j\u00e0 Vu",
@@ -5627,6 +7822,22 @@
     ],
     "subjects": ["Nazism and occultism", "World War II"]
   },
+  "The Devil Wears Prada (2006)": {
+    "title": "The Devil Wears Prada",
+    "imdb": "tt0458352",
+    "decade": "2000s",
+    "actors": [
+      "Adrian Grenier",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Meryl Streep"
+    ],
+    "directors": ["David Frankel"],
+    "composers": ["Theodore Shapiro"],
+    "settings": ["New York City", "Paris"],
+    "genres": ["comedy", "comedy drama", "drama", "film based on a novel"],
+    "subjects": ["fashion"]
+  },
   "Rambo (2008)": {
     "title": "Rambo",
     "imdb": "tt0462499",
@@ -5737,6 +7948,22 @@
       "thriller"
     ],
     "subjects": ["terrorism"]
+  },
+  "There Will Be Blood (2007)": {
+    "title": "There Will Be Blood",
+    "imdb": "tt0469494",
+    "decade": "2000s",
+    "actors": [
+      "Ciar\u00e1n Hinds",
+      "Daniel Day-Lewis",
+      "Martin Stringer",
+      "Paul Dano"
+    ],
+    "directors": ["Paul Thomas Anderson"],
+    "composers": ["Jonny Greenwood"],
+    "settings": ["California", "New Mexico"],
+    "genres": ["drama", "film based on a novel"],
+    "subjects": null
   },
   "Ex Machina (2014)": {
     "title": "Ex Machina",
@@ -5923,6 +8150,17 @@
     ],
     "subjects": ["epidemic", "solitude"]
   },
+  "The Number 23 (2007)": {
+    "title": "The Number 23",
+    "imdb": "tt0481369",
+    "decade": "2000s",
+    "actors": ["Danny Huston", "Jim Carrey", "Logan Lerman", "Virginia Madsen"],
+    "directors": ["Joel Schumacher"],
+    "composers": ["Harry Gregson-Williams"],
+    "settings": null,
+    "genres": ["crime", "drama", "mystery", "thriller"],
+    "subjects": ["amnesia", "suicide"]
+  },
   "The Prestige (2006)": {
     "title": "The Prestige",
     "imdb": "tt0482571",
@@ -6023,6 +8261,28 @@
     ],
     "subjects": null
   },
+  "Wanted (2008)": {
+    "title": "Wanted",
+    "imdb": "tt0493464",
+    "decade": "2000s",
+    "actors": [
+      "Angelina Jolie",
+      "James McAvoy",
+      "Morgan Freeman",
+      "Terence Stamp"
+    ],
+    "directors": ["Timur Bekmambetov"],
+    "composers": ["Danny Elfman"],
+    "settings": ["Chicago", "Moravia"],
+    "genres": [
+      "action",
+      "action thriller",
+      "crime",
+      "girls with guns",
+      "thriller"
+    ],
+    "subjects": null
+  },
   "Ocean's Thirteen (2007)": {
     "title": "Ocean's Thirteen",
     "imdb": "tt0496806",
@@ -6033,6 +8293,29 @@
     "settings": ["Bellagio Hotel & Casino", "Las Vegas Valley"],
     "genres": ["action", "comedy", "crime", "heist", "thriller"],
     "subjects": ["gambling"]
+  },
+  "Vicky Cristina Barcelona (2008)": {
+    "title": "Vicky Cristina Barcelona",
+    "imdb": "tt0497465",
+    "decade": "2000s",
+    "actors": [
+      "Christopher Evan Welch",
+      "Javier Bardem",
+      "Rebecca Hall",
+      "Scarlett Johansson"
+    ],
+    "directors": ["Woody Allen"],
+    "composers": null,
+    "settings": ["Avil\u00e9s", "Barcelona", "Oviedo"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "lgbt-related",
+      "romance",
+      "romantic comedy"
+    ],
+    "subjects": null
   },
   "Into the Wild (2007)": {
     "title": "Into the Wild",
@@ -6110,6 +8393,22 @@
     ],
     "subjects": ["Frank Lucas", "organized crime", "Vietnam War"]
   },
+  "Eastern Promises (2007)": {
+    "title": "Eastern Promises",
+    "imdb": "tt0765443",
+    "decade": "2000s",
+    "actors": [
+      "Armin Mueller-Stahl",
+      "Josef Altin",
+      "Naomi Watts",
+      "Viggo Mortensen"
+    ],
+    "directors": ["David Cronenberg"],
+    "composers": ["Howard Shore"],
+    "settings": ["London"],
+    "genres": ["crime", "drama", "mystery", "thriller"],
+    "subjects": null
+  },
   "Drive (2011)": {
     "title": "Drive",
     "imdb": "tt0780504",
@@ -6178,6 +8477,29 @@
       "pharmacology",
       "zidovudine"
     ]
+  },
+  "Jack Reacher (2012)": {
+    "title": "Jack Reacher",
+    "imdb": "tt0790724",
+    "decade": "2010s",
+    "actors": [
+      "Richard Jenkins",
+      "Rosamund Pike",
+      "Tom Cruise",
+      "Werner Herzog"
+    ],
+    "directors": ["Christopher McQuarrie"],
+    "composers": ["Joe Kraemer"],
+    "settings": ["Pittsburgh"],
+    "genres": [
+      "action",
+      "crime",
+      "film based on a novel",
+      "martial arts",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": null
   },
   "Mamma Mia! (2008)": {
     "title": "Mamma Mia!",
@@ -6278,6 +8600,29 @@
     "genres": ["action", "adventure", "fantasy"],
     "subjects": null
   },
+  "Angels & Demons (2009)": {
+    "title": "Angels & Demons",
+    "imdb": "tt0808151",
+    "decade": "2000s",
+    "actors": [
+      "Ayelet Zurer",
+      "Ewan McGregor",
+      "Stellan Skarsg\u00e5rd",
+      "Tom Hanks"
+    ],
+    "directors": ["Ron Howard"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["Switzerland"],
+    "genres": [
+      "action",
+      "crime",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": ["terrorism"]
+  },
   "Seven Pounds (2008)": {
     "title": "Seven Pounds",
     "imdb": "tt0814314",
@@ -6293,6 +8638,87 @@
     "settings": ["Los Angeles"],
     "genres": ["drama", "fantasy", "romance"],
     "subjects": ["suicide"]
+  },
+  "Interstellar (2014)": {
+    "title": "Interstellar",
+    "imdb": "tt0816692",
+    "decade": "2010s",
+    "actors": [
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Mackenzie Foy",
+      "Matthew McConaughey"
+    ],
+    "directors": ["Christopher Nolan"],
+    "composers": ["Hans Zimmer"],
+    "settings": [
+      "Colorado",
+      "Cooper Station",
+      "Edmund's Planet",
+      "Endurance",
+      "Gargantua",
+      "Mann's Planet",
+      "Miller's Planet"
+    ],
+    "genres": [
+      "adventure",
+      "drama",
+      "dystopian",
+      "sci-fi",
+      "science fiction",
+      "time-travel"
+    ],
+    "subjects": ["global catastrophic risk", "interstellar travel"]
+  },
+  "World War Z (2013)": {
+    "title": "World War Z",
+    "imdb": "tt0816711",
+    "decade": "2010s",
+    "actors": [
+      "Brad Pitt",
+      "Daniella Kertesz",
+      "James Badge Dale",
+      "Mireille Enos"
+    ],
+    "directors": ["Marc Forster"],
+    "composers": ["Marco Beltrami"],
+    "settings": [
+      "Atlantic Ocean",
+      "Camp Humphreys",
+      "Freeport",
+      "Jerusalem",
+      "New Jersey",
+      "New York City",
+      "Newark",
+      "Philadelphia",
+      "Wales"
+    ],
+    "genres": [
+      "action",
+      "action thriller",
+      "adventure",
+      "apocalyptic",
+      "drama",
+      "film based on a novel",
+      "horror",
+      "post-apocalyptic",
+      "science fiction action",
+      "techno-thriller",
+      "thriller",
+      "zombie"
+    ],
+    "subjects": ["epidemic"]
+  },
+  "Changeling (2008)": {
+    "title": "Changeling",
+    "imdb": "tt0824747",
+    "decade": "2000s",
+    "actors": ["Amy Ryan", "Angelina Jolie", "Colm Feore", "Gattlin Griffith"],
+    "directors": ["Clint Eastwood"],
+    "composers": ["Clint Eastwood"],
+    "settings": ["Los Angeles"],
+    "genres": ["biography", "crime", "drama", "mystery"],
+    "subjects": ["capital punishment"]
   },
   "Superbad (2007)": {
     "title": "Superbad",
@@ -6362,6 +8788,30 @@
     "genres": ["crime", "crime thriller", "drama", "heist", "thriller"],
     "subjects": null
   },
+  "The Avengers (2012)": {
+    "title": "The Avengers",
+    "imdb": "tt0848228",
+    "decade": "2010s",
+    "actors": [
+      "Chris Evans",
+      "Jeremy Renner",
+      "Robert Downey Jr.",
+      "Scarlett Johansson"
+    ],
+    "directors": ["Joss Whedon"],
+    "composers": ["Alan Silvestri"],
+    "settings": ["Kolkata", "New York City"],
+    "genres": [
+      "action",
+      "adventure",
+      "crossover fiction",
+      "sci-fi",
+      "science fiction",
+      "speculative/fantastic fiction",
+      "superhero"
+    ],
+    "subjects": ["alien invasion"]
+  },
   "The Blind Side (2009)": {
     "title": "The Blind Side",
     "imdb": "tt0878804",
@@ -6380,6 +8830,31 @@
       "sport"
     ],
     "subjects": ["Michael Oher"]
+  },
+  "The Mist (2007)": {
+    "title": "The Mist",
+    "imdb": "tt0884328",
+    "decade": "2000s",
+    "actors": [
+      "Andre Braugher",
+      "Laurie Holden",
+      "Marcia Gay Harden",
+      "Thomas Jane"
+    ],
+    "directors": ["Frank Darabont"],
+    "composers": ["Mark Isham"],
+    "settings": ["Maine"],
+    "genres": [
+      "drama",
+      "film based on literature",
+      "horror",
+      "monster",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["supernatural"]
   },
   "Burn After Reading (2008)": {
     "title": "Burn After Reading",
@@ -6420,6 +8895,45 @@
     ],
     "subjects": ["Iraq War"]
   },
+  "The Road (2009)": {
+    "title": "The Road",
+    "imdb": "tt0898367",
+    "decade": "2000s",
+    "actors": [
+      "Charlize Theron",
+      "Kodi Smit-McPhee",
+      "Robert Duvall",
+      "Viggo Mortensen"
+    ],
+    "directors": ["John Hillcoat"],
+    "composers": ["Nick Cave"],
+    "settings": ["United States of America"],
+    "genres": ["drama", "fantasy", "film based on a novel", "post-apocalyptic"],
+    "subjects": null
+  },
+  "The Hobbit: An Unexpected Journey (2012)": {
+    "title": "The Hobbit: An Unexpected Journey",
+    "imdb": "tt0903624",
+    "decade": "2010s",
+    "actors": [
+      "Andy Serkis",
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage"
+    ],
+    "directors": ["Peter Jackson"],
+    "composers": ["Howard Shore"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "epic",
+      "fantasy",
+      "film based on literature",
+      "treasure hunt"
+    ],
+    "subjects": null
+  },
   "Pineapple Express (2008)": {
     "title": "Pineapple Express",
     "imdb": "tt0910936",
@@ -6430,6 +8944,26 @@
     "settings": ["California"],
     "genres": ["action", "buddy", "comedy", "crime", "stoner"],
     "subjects": null
+  },
+  "The Boy in the Striped Pyjamas (2008)": {
+    "title": "The Boy in the Striped Pyjamas",
+    "imdb": "tt0914798",
+    "decade": "2000s",
+    "actors": [
+      "Asa Butterfield",
+      "David Thewlis",
+      "Rupert Friend",
+      "Zac Mattoon O'Brien"
+    ],
+    "directors": ["Mark Herman"],
+    "composers": ["James Horner"],
+    "settings": ["German Reich"],
+    "genres": ["drama", "film based on a novel", "war"],
+    "subjects": [
+      "history of the Jews in Poland",
+      "The Holocaust",
+      "World War II"
+    ]
   },
   "Taken (2008)": {
     "title": "Taken",
@@ -6451,6 +8985,22 @@
     "composers": ["Theodore Shapiro"],
     "settings": ["Asia"],
     "genres": ["action", "comedy", "parody", "war"],
+    "subjects": null
+  },
+  "Salt (2010)": {
+    "title": "Salt",
+    "imdb": "tt0944835",
+    "decade": "2010s",
+    "actors": [
+      "Angelina Jolie",
+      "Chiwetel Ejiofor",
+      "Daniel Olbrychski",
+      "Liev Schreiber"
+    ],
+    "directors": ["Phillip Noyce"],
+    "composers": ["James Newton Howard"],
+    "settings": ["New York City", "North Korea", "Washington, D.C."],
+    "genres": ["action", "girls with guns", "mystery", "spy", "thriller"],
     "subjects": null
   },
   "Source Code (2011)": {
@@ -6484,6 +9034,29 @@
       "time travel",
       "virtual reality"
     ]
+  },
+  "Black Swan (2010)": {
+    "title": "Black Swan",
+    "imdb": "tt0947798",
+    "decade": "2010s",
+    "actors": [
+      "Mila Kunis",
+      "Natalie Portman",
+      "Vincent Cassel",
+      "Winona Ryder"
+    ],
+    "directors": ["Darren Aronofsky"],
+    "composers": ["Clint Mansell"],
+    "settings": ["New York City"],
+    "genres": [
+      "drama",
+      "horror",
+      "lgbt-related",
+      "psychological horror",
+      "psychological thriller",
+      "thriller"
+    ],
+    "subjects": null
   },
   "The Happening (2008)": {
     "title": "The Happening",
@@ -6523,6 +9096,22 @@
     "settings": ["London"],
     "genres": ["action", "adventure", "drama", "medieval", "swashbuckler"],
     "subjects": ["Robin Hood"]
+  },
+  "Revolutionary Road (2008)": {
+    "title": "Revolutionary Road",
+    "imdb": "tt0959337",
+    "decade": "2000s",
+    "actors": [
+      "Christopher Fitzgerald",
+      "Jonathan Roumie",
+      "Kate Winslet",
+      "Leonardo DiCaprio"
+    ],
+    "directors": ["Sam Mendes"],
+    "composers": ["Thomas Newman"],
+    "settings": ["Connecticut"],
+    "genres": ["drama", "film based on a novel", "romance"],
+    "subjects": null
   },
   "The Fighter (2010)": {
     "title": "The Fighter",
@@ -6713,6 +9302,22 @@
       "street child"
     ]
   },
+  "Fast & Furious (2009)": {
+    "title": "Fast & Furious",
+    "imdb": "tt1013752",
+    "decade": "2000s",
+    "actors": [
+      "Jordana Brewster",
+      "Michelle Rodriguez",
+      "Paul Walker",
+      "Vin Diesel"
+    ],
+    "directors": ["Justin Lin"],
+    "composers": ["Brian Tyler"],
+    "settings": ["Los Angeles", "Mexico"],
+    "genres": ["action", "crime", "thriller"],
+    "subjects": ["motor car", "revenge"]
+  },
   "Argo (2012)": {
     "title": "Argo",
     "imdb": "tt1024648",
@@ -6803,6 +9408,38 @@
     "composers": ["Craig Armstrong"],
     "settings": ["Hawaii"],
     "genres": ["comedy", "comedy drama", "drama", "film based on a novel"],
+    "subjects": null
+  },
+  "The Book of Eli (2010)": {
+    "title": "The Book of Eli",
+    "imdb": "tt1037705",
+    "decade": "2010s",
+    "actors": [
+      "Denzel Washington",
+      "Gary Oldman",
+      "Mila Kunis",
+      "Ray Stevenson"
+    ],
+    "directors": ["Albert Hughes", "Allen Hughes"],
+    "composers": ["Atticus Ross"],
+    "settings": ["San Francisco"],
+    "genres": ["action", "adventure", "drama", "post-apocalyptic", "thriller"],
+    "subjects": null
+  },
+  "The Proposal (2009)": {
+    "title": "The Proposal",
+    "imdb": "tt1041829",
+    "decade": "2000s",
+    "actors": [
+      "Craig T. Nelson",
+      "Mary Steenburgen",
+      "Ryan Reynolds",
+      "Sandra Bullock"
+    ],
+    "directors": ["Anne Fletcher"],
+    "composers": ["Aaron Zigman"],
+    "settings": ["New York City"],
+    "genres": ["comedy", "drama", "romance", "romantic comedy"],
     "subjects": null
   },
   "Silver Linings Playbook (2012)": {
@@ -6926,6 +9563,17 @@
     "genres": ["comedy", "film based on a novel", "romance", "romantic comedy"],
     "subjects": null
   },
+  "Skyfall (2012)": {
+    "title": "Skyfall",
+    "imdb": "tt1074638",
+    "decade": "2010s",
+    "actors": ["Daniel Craig", "Javier Bardem", "Judi Dench", "Naomie Harris"],
+    "directors": ["Sam Mendes"],
+    "composers": ["Thomas Newman"],
+    "settings": ["Istanbul", "London", "Macau", "Scotland", "Shanghai"],
+    "genres": ["action", "action thriller", "adventure", "spy", "thriller"],
+    "subjects": ["computing", "revenge", "terrorism"]
+  },
   "Planet Terror (2007)": {
     "title": "Planet Terror",
     "imdb": "tt1077258",
@@ -6951,6 +9599,30 @@
     ],
     "subjects": ["epidemic"]
   },
+  "Dark Shadows (2012)": {
+    "title": "Dark Shadows",
+    "imdb": "tt1077368",
+    "decade": "2010s",
+    "actors": [
+      "Eva Green",
+      "Helena Bonham Carter",
+      "Johnny Depp",
+      "Michelle Pfeiffer"
+    ],
+    "directors": ["Tim Burton"],
+    "composers": ["Danny Elfman"],
+    "settings": ["Maine"],
+    "genres": [
+      "comedy",
+      "comedy horror",
+      "dark fantasy",
+      "fantasy",
+      "ghost",
+      "horror",
+      "vampire"
+    ],
+    "subjects": null
+  },
   "The Kashmir Files (2022)": {
     "title": "The Kashmir Files",
     "imdb": "tt10811166",
@@ -6966,6 +9638,47 @@
     "settings": null,
     "genres": ["drama", "historical drama"],
     "subjects": null
+  },
+  "Spider-Man: No Way Home (2021)": {
+    "title": "Spider-Man: No Way Home",
+    "imdb": "tt10872600",
+    "decade": "2020s",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Tom Holland",
+      "Zendaya"
+    ],
+    "directors": ["Jon Watts"],
+    "composers": ["Michael Giacchino"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy",
+      "science fiction",
+      "superhero",
+      "technofantasy"
+    ],
+    "subjects": null
+  },
+  "Lone Survivor (2013)": {
+    "title": "Lone Survivor",
+    "imdb": "tt1091191",
+    "decade": "2010s",
+    "actors": ["Ben Foster", "Emile Hirsch", "Mark Wahlberg", "Taylor Kitsch"],
+    "directors": ["Peter Berg"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Afghanistan"],
+    "genres": [
+      "action",
+      "biographical",
+      "biography",
+      "drama",
+      "film based on books",
+      "war"
+    ],
+    "subjects": ["Operation Red Wings"]
   },
   "Paul (2011)": {
     "title": "Paul",
@@ -7098,6 +9811,17 @@
       "professional wrestling"
     ]
   },
+  "Drag Me to Hell (2009)": {
+    "title": "Drag Me to Hell",
+    "imdb": "tt1127180",
+    "decade": "2000s",
+    "actors": ["Alison Lohman", "Justin Long", "Lorna Raver", "Ruth Livier"],
+    "directors": ["Sam Raimi"],
+    "composers": ["Christopher Young"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy horror", "ghost", "horror"],
+    "subjects": ["careerism", "curse", "supernatural"]
+  },
   "Don't Look Up (2021)": {
     "title": "Don't Look Up",
     "imdb": "tt11286314",
@@ -7132,6 +9856,29 @@
       "politics of the United States",
       "social media"
     ]
+  },
+  "Shutter Island (2010)": {
+    "title": "Shutter Island",
+    "imdb": "tt1130884",
+    "decade": "2010s",
+    "actors": [
+      "Ben Kingsley",
+      "Emily Mortimer",
+      "Leonardo DiCaprio",
+      "Mark Ruffalo"
+    ],
+    "directors": ["Martin Scorsese"],
+    "composers": ["Robbie Robertson"],
+    "settings": ["Germany"],
+    "genres": [
+      "crime",
+      "drama",
+      "film based on a novel",
+      "horror",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": null
   },
   "Green Lantern (2011)": {
     "title": "Green Lantern",
@@ -7238,6 +9985,17 @@
     ],
     "subjects": ["John Dillinger", "organized crime"]
   },
+  "I Love You, Man (2009)": {
+    "title": "I Love You, Man",
+    "imdb": "tt1155056",
+    "decade": "2000s",
+    "actors": ["Jason Segel", "Paul Rudd", "Rashida Jones", "Sarah Burns"],
+    "directors": ["John Hamburg"],
+    "composers": ["Theodore Shapiro"],
+    "settings": null,
+    "genres": ["buddy", "comedy", "romance", "romantic comedy"],
+    "subjects": null
+  },
   "Zombieland (2009)": {
     "title": "Zombieland",
     "imdb": "tt1156398",
@@ -7307,6 +10065,47 @@
     "genres": ["found footage", "horror", "mystery", "thriller"],
     "subjects": ["demon", "haunted house", "supernatural"]
   },
+  "10 Cloverfield Lane (2016)": {
+    "title": "10 Cloverfield Lane",
+    "imdb": "tt1179933",
+    "decade": "2010s",
+    "actors": [
+      "Douglas M. Griffin",
+      "John Gallagher Jr.",
+      "John Goodman",
+      "Mary Elizabeth Winstead"
+    ],
+    "directors": ["Dan Trachtenberg"],
+    "composers": ["Bear McCreary"],
+    "settings": ["Louisiana"],
+    "genres": [
+      "action",
+      "disaster",
+      "drama",
+      "fantasy",
+      "horror",
+      "mystery",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["alien invasion"]
+  },
+  "Moon (2009)": {
+    "title": "Moon",
+    "imdb": "tt1182345",
+    "decade": "2000s",
+    "actors": [
+      "Dominique McElligott",
+      "Kevin Spacey",
+      "Rosie Shaw",
+      "Sam Rockwell"
+    ],
+    "directors": ["Duncan Jones"],
+    "composers": ["Clint Mansell"],
+    "settings": ["Moon"],
+    "genres": ["drama", "mystery", "sci-fi", "science fiction"],
+    "subjects": ["artificial intelligence", "cloning", "solitude"]
+  },
   "3 Idiots (2009)": {
     "title": "3 Idiots",
     "imdb": "tt1187043",
@@ -7322,6 +10121,29 @@
       "drama",
       "musical",
       "romance"
+    ],
+    "subjects": null
+  },
+  "The Lincoln Lawyer (2011)": {
+    "title": "The Lincoln Lawyer",
+    "imdb": "tt1189340",
+    "decade": "2010s",
+    "actors": [
+      "Marisa Tomei",
+      "Matthew McConaughey",
+      "Ryan Phillippe",
+      "William H. Macy"
+    ],
+    "directors": ["Brad Furman"],
+    "composers": ["Cliff Martinez"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "crime",
+      "crime thriller",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "trial"
     ],
     "subjects": null
   },
@@ -7351,6 +10173,28 @@
     ],
     "genres": ["action", "adventure", "disaster", "sci-fi", "science fiction"],
     "subjects": ["aviation"]
+  },
+  "Up in the Air (2009)": {
+    "title": "Up in the Air",
+    "imdb": "tt1193138",
+    "decade": "2000s",
+    "actors": [
+      "Anna Kendrick",
+      "George Clooney",
+      "Jason Bateman",
+      "Vera Farmiga"
+    ],
+    "directors": ["Jason Reitman"],
+    "composers": ["Rolfe Kent"],
+    "settings": ["Missouri", "Nebraska"],
+    "genres": [
+      "comedy",
+      "drama",
+      "film based on a novel",
+      "romance",
+      "romantic comedy"
+    ],
+    "subjects": ["aviation", "termination of employment"]
   },
   "The Bourne Legacy (2012)": {
     "title": "The Bourne Legacy",
@@ -7383,6 +10227,35 @@
       "thriller"
     ],
     "subjects": null
+  },
+  "Law Abiding Citizen (2009)": {
+    "title": "Law Abiding Citizen",
+    "imdb": "tt1197624",
+    "decade": "2000s",
+    "actors": ["Colm Meaney", "Gerard Butler", "Jamie Foxx", "Leslie Bibb"],
+    "directors": ["F. Gary Gray"],
+    "composers": ["Brian Tyler"],
+    "settings": ["Philadelphia"],
+    "genres": [
+      "action",
+      "crime",
+      "drama",
+      "prison",
+      "rape and revenge",
+      "vigilante"
+    ],
+    "subjects": ["capital punishment", "revenge"]
+  },
+  "Gran Torino (2008)": {
+    "title": "Gran Torino",
+    "imdb": "tt1205489",
+    "decade": "2000s",
+    "actors": ["Ahney Her", "Bee Vang", "Christopher Carley", "Clint Eastwood"],
+    "directors": ["Clint Eastwood"],
+    "composers": ["Kyle Eastwood", "Michael Stevens"],
+    "settings": ["Detroit"],
+    "genres": ["crime", "drama"],
+    "subjects": ["old age"]
   },
   "Moneyball (2011)": {
     "title": "Moneyball",
@@ -7449,6 +10322,44 @@
     ],
     "genres": ["action", "prison", "thriller"],
     "subjects": null
+  },
+  "Lawless (2012)": {
+    "title": "Lawless",
+    "imdb": "tt1212450",
+    "decade": "2010s",
+    "actors": ["Guy Pearce", "Jason Clarke", "Shia LaBeouf", "Tom Hardy"],
+    "directors": ["John Hillcoat"],
+    "composers": ["Nick Cave"],
+    "settings": ["Appalachian Mountains", "Franklin County"],
+    "genres": [
+      "action",
+      "biography",
+      "crime",
+      "drama",
+      "film based on a novel"
+    ],
+    "subjects": null
+  },
+  "The World's End (2013)": {
+    "title": "The World's End",
+    "imdb": "tt1213663",
+    "decade": "2010s",
+    "actors": ["Martin Freeman", "Nick Frost", "Rosamund Pike", "Simon Pegg"],
+    "directors": ["Edgar Wright"],
+    "composers": ["Steven Price"],
+    "settings": ["England"],
+    "genres": [
+      "action",
+      "alien invasion",
+      "apocalyptic",
+      "comedy",
+      "post-apocalyptic",
+      "romantic comedy",
+      "sci-fi",
+      "science fiction",
+      "science fiction comedy"
+    ],
+    "subjects": ["alcoholism", "alien invasion"]
   },
   "Limitless (2011)": {
     "title": "Limitless",
@@ -7519,6 +10430,22 @@
     ],
     "genres": ["action", "adventure", "spy", "thriller"],
     "subjects": ["terrorism"]
+  },
+  "Due Date (2010)": {
+    "title": "Due Date",
+    "imdb": "tt1231583",
+    "decade": "2010s",
+    "actors": [
+      "Jamie Foxx",
+      "Michelle Monaghan",
+      "Robert Downey Jr.",
+      "Zach Galifianakis"
+    ],
+    "directors": ["Todd Phillips"],
+    "composers": ["Christophe Beck"],
+    "settings": ["Arizona", "Atlanta", "California", "Los Angeles"],
+    "genres": ["buddy", "comedy", "drama", "road movie"],
+    "subjects": ["human pregnancy"]
   },
   "21 Jump Street (2012)": {
     "title": "21 Jump Street",
@@ -7622,6 +10549,22 @@
     "genres": ["action", "comedy", "crime", "crime thriller", "spy"],
     "subjects": null
   },
+  "300: Rise of an Empire (2014)": {
+    "title": "300: Rise of an Empire",
+    "imdb": "tt1253863",
+    "decade": "2010s",
+    "actors": [
+      "Eva Green",
+      "Hans Matheson",
+      "Lena Headey",
+      "Sullivan Stapleton"
+    ],
+    "directors": ["Noam Murro"],
+    "composers": ["Junkie XL"],
+    "settings": ["Ancient Greece"],
+    "genres": ["action", "drama", "fantasy", "war"],
+    "subjects": ["Battle of Artemisium", "Battle of Salamis"]
+  },
   "The Cabin in the Woods (2011)": {
     "title": "The Cabin in the Woods",
     "imdb": "tt1259521",
@@ -7703,6 +10646,29 @@
     "genres": ["action", "buddy cop", "comedy", "crime", "heist", "thriller"],
     "subjects": null
   },
+  "Looper (2012)": {
+    "title": "Looper",
+    "imdb": "tt1276104",
+    "decade": "2010s",
+    "actors": [
+      "Bruce Willis",
+      "Emily Blunt",
+      "Joseph Gordon-Levitt",
+      "Paul Dano"
+    ],
+    "directors": ["Rian Johnson"],
+    "composers": ["Nathan Johnson"],
+    "settings": ["Kansas", "Missouri", "Shanghai"],
+    "genres": [
+      "action",
+      "crime thriller",
+      "drama",
+      "dystopian",
+      "sci-fi",
+      "science fiction"
+    ],
+    "subjects": ["time loop"]
+  },
   "Easy A (2010)": {
     "title": "Easy A",
     "imdb": "tt1282140",
@@ -7720,6 +10686,22 @@
       "teen"
     ],
     "subjects": ["virginity"]
+  },
+  "Bad Teacher (2011)": {
+    "title": "Bad Teacher",
+    "imdb": "tt1284575",
+    "decade": "2010s",
+    "actors": [
+      "Cameron Diaz",
+      "Jason Segel",
+      "Justin Timberlake",
+      "Lucy Punch"
+    ],
+    "directors": ["Jake Kasdan"],
+    "composers": ["Michael Andrews"],
+    "settings": ["Chicago"],
+    "genres": ["comedy", "romance", "romantic comedy"],
+    "subjects": null
   },
   "The Social Network (2010)": {
     "title": "The Social Network",
@@ -7801,6 +10783,46 @@
     "genres": ["comedy", "drama", "romance"],
     "subjects": null
   },
+  "Gangster Squad (2013)": {
+    "title": "Gangster Squad",
+    "imdb": "tt1321870",
+    "decade": "2010s",
+    "actors": ["Emma Stone", "Giovanni Ribisi", "Ryan Gosling", "Sean Penn"],
+    "directors": ["Ruben Fleischer"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Los Angeles"],
+    "genres": ["action", "crime", "drama", "film based on books", "thriller"],
+    "subjects": [
+      "Gangster Squad",
+      "Los Angeles Police Department",
+      "organized crime"
+    ]
+  },
+  "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)": {
+    "title": "The Twilight Saga: Breaking Dawn \u2013 Part 1",
+    "imdb": "tt1324999",
+    "decade": "2010s",
+    "actors": [
+      "Gil Birmingham",
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Taylor Lautner"
+    ],
+    "directors": ["Bill Condon"],
+    "composers": ["Carter Burwell"],
+    "settings": ["Rio de Janeiro", "Washington"],
+    "genres": [
+      "adventure",
+      "drama",
+      "fantasy",
+      "film based on a novel",
+      "romance",
+      "teen",
+      "vampire",
+      "werewolf"
+    ],
+    "subjects": null
+  },
   "Terminator Genisys (2015)": {
     "title": "Terminator Genisys",
     "imdb": "tt1340138",
@@ -7823,6 +10845,22 @@
       "time-travel"
     ],
     "subjects": ["artificial intelligence", "cybernetic revolt", "cyborg"]
+  },
+  "The Great Gatsby (2013)": {
+    "title": "The Great Gatsby",
+    "imdb": "tt1343092",
+    "decade": "2010s",
+    "actors": [
+      "Carey Mulligan",
+      "Joel Edgerton",
+      "Leonardo DiCaprio",
+      "Tobey Maguire"
+    ],
+    "directors": ["Baz Luhrmann"],
+    "composers": ["Craig Armstrong"],
+    "settings": ["New York City"],
+    "genres": ["drama", "film based on a novel", "romance"],
+    "subjects": null
   },
   "Passengers (2016)": {
     "title": "Passengers",
@@ -7932,6 +10970,17 @@
     ],
     "subjects": null
   },
+  "The Other Guys (2010)": {
+    "title": "The Other Guys",
+    "imdb": "tt1386588",
+    "decade": "2010s",
+    "actors": ["Derek Jeter", "Eva Mendes", "Mark Wahlberg", "Will Ferrell"],
+    "directors": ["Adam McKay"],
+    "composers": ["Jon Brion"],
+    "settings": ["New York City"],
+    "genres": ["action", "buddy cop", "comedy", "crime"],
+    "subjects": null
+  },
   "Suicide Squad (2016)": {
     "title": "Suicide Squad",
     "imdb": "tt1386697",
@@ -8020,6 +11069,17 @@
       "urbanity"
     ]
   },
+  "Prisoners (2013)": {
+    "title": "Prisoners",
+    "imdb": "tt1392214",
+    "decade": "2010s",
+    "actors": ["Hugh Jackman", "Jake Gyllenhaal", "Melissa Leo", "Viola Davis"],
+    "directors": ["Denis Villeneuve"],
+    "composers": ["J\u00f3hann J\u00f3hannsson"],
+    "settings": ["Pennsylvania"],
+    "genres": ["crime", "drama", "mystery", "vigilante"],
+    "subjects": ["revenge"]
+  },
   "It (2017)": {
     "title": "It",
     "imdb": "tt1396484",
@@ -8057,6 +11117,30 @@
     "settings": ["Istanbul", "Los Angeles", "Paris", "Tirana"],
     "genres": ["action", "crime", "crime thriller", "thriller", "vigilante"],
     "subjects": ["revenge", "terrorism"]
+  },
+  "Straight Outta Compton (2015)": {
+    "title": "Straight Outta Compton",
+    "imdb": "tt1398426",
+    "decade": "2010s",
+    "actors": [
+      "Corey Hawkins",
+      "Jason Mitchell",
+      "Neil Brown Jr.",
+      "O'Shea Jackson Jr."
+    ],
+    "directors": ["F. Gary Gray"],
+    "composers": ["Joseph Trapanese"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "biographical",
+      "biography",
+      "crime",
+      "drama",
+      "history",
+      "hood",
+      "musical"
+    ],
+    "subjects": null
   },
   "Transformers: Dark of the Moon (2011)": {
     "title": "Transformers: Dark of the Moon",
@@ -8098,6 +11182,34 @@
     "genres": ["adventure", "drama", "film based on a novel", "western"],
     "subjects": ["revenge"]
   },
+  "Star Trek Into Darkness (2013)": {
+    "title": "Star Trek Into Darkness",
+    "imdb": "tt1408101",
+    "decade": "2010s",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Chris Pine",
+      "Zachary Quinto",
+      "Zoe Saldana"
+    ],
+    "directors": ["J. J. Abrams"],
+    "composers": ["Michael Giacchino"],
+    "settings": [
+      "London",
+      "Qo'noS",
+      "San Francisco",
+      "Starfleet Headquarters",
+      "USS Vengeance"
+    ],
+    "genres": [
+      "action",
+      "adventure",
+      "sci-fi",
+      "science fiction",
+      "science fiction action"
+    ],
+    "subjects": ["terrorism"]
+  },
   "Men in Black 3 (2012)": {
     "title": "Men in Black 3",
     "imdb": "tt1409024",
@@ -8127,6 +11239,22 @@
       "time-travel"
     ],
     "subjects": ["time travel"]
+  },
+  "No Strings Attached (2011)": {
+    "title": "No Strings Attached",
+    "imdb": "tt1411238",
+    "decade": "2010s",
+    "actors": [
+      "Ashton Kutcher",
+      "Cary Elwes",
+      "Kevin Kline",
+      "Natalie Portman"
+    ],
+    "directors": ["Ivan Reitman"],
+    "composers": ["John Debney"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy", "drama", "romance", "romantic comedy"],
+    "subjects": null
   },
   "The Hangover Part II (2011)": {
     "title": "The Hangover Part II",
@@ -8158,6 +11286,30 @@
     "composers": ["John Debney"],
     "settings": null,
     "genres": ["action", "adventure", "horror", "sci-fi", "science fiction"],
+    "subjects": null
+  },
+  "Hansel & Gretel: Witch Hunters (2013)": {
+    "title": "Hansel & Gretel: Witch Hunters",
+    "imdb": "tt1428538",
+    "decade": "2010s",
+    "actors": [
+      "Famke Janssen",
+      "Gemma Arterton",
+      "Jeremy Renner",
+      "Peter Stormare"
+    ],
+    "directors": ["Tommy Wirkola"],
+    "composers": ["Atli \u00d6rvarsson"],
+    "settings": ["Germany"],
+    "genres": [
+      "action",
+      "comedy drama",
+      "comedy horror",
+      "fantasy",
+      "film based on literature",
+      "horror",
+      "splatter"
+    ],
     "subjects": null
   },
   "The Wolverine (2013)": {
@@ -8364,6 +11516,53 @@
     "genres": ["comedy", "female buddy", "romance", "romantic comedy"],
     "subjects": null
   },
+  "Oblivion (2013)": {
+    "title": "Oblivion",
+    "imdb": "tt1483013",
+    "decade": "2010s",
+    "actors": [
+      "Andrea Riseborough",
+      "Morgan Freeman",
+      "Olga Kurylenko",
+      "Tom Cruise"
+    ],
+    "directors": ["Joseph Kosinski"],
+    "composers": ["Joseph Trapanese", "M83"],
+    "settings": ["New York City"],
+    "genres": [
+      "action",
+      "adventure",
+      "alien invasion",
+      "dystopian",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["alien invasion", "cloning"]
+  },
+  "The Greatest Showman (2017)": {
+    "title": "The Greatest Showman",
+    "imdb": "tt1485796",
+    "decade": "2010s",
+    "actors": ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya"],
+    "directors": ["Michael Gracey"],
+    "composers": ["John Debney", "Pasek and Paul"],
+    "settings": ["London"],
+    "genres": ["biographical", "biography", "drama", "musical", "romance"],
+    "subjects": null
+  },
+  "Horrible Bosses (2011)": {
+    "title": "Horrible Bosses",
+    "imdb": "tt1499658",
+    "decade": "2010s",
+    "actors": ["Charlie Day", "Jason Bateman", "Jason Sudeikis", "Steve Wiebe"],
+    "directors": ["Seth Gordon"],
+    "composers": ["Christopher Lennertz"],
+    "settings": ["Los Angeles"],
+    "genres": ["comedy", "crime"],
+    "subjects": null
+  },
   "Sherlock Holmes: A Game of Shadows (2011)": {
     "title": "Sherlock Holmes: A Game of Shadows",
     "imdb": "tt1515091",
@@ -8386,6 +11585,43 @@
       "steampunk"
     ],
     "subjects": null
+  },
+  "A Star Is Born (2018)": {
+    "title": "A Star Is Born",
+    "imdb": "tt1517451",
+    "decade": "2010s",
+    "actors": ["Bradley Cooper", "Greg Grunberg", "Lady Gaga", "Sam Elliott"],
+    "directors": ["Bradley Cooper"],
+    "composers": null,
+    "settings": ["Los Angeles"],
+    "genres": ["drama", "music", "musical", "romance", "romantic drama"],
+    "subjects": null
+  },
+  "Captain Phillips (2013)": {
+    "title": "Captain Phillips",
+    "imdb": "tt1535109",
+    "decade": "2010s",
+    "actors": [
+      "Barkhad Abdi",
+      "Barkhad Abdirahman",
+      "Catherine Keener",
+      "Tom Hanks"
+    ],
+    "directors": ["Paul Greengrass"],
+    "composers": ["Henry Jackman"],
+    "settings": ["Africa"],
+    "genres": [
+      "action",
+      "biographical",
+      "biography",
+      "crime",
+      "drama",
+      "film based on books",
+      "pirate",
+      "survival",
+      "thriller"
+    ],
+    "subjects": ["Maersk Alabama hijacking", "sea piracy"]
   },
   "127 Hours (2010)": {
     "title": "127 Hours",
@@ -8517,6 +11753,22 @@
     "genres": ["action", "disaster", "drama", "thriller"],
     "subjects": ["epidemic"]
   },
+  "Safe House (2012)": {
+    "title": "Safe House",
+    "imdb": "tt1599348",
+    "decade": "2010s",
+    "actors": [
+      "Denzel Washington",
+      "Robert Patrick",
+      "Ryan Reynolds",
+      "Vera Farmiga"
+    ],
+    "directors": ["Daniel Espinosa"],
+    "composers": ["Ramin Djawadi"],
+    "settings": ["Africa"],
+    "genres": ["action", "crime", "thriller"],
+    "subjects": null
+  },
   "The Grey (2011)": {
     "title": "The Grey",
     "imdb": "tt1601913",
@@ -8568,6 +11820,66 @@
     "genres": ["action", "action thriller", "buddy cop", "thriller"],
     "subjects": ["terrorism"]
   },
+  "Avatar: The Way of Water (2022)": {
+    "title": "Avatar: The Way of Water",
+    "imdb": "tt1630029",
+    "decade": "2020s",
+    "actors": [
+      "Sam Worthington",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Zoe Saldana"
+    ],
+    "directors": ["James Cameron"],
+    "composers": ["Simon Franglen"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "epic",
+      "fantasy",
+      "science fiction",
+      "speculative/fantastic fiction"
+    ],
+    "subjects": null
+  },
+  "Edge of Tomorrow (2014)": {
+    "title": "Edge of Tomorrow",
+    "imdb": "tt1631867",
+    "decade": "2010s",
+    "actors": ["Bill Paxton", "Brendan Gleeson", "Emily Blunt", "Tom Cruise"],
+    "directors": ["ron"],
+    "composers": ["Christophe Beck"],
+    "settings": ["London", "Paris"],
+    "genres": [
+      "action",
+      "adventure",
+      "dystopian",
+      "film based on literature",
+      "military science fiction",
+      "sci-fi",
+      "science fiction",
+      "science fiction action"
+    ],
+    "subjects": ["alien invasion", "time loop"]
+  },
+  "Friends with Benefits (2011)": {
+    "title": "Friends with Benefits",
+    "imdb": "tt1632708",
+    "decade": "2010s",
+    "actors": [
+      "Jenna Elfman",
+      "Justin Timberlake",
+      "Mila Kunis",
+      "Patricia Clarkson"
+    ],
+    "directors": ["Will Gluck"],
+    "composers": ["Cliff Eidelman"],
+    "settings": ["Los Angeles", "New York City"],
+    "genres": ["comedy", "romance", "romantic comedy"],
+    "subjects": null
+  },
   "Project X (2012)": {
     "title": "Project X",
     "imdb": "tt1636826",
@@ -8583,6 +11895,31 @@
     "settings": ["California"],
     "genres": ["comedy", "found footage", "teen"],
     "subjects": ["alcoholism"]
+  },
+  "In Time (2011)": {
+    "title": "In Time",
+    "imdb": "tt1637688",
+    "decade": "2010s",
+    "actors": [
+      "Amanda Seyfried",
+      "Cillian Murphy",
+      "Justin Timberlake",
+      "Olivia Wilde"
+    ],
+    "directors": ["Andrew Niccol"],
+    "composers": ["Craig Armstrong"],
+    "settings": null,
+    "genres": [
+      "action",
+      "crime",
+      "dystopian",
+      "fantasy",
+      "postcyberpunk",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": null
   },
   "The Man from U.N.C.L.E. (2015)": {
     "title": "The Man from U.N.C.L.E.",
@@ -8694,6 +12031,29 @@
     ],
     "subjects": ["revenge"]
   },
+  "The Artist (2011)": {
+    "title": "The Artist",
+    "imdb": "tt1655442",
+    "decade": "2010s",
+    "actors": [
+      "B\u00e9r\u00e9nice Bejo",
+      "James Cromwell",
+      "Jean Dujardin",
+      "John Goodman"
+    ],
+    "directors": ["Michel Hazanavicius"],
+    "composers": ["Ludovic Bource"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "romance",
+      "romantic comedy",
+      "silent"
+    ],
+    "subjects": ["filmmaking"]
+  },
   "The Revenant (2015)": {
     "title": "The Revenant",
     "imdb": "tt1663202",
@@ -8744,6 +12104,23 @@
     ],
     "subjects": ["alien invasion", "kaiju", "mecha"]
   },
+  "Now You See Me (2013)": {
+    "title": "Now You See Me",
+    "imdb": "tt1670345",
+    "decade": "2010s",
+    "actors": ["Common", "Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson"],
+    "directors": ["Louis Leterrier"],
+    "composers": ["Brian Tyler"],
+    "settings": [
+      "Los Angeles",
+      "New Orleans",
+      "New York City",
+      "Paris",
+      "Queens"
+    ],
+    "genres": ["crime", "heist", "mystery", "thriller"],
+    "subjects": ["revenge"]
+  },
   "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)": {
     "title": "The Twilight Saga: Breaking Dawn \u2013 Part 2",
     "imdb": "tt1673434",
@@ -8766,6 +12143,34 @@
       "teen",
       "vampire",
       "werewolf"
+    ],
+    "subjects": null
+  },
+  "Chronicle (2012)": {
+    "title": "Chronicle",
+    "imdb": "tt1706593",
+    "decade": "2010s",
+    "actors": [
+      "Alex Russell",
+      "Dane DeHaan",
+      "Michael B. Jordan",
+      "Michael Kelly"
+    ],
+    "directors": ["Josh Trank"],
+    "composers": null,
+    "settings": ["Seattle"],
+    "genres": [
+      "action",
+      "coming-of-age fiction",
+      "drama",
+      "fantasy",
+      "found footage",
+      "pseudo-documentary",
+      "sci-fi",
+      "speculative/fantastic fiction",
+      "superhero",
+      "teen",
+      "thriller"
     ],
     "subjects": null
   },
@@ -8794,6 +12199,45 @@
       "survival"
     ]
   },
+  "Les Mis\u00e9rables (2012)": {
+    "title": "Les Mis\u00e9rables",
+    "imdb": "tt1707386",
+    "decade": "2010s",
+    "actors": [
+      "Amanda Seyfried",
+      "Anne Hathaway",
+      "Hugh Jackman",
+      "Russell Crowe"
+    ],
+    "directors": ["Tom Hooper"],
+    "composers": ["Claude-Michel Sch\u00f6nberg"],
+    "settings": ["Bagne of Toulon", "France", "Montreuil", "Paris"],
+    "genres": ["drama", "film based on a novel", "musical", "romance"],
+    "subjects": [
+      "Christianity",
+      "liberty",
+      "misery",
+      "oppression",
+      "redemption",
+      "rivalry"
+    ]
+  },
+  "We're the Millers (2013)": {
+    "title": "We're the Millers",
+    "imdb": "tt1723121",
+    "decade": "2010s",
+    "actors": [
+      "Ed Helms",
+      "Emma Roberts",
+      "Jason Sudeikis",
+      "Jennifer Aniston"
+    ],
+    "directors": ["Rawson Marshall Thurber"],
+    "composers": ["Ludwig G\u00f6ransson"],
+    "settings": ["Mexico"],
+    "genres": ["comedy", "crime"],
+    "subjects": ["dysfunctional family"]
+  },
   "Bohemian Rhapsody (2018)": {
     "title": "Bohemian Rhapsody",
     "imdb": "tt1727824",
@@ -8812,6 +12256,67 @@
     ],
     "subjects": ["Freddie Mercury", "Queen"]
   },
+  "Ender's Game (2013)": {
+    "title": "Ender's Game",
+    "imdb": "tt1731141",
+    "decade": "2010s",
+    "actors": [
+      "Abigail Breslin",
+      "Asa Butterfield",
+      "Hailee Steinfeld",
+      "Harrison Ford"
+    ],
+    "directors": ["Gavin Hood"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Earth", "universe"],
+    "genres": [
+      "action",
+      "adventure",
+      "children's",
+      "fantasy",
+      "film based on a novel",
+      "sci-fi",
+      "science fiction",
+      "teen"
+    ],
+    "subjects": ["alien invasion"]
+  },
+  "Top Gun: Maverick (2022)": {
+    "title": "Top Gun: Maverick",
+    "imdb": "tt1745960",
+    "decade": "2020s",
+    "actors": ["Jennifer Connelly", "Miles Teller", "Tom Cruise", "Val Kilmer"],
+    "directors": ["Joseph Kosinski"],
+    "composers": [
+      "Hans Zimmer",
+      "Harold Faltermeyer",
+      "Lady Gaga",
+      "OneRepublic",
+      "Ryan Tedder"
+    ],
+    "settings": ["California"],
+    "genres": ["action", "drama"],
+    "subjects": null
+  },
+  "Moonrise Kingdom (2012)": {
+    "title": "Moonrise Kingdom",
+    "imdb": "tt1748122",
+    "decade": "2010s",
+    "actors": ["Bill Murray", "Bruce Willis", "Jared Gilman", "Kara Hayward"],
+    "directors": ["Wes Anderson"],
+    "composers": ["Alexandre Desplat"],
+    "settings": null,
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "family",
+      "romantic comedy",
+      "teen",
+      "tragicomedy"
+    ],
+    "subjects": ["summer camp"]
+  },
   "The Expendables 2 (2012)": {
     "title": "The Expendables 2",
     "imdb": "tt1764651",
@@ -8827,6 +12332,68 @@
     "settings": ["Paris"],
     "genres": ["action", "adventure", "thriller"],
     "subjects": ["revenge", "terrorism"]
+  },
+  "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "imdb": "tt1790809",
+    "decade": "2010s",
+    "actors": [
+      "Geoffrey Rush",
+      "Javier Bardem",
+      "Johnny Depp",
+      "Orlando Bloom"
+    ],
+    "directors": ["Espen Sandberg", "Joachim R\u00f8nning"],
+    "composers": ["Hans Zimmer"],
+    "settings": ["London"],
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "fantasy",
+      "pirate",
+      "swashbuckler",
+      "treasure hunt"
+    ],
+    "subjects": null
+  },
+  "Zero Dark Thirty (2012)": {
+    "title": "Zero Dark Thirty",
+    "imdb": "tt1790885",
+    "decade": "2010s",
+    "actors": [
+      "Chris Pratt",
+      "Jessica Chastain",
+      "Joel Edgerton",
+      "Mark Strong"
+    ],
+    "directors": ["Kathryn Bigelow"],
+    "composers": ["Alexandre Desplat"],
+    "settings": [
+      "Afghanistan",
+      "Kuwait City",
+      "London",
+      "New York City",
+      "Washington, D.C."
+    ],
+    "genres": ["action", "drama", "history", "thriller", "war"],
+    "subjects": ["September 11 attacks", "terrorism"]
+  },
+  "Southpaw (2015)": {
+    "title": "Southpaw",
+    "imdb": "tt1798684",
+    "decade": "2010s",
+    "actors": [
+      "Forest Whitaker",
+      "Jake Gyllenhaal",
+      "Oona Laurence",
+      "Rachel McAdams"
+    ],
+    "directors": ["Antoine Fuqua"],
+    "composers": ["James Horner"],
+    "settings": ["New York"],
+    "genres": ["action", "boxing", "crime", "drama"],
+    "subjects": ["boxing"]
   },
   "Her (2013)": {
     "title": "Her",
@@ -8859,6 +12426,22 @@
       "romance",
       "virtual assistant"
     ]
+  },
+  "American Hustle (2013)": {
+    "title": "American Hustle",
+    "imdb": "tt1800241",
+    "decade": "2010s",
+    "actors": [
+      "Amy Adams",
+      "Bradley Cooper",
+      "Christian Bale",
+      "Jennifer Lawrence"
+    ],
+    "directors": ["David O. Russell"],
+    "composers": ["Danny Elfman"],
+    "settings": ["New Jersey"],
+    "genres": ["comedy", "crime", "drama", "heist"],
+    "subjects": null
   },
   "The Place Beyond the Pines (2012)": {
     "title": "The Place Beyond the Pines",
@@ -8901,6 +12484,47 @@
     ],
     "subjects": null
   },
+  "Black Panther (2018)": {
+    "title": "Black Panther",
+    "imdb": "tt1825683",
+    "decade": "2010s",
+    "actors": [
+      "Chadwick Boseman",
+      "Danai Gurira",
+      "Lupita Nyong'o",
+      "Michael B. Jordan"
+    ],
+    "directors": ["Ryan Coogler"],
+    "composers": ["Ludwig G\u00f6ransson"],
+    "settings": ["Busan", "Culiac\u00e1n", "London", "Oakland", "Vienna"],
+    "genres": ["action", "adventure", "sci-fi", "science fiction", "superhero"],
+    "subjects": null
+  },
+  "Divergent (2014)": {
+    "title": "Divergent",
+    "imdb": "tt1840309",
+    "decade": "2010s",
+    "actors": [
+      "Jai Courtney",
+      "Kate Winslet",
+      "Shailene Woodley",
+      "Theo James"
+    ],
+    "directors": ["Neil Burger"],
+    "composers": ["Junkie XL"],
+    "settings": ["Chicago"],
+    "genres": [
+      "action",
+      "adventure",
+      "dystopian",
+      "film based on a novel",
+      "mystery",
+      "post-apocalyptic",
+      "romance",
+      "thriller"
+    ],
+    "subjects": null
+  },
   "Captain America: The Winter Soldier (2014)": {
     "title": "Captain America: The Winter Soldier",
     "imdb": "tt1843866",
@@ -8927,6 +12551,47 @@
       "terrorism",
       "unmanned aerial vehicle"
     ]
+  },
+  "Django Unchained (2012)": {
+    "title": "Django Unchained",
+    "imdb": "tt1853728",
+    "decade": "2010s",
+    "actors": [
+      "Christoph Waltz",
+      "Jamie Foxx",
+      "Kerry Washington",
+      "Leonardo DiCaprio"
+    ],
+    "directors": ["Quentin Tarantino"],
+    "composers": ["Ennio Morricone"],
+    "settings": ["Tennessee", "Texas"],
+    "genres": ["blaxploitation", "drama", "western"],
+    "subjects": ["revenge", "slavery in the United States"]
+  },
+  "End of Watch (2012)": {
+    "title": "End of Watch",
+    "imdb": "tt1855199",
+    "decade": "2010s",
+    "actors": [
+      "America Ferrera",
+      "Anna Kendrick",
+      "Jake Gyllenhaal",
+      "Michael Pe\u00f1a"
+    ],
+    "directors": ["David Ayer"],
+    "composers": ["Dave Sardy"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "action",
+      "adventure",
+      "buddy cop",
+      "crime",
+      "crime thriller",
+      "drama",
+      "found footage",
+      "hood"
+    ],
+    "subjects": ["Los Angeles Police Department"]
   },
   "Blade Runner 2049 (2017)": {
     "title": "Blade Runner 2049",
@@ -9094,6 +12759,22 @@
     "genres": ["comedy", "crime", "drama", "mystery"],
     "subjects": ["alcoholism", "serial killer"]
   },
+  "The Hangover Part III (2013)": {
+    "title": "The Hangover Part III",
+    "imdb": "tt1951261",
+    "decade": "2010s",
+    "actors": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Justin Bartha",
+      "Zach Galifianakis"
+    ],
+    "directors": ["Todd Phillips"],
+    "composers": ["Christophe Beck"],
+    "settings": ["Los Angeles"],
+    "genres": ["buddy", "comedy", "crime"],
+    "subjects": null
+  },
   "The Hunger Games: Catching Fire (2013)": {
     "title": "The Hunger Games: Catching Fire",
     "imdb": "tt1951264",
@@ -9192,6 +12873,38 @@
       "terrorism"
     ]
   },
+  "The Hitman's Bodyguard (2017)": {
+    "title": "The Hitman's Bodyguard",
+    "imdb": "tt1959563",
+    "decade": "2010s",
+    "actors": [
+      "Elodie Yung",
+      "Gary Oldman",
+      "Ryan Reynolds",
+      "Samuel L. Jackson"
+    ],
+    "directors": ["Patrick Hughes"],
+    "composers": ["Atli \u00d6rvarsson"],
+    "settings": ["London"],
+    "genres": ["action", "comedy", "crime", "thriller"],
+    "subjects": null
+  },
+  "The King Arthur Martin & The King Arthur Morgan: Legend of The World Dreman Royaume T\u00e9n\u00e9bre Obscure for Ramelot (2017)": {
+    "title": "The King Arthur Martin & The King Arthur Morgan: Legend of The World Dreman Royaume T\u00e9n\u00e9bre Obscure for Ramelot",
+    "imdb": "tt1972591",
+    "decade": "2010s",
+    "actors": [
+      "Astrid Berg\u00e8s-Frisbey",
+      "Charlie Hunnam",
+      "Djimon Hounsou",
+      "Jude Law"
+    ],
+    "directors": ["Guy Ritchie"],
+    "composers": ["Daniel Pemberton"],
+    "settings": ["London"],
+    "genres": ["action", "adventure", "drama", "fantasy", "medieval"],
+    "subjects": ["King Arthur"]
+  },
   "Rush (2013)": {
     "title": "Rush",
     "imdb": "tt1979320",
@@ -9216,6 +12929,22 @@
     ],
     "genres": ["action", "biographical", "biography", "drama", "sport"],
     "subjects": ["1976 Formula One season", "James Hunt", "Niki Lauda"]
+  },
+  "Pain & Gain (2013)": {
+    "title": "Pain & Gain",
+    "imdb": "tt1980209",
+    "decade": "2010s",
+    "actors": [
+      "Anthony Mackie",
+      "Dwayne Johnson",
+      "Mark Wahlberg",
+      "Tony Shalhoub"
+    ],
+    "directors": ["Michael Bay"],
+    "composers": ["Steve Jablonsky"],
+    "settings": ["Miami", "Miami metropolitan area", "The Bahamas"],
+    "genres": ["action", "comedy", "crime", "drama"],
+    "subjects": ["Anthony Mackie", "Dwayne Johnson", "Mark Wahlberg"]
   },
   "Thor: The Dark World (2013)": {
     "title": "Thor: The Dark World",
@@ -9365,6 +13094,81 @@
       "World War II"
     ]
   },
+  "Dawn of the Planet of the Apes (2014)": {
+    "title": "Dawn of the Planet of the Apes",
+    "imdb": "tt2103281",
+    "decade": "2010s",
+    "actors": [
+      "Andy Serkis",
+      "Gary Oldman",
+      "Keri Russell",
+      "Kodi Smit-McPhee"
+    ],
+    "directors": ["Matt Reeves"],
+    "composers": ["Michael Giacchino"],
+    "settings": ["San Francisco"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "dystopian",
+      "film based on a novel",
+      "post-apocalyptic",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": null
+  },
+  "Hacksaw Ridge (2016)": {
+    "title": "Hacksaw Ridge",
+    "imdb": "tt2119532",
+    "decade": "2010s",
+    "actors": [
+      "Andrew Garfield",
+      "Luke Bracey",
+      "Sam Worthington",
+      "Teresa Palmer"
+    ],
+    "directors": ["Mel Gibson"],
+    "composers": ["John Debney", "Rupert Gregson-Williams"],
+    "settings": ["Japan"],
+    "genres": [
+      "anti-war",
+      "biographical",
+      "biography",
+      "drama",
+      "history",
+      "romance"
+    ],
+    "subjects": ["Battle of Okinawa", "conscience", "World War II"]
+  },
+  "San Andreas (2015)": {
+    "title": "San Andreas",
+    "imdb": "tt2126355",
+    "decade": "2010s",
+    "actors": [
+      "Alexandra Daddario",
+      "Carla Gugino",
+      "Colton Haynes",
+      "Dwayne Johnson"
+    ],
+    "directors": ["Brad Peyton"],
+    "composers": ["Andrew Lockington"],
+    "settings": ["California", "Los Angeles", "San Francisco"],
+    "genres": ["action", "adventure", "disaster", "thriller"],
+    "subjects": ["earthquake"]
+  },
+  "The Accountant (2016)": {
+    "title": "The Accountant",
+    "imdb": "tt2140479",
+    "decade": "2010s",
+    "actors": ["Anna Kendrick", "Ben Affleck", "J.K. Simmons", "Jon Bernthal"],
+    "directors": ["Gavin O'Connor"],
+    "composers": ["Mark Isham"],
+    "settings": ["Washington, D.C."],
+    "genres": ["action", "crime", "drama", "mystery", "thriller"],
+    "subjects": ["assassination", "autism"]
+  },
   "American Sniper (2014)": {
     "title": "American Sniper",
     "imdb": "tt2179136",
@@ -9418,6 +13222,50 @@
     ],
     "subjects": ["time travel"]
   },
+  "Transcendence (2014)": {
+    "title": "Transcendence",
+    "imdb": "tt2209764",
+    "decade": "2010s",
+    "actors": [
+      "Cillian Murphy",
+      "Johnny Depp",
+      "Morgan Freeman",
+      "Rebecca Hall"
+    ],
+    "directors": ["Wally Pfister"],
+    "composers": ["Mychael Danna"],
+    "settings": ["San Francisco"],
+    "genres": [
+      "action",
+      "drama",
+      "dystopian",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": [
+      "artificial intelligence",
+      "cybernetic revolt",
+      "human enhancement",
+      "mind uploading"
+    ]
+  },
+  "Don Jon (2013)": {
+    "title": "Don Jon",
+    "imdb": "tt2229499",
+    "decade": "2010s",
+    "actors": [
+      "Joseph Gordon-Levitt",
+      "Julianne Moore",
+      "Scarlett Johansson",
+      "Tony Danza"
+    ],
+    "directors": ["Joseph Gordon-Levitt"],
+    "composers": ["Nathan Johnson"],
+    "settings": ["New Jersey"],
+    "genres": ["comedy", "drama", "romance", "romantic comedy"],
+    "subjects": ["pornography"]
+  },
   "The Internship (2013)": {
     "title": "The Internship",
     "imdb": "tt2234155",
@@ -9428,6 +13276,30 @@
     "settings": ["San Francisco"],
     "genres": ["comedy", "drama"],
     "subjects": ["computing"]
+  },
+  "Gone Girl (2014)": {
+    "title": "Gone Girl",
+    "imdb": "tt2267998",
+    "decade": "2010s",
+    "actors": [
+      "Ben Affleck",
+      "Neil Patrick Harris",
+      "Rosamund Pike",
+      "Tyler Perry"
+    ],
+    "directors": ["David Fincher"],
+    "composers": ["Atticus Ross", "Trent Reznor"],
+    "settings": ["Manhattan"],
+    "genres": [
+      "crime",
+      "crime thriller",
+      "detective",
+      "drama",
+      "film based on a novel",
+      "mystery",
+      "thriller"
+    ],
+    "subjects": null
   },
   "Jumanji: Welcome to the Jungle (2017)": {
     "title": "Jumanji: Welcome to the Jungle",
@@ -9533,6 +13405,25 @@
       "Tangier"
     ],
     "genres": ["action", "adventure", "spy", "thriller"],
+    "subjects": ["terrorism"]
+  },
+  "Mission: Impossible \u2013 Rogue Nation (2015)": {
+    "title": "Mission: Impossible \u2013 Rogue Nation",
+    "imdb": "tt2381249",
+    "decade": "2010s",
+    "actors": ["Jeremy Renner", "Rebecca Ferguson", "Simon Pegg", "Tom Cruise"],
+    "directors": ["Christopher McQuarrie"],
+    "composers": ["Joe Kraemer"],
+    "settings": [
+      "Casablanca",
+      "Havana",
+      "Langley",
+      "London",
+      "Minsk",
+      "Vienna",
+      "Washington, D.C."
+    ],
+    "genres": ["action", "adventure", "thriller"],
     "subjects": ["terrorism"]
   },
   "No Time to Die (2021)": {
@@ -9662,6 +13553,27 @@
     "genres": ["action", "adventure", "fantasy", "space opera"],
     "subjects": null
   },
+  "Arrival (2016)": {
+    "title": "Arrival",
+    "imdb": "tt2543164",
+    "decade": "2010s",
+    "actors": [
+      "Amy Adams",
+      "Forest Whitaker",
+      "Jeremy Renner",
+      "Michael Stuhlbarg"
+    ],
+    "directors": ["Denis Villeneuve"],
+    "composers": ["J\u00f3hann J\u00f3hannsson"],
+    "settings": ["Shanghai"],
+    "genres": ["drama", "mystery", "sci-fi", "science fiction", "thriller"],
+    "subjects": [
+      "alien language",
+      "communication with extraterrestrial intelligence",
+      "first contact fiction",
+      "predestination"
+    ]
+  },
   "Birdman (2014)": {
     "title": "Birdman",
     "imdb": "tt2562232",
@@ -9760,6 +13672,24 @@
     "genres": ["comedy", "fantasy"],
     "subjects": null
   },
+  "Star Trek Beyond (2016)": {
+    "title": "Star Trek Beyond",
+    "imdb": "tt2660888",
+    "decade": "2010s",
+    "actors": ["Chris Pine", "Karl Urban", "Zachary Quinto", "Zoe Saldana"],
+    "directors": ["Justin Lin"],
+    "composers": ["Michael Giacchino"],
+    "settings": ["Altamid", "Starbase Yorktown"],
+    "genres": [
+      "action",
+      "adventure",
+      "lgbt-related",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": null
+  },
   "Game Night (2018)": {
     "title": "Game Night",
     "imdb": "tt2704998",
@@ -9828,6 +13758,30 @@
     "genres": ["action", "adventure", "buddy", "comedy", "parody"],
     "subjects": ["attempted murder", "North Korea"]
   },
+  "Annihilation (2018)": {
+    "title": "Annihilation",
+    "imdb": "tt2798920",
+    "decade": "2010s",
+    "actors": [
+      "Benedict Wong",
+      "Jennifer Jason Leigh",
+      "Natalie Portman",
+      "Tessa Thompson"
+    ],
+    "directors": ["Alex Garland"],
+    "composers": ["Ben Salisbury", "Geoff Barrow"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "film based on a novel",
+      "horror",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": ["alien invasion"]
+  },
   "Kingsman: The Secret Service (2014)": {
     "title": "Kingsman: The Secret Service",
     "imdb": "tt2802144",
@@ -9883,6 +13837,22 @@
     "genres": ["adventure", "comedy", "comedy drama", "drama"],
     "subjects": null
   },
+  "John Wick (2014)": {
+    "title": "John Wick",
+    "imdb": "tt2911666",
+    "decade": "2010s",
+    "actors": [
+      "Alfie Allen",
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Willem Dafoe"
+    ],
+    "directors": ["Chad Stahelski", "David Leitch"],
+    "composers": ["Tyler Bates"],
+    "settings": ["New York City", "The Continental"],
+    "genres": ["action", "crime", "crime thriller", "thriller"],
+    "subjects": ["revenge", "vigilante"]
+  },
   "Ad Astra (2019)": {
     "title": "Ad Astra",
     "imdb": "tt2935510",
@@ -9906,6 +13876,25 @@
     ],
     "subjects": null
   },
+  "The Theory of Everything (2014)": {
+    "title": "The Theory of Everything",
+    "imdb": "tt2980516",
+    "decade": "2010s",
+    "actors": ["Eddie Redmayne", "Felicity Jones", "Sophie Perry", "Tom Prior"],
+    "directors": ["James Marsh"],
+    "composers": ["J\u00f3hann J\u00f3hannsson"],
+    "settings": ["England"],
+    "genres": [
+      "biographical",
+      "biography",
+      "drama",
+      "film based on books",
+      "historical",
+      "melodrama",
+      "romance"
+    ],
+    "subjects": ["Stephen Hawking"]
+  },
   "The Conjuring 2 (2016)": {
     "title": "The Conjuring 2",
     "imdb": "tt3065204",
@@ -9920,6 +13909,17 @@
     "composers": ["Joseph Bishara"],
     "settings": ["London"],
     "genres": ["ghost", "horror", "mystery", "thriller"],
+    "subjects": null
+  },
+  "Spy (2015)": {
+    "title": "Spy",
+    "imdb": "tt3079380",
+    "decade": "2010s",
+    "actors": ["Jason Statham", "Jude Law", "Melissa McCarthy", "Rose Byrne"],
+    "directors": ["Paul Feig"],
+    "composers": ["Theodore Shapiro"],
+    "settings": ["Paris"],
+    "genres": ["action", "action comedy", "comedy"],
     "subjects": null
   },
   "Now You See Me 2 (2016)": {
@@ -9960,6 +13960,44 @@
     "composers": ["Stephen Rennicks"],
     "settings": ["Canada"],
     "genres": ["drama", "film based on a novel", "thriller"],
+    "subjects": null
+  },
+  "It Follows (2014)": {
+    "title": "It Follows",
+    "imdb": "tt3235888",
+    "decade": "2010s",
+    "actors": [
+      "Keir Gilchrist",
+      "Lili Sepe",
+      "Maika Monroe",
+      "Olivia Luccardi"
+    ],
+    "directors": ["David Robert Mitchell"],
+    "composers": ["Disasterpeace"],
+    "settings": ["Michigan"],
+    "genres": [
+      "horror",
+      "mystery",
+      "psychological horror",
+      "supernatural fiction",
+      "thriller"
+    ],
+    "subjects": ["curse", "danger"]
+  },
+  "Sully (2016)": {
+    "title": "Sully",
+    "imdb": "tt3263904",
+    "decade": "2010s",
+    "actors": [
+      "Aaron Eckhart",
+      "Laura Linney",
+      "Tom Hanks",
+      "Valerie Mahaffey"
+    ],
+    "directors": ["Clint Eastwood"],
+    "composers": null,
+    "settings": ["New York City"],
+    "genres": ["biographical", "biography", "drama", "film based on books"],
     "subjects": null
   },
   "Little Women (2019)": {
@@ -10094,6 +14132,51 @@
       "violence"
     ]
   },
+  "The Lobster (2015)": {
+    "title": "The Lobster",
+    "imdb": "tt3464902",
+    "decade": "2010s",
+    "actors": [
+      "Colin Farrell",
+      "Jessica Barden",
+      "Olivia Colman",
+      "Rachel Weisz"
+    ],
+    "directors": ["Y\u00f3rgos L\u00e1nthimos"],
+    "composers": null,
+    "settings": null,
+    "genres": [
+      "drama",
+      "dystopian",
+      "romance",
+      "romantic comedy",
+      "sci-fi",
+      "science fiction"
+    ],
+    "subjects": ["romance"]
+  },
+  "Black Widow (2021)": {
+    "title": "Black Widow",
+    "imdb": "tt3480822",
+    "decade": "2020s",
+    "actors": [
+      "David Harbour",
+      "Florence Pugh",
+      "Rachel Weisz",
+      "Scarlett Johansson"
+    ],
+    "directors": ["Cate Shortland"],
+    "composers": ["Lorne Balfe"],
+    "settings": ["Budapest", "Cuba", "Morocco", "Norway", "Ohio", "Russia"],
+    "genres": ["action", "adventure", "sci-fi", "science fiction", "superhero"],
+    "subjects": [
+      "brainwashing",
+      "child abuse",
+      "free will",
+      "hitman",
+      "psychological manipulation"
+    ]
+  },
   "Captain America: Civil War (2016)": {
     "title": "Captain America: Civil War",
     "imdb": "tt3498820",
@@ -10216,6 +14299,77 @@
     "genres": ["biographical", "biography", "drama", "flashback"],
     "subjects": ["adoption", "computing", "missing person", "Saroo Brierley"]
   },
+  "Solo: A Star Wars Story (2018)": {
+    "title": "Solo: A Star Wars Story",
+    "imdb": "tt3778644",
+    "decade": "2010s",
+    "actors": [
+      "Alden Ehrenreich",
+      "Donald Glover",
+      "Emilia Clarke",
+      "Woody Harrelson"
+    ],
+    "directors": ["Ron Howard"],
+    "composers": ["John Powell", "John Williams"],
+    "settings": ["Corellia", "Kessel", "Mimban", "Savareen", "Vandor"],
+    "genres": [
+      "action",
+      "adventure",
+      "fantasy",
+      "sci-fi",
+      "science fiction",
+      "space western",
+      "speculative/fantastic fiction"
+    ],
+    "subjects": ["Han Solo"]
+  },
+  "La La Land (2016)": {
+    "title": "La La Land",
+    "imdb": "tt3783958",
+    "decade": "2010s",
+    "actors": [
+      "Emma Stone",
+      "J.K. Simmons",
+      "Rosemarie DeWitt",
+      "Ryan Gosling"
+    ],
+    "directors": ["Damien Chazelle"],
+    "composers": ["Justin Hurwitz"],
+    "settings": ["Boulder City", "Los Angeles"],
+    "genres": [
+      "comedy",
+      "comedy drama",
+      "drama",
+      "music",
+      "musical",
+      "romance"
+    ],
+    "subjects": [
+      "acting",
+      "ambition",
+      "career",
+      "culture of Los Angeles",
+      "film industry",
+      "fleeting relationship",
+      "goal pursuit",
+      "intimate relationship",
+      "jazz",
+      "music industry",
+      "romance",
+      "success"
+    ]
+  },
+  "The Nice Guys (2016)": {
+    "title": "The Nice Guys",
+    "imdb": "tt3799694",
+    "decade": "2010s",
+    "actors": ["Angourie Rice", "Matt Bomer", "Russell Crowe", "Ryan Gosling"],
+    "directors": ["Shane Black"],
+    "composers": ["John Ottman"],
+    "settings": ["Los Angeles"],
+    "genres": ["action", "buddy cop", "comedy", "crime", "mystery"],
+    "subjects": null
+  },
   "Baby Driver (2017)": {
     "title": "Baby Driver",
     "imdb": "tt3890160",
@@ -10272,6 +14426,32 @@
       "human bonding",
       "parental death"
     ]
+  },
+  "Maze Runner: The Scorch Trials (2015)": {
+    "title": "Maze Runner: The Scorch Trials",
+    "imdb": "tt4046784",
+    "decade": "2010s",
+    "actors": [
+      "Dylan O'Brien",
+      "Giancarlo Esposito",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster"
+    ],
+    "directors": ["Wes Ball"],
+    "composers": ["John Paesano"],
+    "settings": ["New Mexico"],
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "dystopian",
+      "fantasy",
+      "film based on a novel",
+      "mystery",
+      "post-apocalyptic",
+      "sci-fi"
+    ],
+    "subjects": null
   },
   "Fantastic Beasts: The Crimes of Grindelwald (2018)": {
     "title": "Fantastic Beasts: The Crimes of Grindelwald",
@@ -10380,6 +14560,27 @@
     "genres": ["action", "crime", "thriller"],
     "subjects": null
   },
+  "Nocturnal Animals (2016)": {
+    "title": "Nocturnal Animals",
+    "imdb": "tt4550098",
+    "decade": "2010s",
+    "actors": [
+      "Aaron Taylor-Johnson",
+      "Amy Adams",
+      "Jake Gyllenhaal",
+      "Michael Shannon"
+    ],
+    "directors": ["Tom Ford"],
+    "composers": ["Abel Korzeniowski"],
+    "settings": ["Los Angeles"],
+    "genres": [
+      "drama",
+      "film based on a novel",
+      "rape and revenge",
+      "thriller"
+    ],
+    "subjects": null
+  },
   "The Fate of the Furious (2017)": {
     "title": "The Fate of the Furious",
     "imdb": "tt4630562",
@@ -10443,6 +14644,24 @@
       "women in mathematics"
     ]
   },
+  "Mission: Impossible \u2013 Fallout (2018)": {
+    "title": "Mission: Impossible \u2013 Fallout",
+    "imdb": "tt4912910",
+    "decade": "2010s",
+    "actors": ["Henry Cavill", "Simon Pegg", "Tom Cruise", "Ving Rhames"],
+    "directors": ["Christopher McQuarrie"],
+    "composers": ["Lorne Balfe"],
+    "settings": [
+      "Belfast",
+      "Berlin",
+      "Kashmir",
+      "London",
+      "Paris",
+      "Ramstein Air Base"
+    ],
+    "genres": ["action", "adventure", "thriller"],
+    "subjects": null
+  },
   "Lady Bird (2017)": {
     "title": "Lady Bird",
     "imdb": "tt4925292",
@@ -10464,6 +14683,29 @@
       "tragicomedy"
     ],
     "subjects": null
+  },
+  "Moonlight (2016)": {
+    "title": "Moonlight",
+    "imdb": "tt4975722",
+    "decade": "2010s",
+    "actors": [
+      "Alex R. Hibbert",
+      "Mahershala Ali",
+      "Naomie Harris",
+      "Trevante Rhodes"
+    ],
+    "directors": ["Barry Jenkins"],
+    "composers": ["Nicholas Britell"],
+    "settings": ["Atlanta", "Miami"],
+    "genres": ["drama", "lgbt-related"],
+    "subjects": [
+      "cycle of poverty",
+      "drug-related crime",
+      "dysfunctional family",
+      "homosexuality",
+      "mobbing",
+      "self-discovery"
+    ]
   },
   "Dunkirk (2017)": {
     "title": "Dunkirk",
@@ -10606,6 +14848,30 @@
       "sci-fi",
       "science fiction",
       "thriller"
+    ],
+    "subjects": null
+  },
+  "Deadpool 2 (2018)": {
+    "title": "Deadpool 2",
+    "imdb": "tt5463162",
+    "decade": "2010s",
+    "actors": [
+      "Josh Brolin",
+      "Julian Dennison",
+      "Morena Baccarin",
+      "Ryan Reynolds"
+    ],
+    "directors": ["David Leitch"],
+    "composers": ["Tyler Bates"],
+    "settings": ["Canada", "New York"],
+    "genres": [
+      "action",
+      "adventure",
+      "comedy",
+      "lgbt-related",
+      "speculative/fantastic fiction",
+      "superhero",
+      "time-travel"
     ],
     "subjects": null
   },
@@ -10791,6 +15057,108 @@
     ],
     "subjects": null
   },
+  "A Quiet Place (2018)": {
+    "title": "A Quiet Place",
+    "imdb": "tt6644200",
+    "decade": "2010s",
+    "actors": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "directors": ["John Krasinski"],
+    "composers": ["Marco Beltrami"],
+    "settings": ["New York"],
+    "genres": [
+      "apocalyptic",
+      "drama",
+      "horror",
+      "post-apocalyptic",
+      "sci-fi",
+      "science fiction",
+      "thriller"
+    ],
+    "subjects": [
+      "alien invasion",
+      "communication",
+      "death of one's child",
+      "global catastrophic risk",
+      "predator",
+      "silence",
+      "survival"
+    ]
+  },
+  "Everything Everywhere All at Once (2022)": {
+    "title": "Everything Everywhere All at Once",
+    "imdb": "tt6710474",
+    "decade": "2020s",
+    "actors": [
+      "Jamie Lee Curtis",
+      "Ke Huy Quan",
+      "Michelle Yeoh",
+      "Stephanie Hsu"
+    ],
+    "directors": ["Dan Kwan", "Daniel Scheinert"],
+    "composers": ["Son Lux"],
+    "settings": ["United States of America"],
+    "genres": ["action", "adventure", "comedy", "family", "science fiction"],
+    "subjects": [
+      "chaos",
+      "choice",
+      "failing",
+      "family",
+      "generation gap",
+      "meaning of life",
+      "mediocrity",
+      "midlife crisis",
+      "nihilism",
+      "parallel universe",
+      "parent\u2013child relationship",
+      "possible world",
+      "potential",
+      "self-actualization"
+    ]
+  },
+  "Tenet (2020)": {
+    "title": "Tenet",
+    "imdb": "tt6723592",
+    "decade": "2020s",
+    "actors": [
+      "Elizabeth Debicki",
+      "John David Washington",
+      "Juhan Ulfsak",
+      "Robert Pattinson"
+    ],
+    "directors": ["Christopher Nolan"],
+    "composers": ["Ludwig G\u00f6ransson"],
+    "settings": ["Kyiv", "Mumbai"],
+    "genres": [
+      "action",
+      "sci-fi",
+      "science fiction",
+      "spy",
+      "thriller",
+      "time-travel"
+    ],
+    "subjects": ["causality", "time", "World War III"]
+  },
+  "Hobbs & Shaw (2019)": {
+    "title": "Hobbs & Shaw",
+    "imdb": "tt6806448",
+    "decade": "2010s",
+    "actors": [
+      "Dwayne Johnson",
+      "Idris Elba",
+      "Jason Statham",
+      "Vanessa Kirby"
+    ],
+    "directors": ["David Leitch"],
+    "composers": ["Tyler Bates"],
+    "settings": ["London"],
+    "genres": ["action", "adventure", "thriller"],
+    "subjects": null
+  },
   "Glass (2019)": {
     "title": "Glass",
     "imdb": "tt6823368",
@@ -10840,6 +15208,41 @@
       "psychological repression",
       "self-discovery",
       "self-reflection"
+    ]
+  },
+  "Green Book (2018)": {
+    "title": "Green Book",
+    "imdb": "tt6966692",
+    "decade": "2010s",
+    "actors": [
+      "Linda Cardellini",
+      "Mahershala Ali",
+      "Sebastian Maniscalco",
+      "Viggo Mortensen"
+    ],
+    "directors": ["Peter Farrelly"],
+    "composers": ["Kris Bowers"],
+    "settings": ["Birmingham", "Louisville", "New York City", "Pittsburgh"],
+    "genres": [
+      "biographical",
+      "biography",
+      "comedy",
+      "comedy drama",
+      "drama",
+      "lgbt-related",
+      "road movie"
+    ],
+    "subjects": [
+      "African Americans",
+      "cultural clash",
+      "Don Shirley",
+      "human bonding",
+      "music industry",
+      "racial segregation in the United States",
+      "racism in the United States",
+      "recognition",
+      "social exclusion",
+      "Tony Lip"
     ]
   },
   "Venom: Let There Be Carnage (2021)": {
@@ -10948,6 +15351,24 @@
     "genres": ["comedy drama", "drama", "romance"],
     "subjects": ["child custody", "divorce", "marriage"]
   },
+  "Hereditary (2018)": {
+    "title": "Hereditary",
+    "imdb": "tt7784604",
+    "decade": "2010s",
+    "actors": ["Alex Wolff", "Gabriel Byrne", "Milly Shapiro", "Toni Collette"],
+    "directors": ["Ari Aster"],
+    "composers": ["Colin Stetson"],
+    "settings": ["Utah"],
+    "genres": ["drama", "horror", "mystery"],
+    "subjects": [
+      "death of one's child",
+      "heritage",
+      "intergenerationality",
+      "mental health",
+      "mourning",
+      "parental death"
+    ]
+  },
   "Jumanji: The Next Level (2019)": {
     "title": "Jumanji: The Next Level",
     "imdb": "tt7975244",
@@ -10964,6 +15385,49 @@
       "film based on books"
     ],
     "subjects": null
+  },
+  "Red Notice (2021)": {
+    "title": "Red Notice",
+    "imdb": "tt7991608",
+    "decade": "2020s",
+    "actors": ["Dwayne Johnson", "Gal Gadot", "Ritu Arya", "Ryan Reynolds"],
+    "directors": ["Rawson Marshall Thurber"],
+    "composers": ["Steve Jablonsky"],
+    "settings": null,
+    "genres": ["action", "action thriller", "comedy", "thriller"],
+    "subjects": null
+  },
+  "The Gentlemen (2019)": {
+    "title": "The Gentlemen",
+    "imdb": "tt8367814",
+    "decade": "2010s",
+    "actors": [
+      "Charlie Hunnam",
+      "Jeremy Strong",
+      "Matthew McConaughey",
+      "Michelle Dockery"
+    ],
+    "directors": ["Guy Ritchie"],
+    "composers": ["Christopher Benstead"],
+    "settings": ["London"],
+    "genres": ["action", "comedy", "crime"],
+    "subjects": ["drug-related crime", "masculinity", "repute"]
+  },
+  "1917 (2019)": {
+    "title": "1917",
+    "imdb": "tt8579674",
+    "decade": "2010s",
+    "actors": [
+      "Colin Firth",
+      "Daniel Mays",
+      "Dean-Charles Chapman",
+      "George MacKay"
+    ],
+    "directors": ["Sam Mendes"],
+    "composers": ["Thomas Newman"],
+    "settings": ["France"],
+    "genres": ["action", "drama", "war"],
+    "subjects": ["World War I"]
   },
   "Midsommar (2019)": {
     "title": "Midsommar",
@@ -11079,5 +15543,45 @@
       "superhero"
     ],
     "subjects": null
+  },
+  "The Menu (2022)": {
+    "title": "The Menu",
+    "imdb": "tt9764362",
+    "decade": "2020s",
+    "actors": [
+      "Anya Taylor-Joy",
+      "Hong Chau",
+      "Nicholas Hoult",
+      "Ralph Fiennes"
+    ],
+    "directors": ["Mark Mylod"],
+    "composers": ["Colin Stetson"],
+    "settings": null,
+    "genres": ["black comedy", "comedy horror", "horror", "thriller"],
+    "subjects": null
+  },
+  "The Tomorrow War (2021)": {
+    "title": "The Tomorrow War",
+    "imdb": "tt9777666",
+    "decade": "2020s",
+    "actors": [
+      "Betty Gilpin",
+      "Chris Pratt",
+      "J.K. Simmons",
+      "Yvonne Strahovski"
+    ],
+    "directors": ["Chris McKay"],
+    "composers": ["Lorne Balfe"],
+    "settings": null,
+    "genres": [
+      "action",
+      "adventure",
+      "drama",
+      "military science fiction",
+      "science fiction",
+      "time-travel",
+      "war"
+    ],
+    "subjects": ["alien invasion"]
   }
 }
