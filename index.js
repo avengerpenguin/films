@@ -52,12 +52,20 @@ function renderGuess(corpus, selection, answer) {
           .join(", ")}</p>
     `;
   }
-
   if (corpus[selection].directors) {
     html += `
         <p>Director(s): ${corpus[selection].directors
           .map((x) => {
             return highlight(x, corpus[answer].directors);
+          })
+          .join(", ")}</p>
+    `;
+  }
+  if (corpus[selection].composers) {
+    html += `
+        <p>Music by: ${corpus[selection].composers
+          .map((x) => {
+            return highlight(x, corpus[answer].composers);
           })
           .join(", ")}</p>
     `;
