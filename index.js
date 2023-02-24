@@ -2,12 +2,6 @@ import { default as autoComplete } from "@tarekraafat/autocomplete.js";
 require("@tarekraafat/autocomplete.js/dist/css/autoComplete.02.css");
 const md5 = require("js-md5");
 
-document.getElementsByTagName("main")[0].innerHTML = `
-  <div id="result"></div>
-  <input id="autoComplete" />
-  <ul id="guesses"></ul>
-`;
-
 const now = new Date();
 const today =
   now.getUTCFullYear() +
@@ -15,10 +9,17 @@ const today =
   (now.getUTCMonth() + 1) +
   "-" +
   now.getUTCDate() +
-  "T" +
+  " " +
   now.getUTCHours() +
   ":" +
   now.getUTCMinutes();
+
+document.getElementsByTagName("main")[0].innerHTML = `
+  <div id="result"></div>
+  <input id="autoComplete" />
+  <ul id="guesses"></ul>
+  <small>${today}</small>
+`;
 
 const corpus = await require("./films.json");
 const labels = Object.keys(corpus);
