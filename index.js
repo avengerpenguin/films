@@ -115,13 +115,11 @@ const config = {
       selection: (event) => {
         const selection = event.detail.selection.value;
         if (selection === answer) {
-          document.getElementById(
-            "result",
-          ).innerHTML = `<p class="right">${selection} is correct!</p>`;
+          document.getElementById("result").innerHTML =
+            `<p class="right">${selection} is correct!</p>`;
         } else {
-          document.getElementById(
-            "result",
-          ).innerHTML = `<p class="wrong">Not ${selection}!</p>`;
+          document.getElementById("result").innerHTML =
+            `<p class="wrong">Not ${selection}!</p>`;
         }
 
         const guess = document.createElement("li");
